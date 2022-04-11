@@ -1,0 +1,2249 @@
+[
+  {
+    "name": "Bench Press",
+    "tags": [
+      "Resistance",
+      " weight-lifting",
+      " bench",
+      " free-weights",
+      " barbell"
+    ],
+    "primary": "Chest",
+    "agonists": [
+      " pectoralis major",
+      " anterior deltoid",
+      " triceps",
+      " serratus anterior"
+    ],
+    "variations": [
+      " close grip bench press",
+      " wide grip bench press",
+      " incline bench press",
+      " decline bench press"
+    ],
+    "alternatives": [
+      "Push-ups",
+      "Dumbbell Chest Press",
+      "Chest Press Machine",
+      "Chest Fly Machine",
+      "Dumbbell Chest Fly",
+      "Cable Chest Fly"
+    ]
+  },
+  {
+    "name": "Dumbbell Chest Press",
+    "tags": [
+      "Resistance",
+      " weight-lifting",
+      " bench",
+      " free-weights",
+      " dumbbell"
+    ],
+    "primary": "Chest",
+    "agonists": [
+      " pectoralis major",
+      " anterior deltoid",
+      " triceps",
+      " serratus anterior"
+    ],
+    "variations": [
+      " incline dumbbell chest press",
+      " decline dumbbell chest press"
+    ],
+    "alternatives": [
+      "Bench Press",
+      "Push-ups",
+      "Chest Press Machine",
+      "Chest Fly Machine",
+      "Dumbbell Chest Fly",
+      "Cable Chest Fly"
+    ]
+  },
+  {
+    "name": "Chest Press Machine",
+    "tags": [
+      "Resistance",
+      " weight-lifting",
+      " machine-weights"
+    ],
+    "primary": "Chest",
+    "agonists": [
+      " pectoralis major",
+      " anterior deltoid",
+      " triceps",
+      " serratus anterior"
+    ],
+    "variations": [
+      " incline chest press",
+      " decline chest press"
+    ],
+    "alternatives": [
+      "Push-ups",
+      "Dumbbell Chest Press",
+      "Bench Press",
+      "Chest Fly Machine",
+      "Dumbbell Chest Fly",
+      "Cable Chest Fly"
+    ]
+  },
+  {
+    "name": "Chest Fly Machine",
+    "tags": [
+      "Resistance",
+      " weight-lifting",
+      " machine-weights"
+    ],
+    "primary": "Chest",
+    "agonists": [
+      " pectoralis major",
+      " anterior deltoid",
+      " serratus anterior"
+    ],
+    "alternatives": [
+      "Push-ups",
+      "Dumbbell Chest Press",
+      "Chest Press Machine",
+      "Bench Press",
+      "Dumbbell Chest Fly",
+      "Cable Chest Fly"
+    ]
+  },
+  {
+    "name": "Dumbbell Chest Fly",
+    "tags": [
+      "Resistance",
+      " weight-lifting",
+      " bench",
+      " free-weights",
+      " dumbbell"
+    ],
+    "primary": "Chest",
+    "agonists": [
+      " pectoralis major",
+      " anterior deltoid",
+      " serratus anterior"
+    ],
+    "variations": [
+      " incline dumbbell chest fly",
+      " decline dumbbell chest fly"
+    ],
+    "alternatives": [
+      "Push-ups",
+      "Dumbbell Chest Press",
+      "Chest Press Machine",
+      "Chest Fly Machine",
+      "Bench Press",
+      "Cable Chest Fly"
+    ]
+  },
+  {
+    "name": "Cable Chest Fly",
+    "tags": [
+      "Resistance",
+      " weight-lifting",
+      " cables"
+    ],
+    "primary": "Chest",
+    "agonists": [
+      " pectoralis major",
+      " anterior deltoid",
+      " serratus anterior"
+    ],
+    "variations": [
+      " incline cable chest fly",
+      " decline cable chest fly"
+    ],
+    "alternatives": [
+      "Push-ups",
+      "Dumbbell Chest Press",
+      "Chest Press Machine",
+      "Chest Fly Machine",
+      "Dumbbell Chest Fly",
+      "Bench Press"
+    ]
+  },
+  {
+    "name": "Cable Chest Press",
+    "tags": [
+      "Resistance",
+      " weight-lifting",
+      " cables"
+    ],
+    "primary": "Chest",
+    "agonists": [
+      " pectoralis major",
+      " anterior deltoid",
+      " triceps",
+      " serratus anterior"
+    ],
+    "variations": [
+      " close grip cable chest press",
+      " wide grip cable chest press",
+      " incline cable chest press",
+      " decline cable chest press"
+    ],
+    "alternatives": [
+      "Push-ups",
+      "Bench Press",
+      "Dumbbell Chest Press",
+      "Chest Press Machine",
+      "Chest Fly Machine",
+      "Dumbbell Chest Fly",
+      "Cable Chest Fly"
+    ]
+  },
+  {
+    "name": "Push-ups",
+    "tags": [
+      "Resistance",
+      " calithetics"
+    ],
+    "primary": "Chest",
+    "agonists": [
+      " pectoralis major",
+      " anterior deltoid",
+      " triceps",
+      " serratus anterior"
+    ],
+    "variations": [
+      " close hand push-ups",
+      " wide hand push-ups",
+      " incline push-ups",
+      " decline push-ups"
+    ],
+    "alternatives": [
+      "Cable Chest Fly",
+      "Bench Press",
+      "Dumbbell Chest Press",
+      "Chest Press Machine",
+      "Chest Fly Machine",
+      "Dumbbell Chest Fly",
+      "Cable Chest Fly"
+    ]
+  },
+  {
+    "name": "Military Press",
+    "tags": [
+      "Resistance",
+      " weight-lifting",
+      " free-weights",
+      " barbell"
+    ],
+    "primary": "Shoulders",
+    "agonists": [
+      " anterior deltoid",
+      " middle deltoid",
+      " triceps"
+    ],
+    "variations": [
+    ],
+    "alternatives": [
+      "Military Press",
+      "Front Raise",
+      "Handstand Push-up",
+      "Pike Press",
+      "Upright Row",
+      "Lateral Raise",
+      "Rear Delt Raise",
+      "Reverse Fly",
+      "Standing Cross Row"
+    ]
+  },
+  {
+    "name": "Shoulder Press",
+    "tags": [
+      "Resistance",
+      " weight-lifting",
+      " free-weights",
+      " dumbell"
+    ],
+    "primary": "Shoulders",
+    "agonists": [
+      " anterior deltoid",
+      " middle deltoid",
+      " triceps"
+    ],
+    "variations": [
+    ],
+    "alternatives": [
+      "Military Press",
+      "Front Raise",
+      "Handstand Push-up",
+      "Pike Press",
+      "Upright Row",
+      "Lateral Raise",
+      "Rear Delt Raise",
+      "Reverse Fly",
+      "Standing Cross Row"
+    ]
+  },
+  {
+    "name": "Bent-over Barbell Row",
+    "tags": [
+      "Resistance",
+      " weight-lifting",
+      " free-weights",
+      " dumbell"
+    ],
+    "primary": "Back",
+    "agonists": [
+      " trapezius",
+      " rhomboids",
+      " posterior deltoid",
+      " bicep"
+    ],
+    "variations": [
+      " close grip",
+      " underhand"
+    ],
+    "alternatives": [
+      "Cable Row",
+      "Inverted Row",
+      "Dumbbell Row"
+    ]
+  },
+  {
+    "name": "Cable Row",
+    "tags": [
+      "Resistance",
+      " weight-lifting",
+      " free-weights",
+      " dumbell"
+    ],
+    "primary": "Back",
+    "agonists": [
+      " trapezius",
+      " rhomboids",
+      " posterior deltoid",
+      " bicep"
+    ],
+    "variations": [
+      " close grip",
+      " underhand"
+    ],
+    "alternatives": [
+      "Bent-over Barbell Row",
+      "Inverted Row",
+      "Dumbbell Row"
+    ]
+  },
+  {
+    "name": "Inverted Row",
+    "tags": [
+      "Resistance",
+      " weight-lifting",
+      " free-weights",
+      " dumbell"
+    ],
+    "primary": "Back",
+    "agonists": [
+      " trapezius",
+      " rhomboids",
+      " posterior deltoid",
+      " bicep"
+    ],
+    "variations": [
+      " close grip",
+      " underhand"
+    ],
+    "alternatives": [
+      "Cable Row",
+      "Bent-over Barbell Row",
+      "Dumbbell Row"
+    ]
+  },
+  {
+    "name": "Dumbbell Row",
+    "tags": [
+      "Resistance",
+      " weight-lifting",
+      " free-weights",
+      " dumbell"
+    ],
+    "primary": "Back",
+    "agonists": [
+      " trapezius",
+      " rhomboids",
+      " posterior deltoid",
+      " bicep"
+    ],
+    "variations": [
+      " close grip",
+      " underhand"
+    ],
+    "alternatives": [
+      "Cable Row",
+      "Bent-over Barbell Row",
+      "Inverted Row"
+    ]
+  },
+  {
+    "name": "Inverted Row",
+    "tags": [
+      "Resistance",
+      " weight-lifting",
+      " free-weights",
+      " dumbell"
+    ],
+    "primary": "Back",
+    "agonists": [
+      " trapezius",
+      " rhomboids",
+      " posterior deltoid",
+      " bicep"
+    ],
+    "variations": [
+      " close grip",
+      " underhand"
+    ],
+    "alternatives": [
+      "Cable Row",
+      "Bent-over Barbell Row",
+      "Dumbbell Row"
+    ]
+  },
+  {
+    "name": "Lat Pull Down",
+    "tags": [
+      "Resistance",
+      " weight-lifting",
+      " free-weights",
+      " dumbell"
+    ],
+    "primary": "Lats",
+    "agonists": [
+      " latissimus dorsi",
+      " trapezius",
+      " rhomboids",
+      " posterior deltoid",
+      " bicep"
+    ],
+    "variations": [
+      " close grip",
+      " underhand"
+    ],
+    "alternatives": [
+      "Pull-up"
+    ]
+  },
+  {
+    "name": "Pull-up",
+    "tags": [
+      "Resistance",
+      " weight-lifting",
+      " free-weights",
+      " dumbell"
+    ],
+    "primary": "Lats",
+    "agonists": [
+      " latissimus dorsi",
+      " trapezius",
+      " rhomboids",
+      " posterior deltoid",
+      " bicep"
+    ],
+    "variations": [
+      " close grip",
+      " underhand"
+    ],
+    "alternatives": [
+      "Lat Pull Down"
+    ]
+  },
+  {
+    "name": "Barbell Shrugs",
+    "tags": [
+      "Resistance",
+      " weight-lifting",
+      " free-weights",
+      " dumbell"
+    ],
+    "agonists": [
+      " upper trapezius",
+      " middle trapezius",
+      " levator scapulae"
+    ],
+    "variations": [
+      " close grip",
+      " underhand"
+    ],
+    "alternatives": [
+      "Dumbbell Shrugs"
+    ]
+  },
+  {
+    "name": "Dumbbell Shrugs",
+    "tags": [
+      "Resistance",
+      " weight-lifting",
+      " free-weights",
+      " dumbell"
+    ],
+    "agonists": [
+      " upper trapezius",
+      " middle trapezius",
+      " levator scapulae"
+    ],
+    "variations": [
+      " close grip",
+      " underhand"
+    ],
+    "alternatives": [
+      "Barbell Shrugs"
+    ]
+  },
+  {
+    "name": "Dips",
+    "tags": [
+      "Resistance",
+      " weight-lifting",
+      " free-weights",
+      " dumbell"
+    ],
+    "primary": "Triceps",
+    "agonists": [
+      " triceps brachii",
+      " anterior deltoid"
+    ],
+    "variations": [
+      " close grip",
+      " underhand"
+    ],
+    "alternatives": [
+      "Barbell Tricep Extension",
+      "Cable Tricep Extension",
+      "Dumbbell Tricep Extension"
+    ]
+  },
+  {
+    "name": "Barbell Tricep Extension",
+    "tags": [
+      "Resistance",
+      " weight-lifting",
+      " free-weights",
+      " dumbell"
+    ],
+    "primary": "Triceps",
+    "agonists": [
+      " triceps brachii",
+      " anterior deltoid"
+    ],
+    "variations": [
+      " close grip",
+      " underhand"
+    ],
+    "alternatives": [
+      "Dips",
+      "Cable Tricep Extension",
+      "Dumbbell Tricep Extension"
+    ]
+  },
+  {
+    "name": "Cable Tricep Extension",
+    "tags": [
+      "Resistance",
+      " weight-lifting",
+      " free-weights",
+      " dumbell"
+    ],
+    "primary": "Triceps",
+    "agonists": [
+      " triceps brachii",
+      " anterior deltoid"
+    ],
+    "variations": [
+      " close grip",
+      " underhand"
+    ],
+    "alternatives": [
+      "Dips",
+      "Barbell Tricep Extension",
+      "Dumbbell Tricep Extension"
+    ]
+  },
+  {
+    "name": "Dumbbell Tricep Extension",
+    "tags": [
+      "Resistance",
+      " weight-lifting",
+      " free-weights",
+      " dumbell"
+    ],
+    "primary": "Triceps",
+    "agonists": [
+      " triceps brachii",
+      " anterior deltoid"
+    ],
+    "variations": [
+      " close grip",
+      " underhand"
+    ],
+    "alternatives": [
+      "Dips",
+      "Cable Tricep Extension",
+      "Barbell Tricep Extension"
+    ]
+  },
+  {
+    "name": "Dumbbell Bicep Curl",
+    "tags": [
+      "Resistance",
+      " weight-lifting",
+      " free-weights",
+      " dumbell"
+    ],
+    "primary": "Biceps",
+    "agonists": [
+      " triceps brachii",
+      " anterior deltoid"
+    ],
+    "variations": [
+      " close grip",
+      " underhand"
+    ],
+    "alternatives": [
+      "Cable Bicep Curl",
+      "Barbell Bicep Curl"
+    ]
+  },
+  {
+    "name": "Cable Bicep Curl",
+    "tags": [
+      "Resistance",
+      " weight-lifting",
+      " free-weights",
+      " dumbell"
+    ],
+    "primary": "Biceps",
+    "agonists": [
+      " triceps brachii",
+      " anterior deltoid"
+    ],
+    "variations": [
+      " close grip",
+      " underhand"
+    ],
+    "alternatives": [
+      "Dumbbell Bicep Curl",
+      "Barbell Bicep Curl"
+    ]
+  },
+  {
+    "name": "Barbell Bicep Curl",
+    "tags": [
+      "Resistance",
+      " weight-lifting",
+      " free-weights",
+      " dumbell"
+    ],
+    "primary": "Biceps",
+    "agonists": [
+      " triceps brachii",
+      " anterior deltoid"
+    ],
+    "variations": [
+      " close grip",
+      " underhand"
+    ],
+    "alternatives": [
+      "Dumbbell Bicep Curl",
+      "Cable Bicep Curl"
+    ]
+  },
+  {
+    "name": "Deadlift",
+    "tags": [
+      "Resistance",
+      " weight-lifting",
+      " free-weights",
+      " dumbell"
+    ],
+    "primary": "Glutes",
+    "agonists": [
+      " gluteus maximus",
+      " hamdtrings",
+      " quadriceps",
+      " adductor maagus",
+      " soleus"
+    ],
+    "variations": [
+      " block pull",
+      " rack pull",
+      " summo deadlift",
+      " straight leg Deadlift"
+    ],
+    "alternatives": [
+    ]
+  },
+  {
+    "name": "Squat",
+    "tags": [
+      "Resistance",
+      " weight-lifting",
+      " free-weights",
+      " dumbell"
+    ],
+    "agonists": [
+      " gluteus maximus",
+      " hamdtrings",
+      " quadriceps",
+      " adductor maagus",
+      " soleus"
+
+    ],
+    "variations": [
+      " box squat",
+      " front squat",
+      " hack squat",
+      " back squat",
+      " trap bar squat"
+    ],
+    "alternatives": [
+    ]
+  },
+  {
+    "name": "Lunge",
+    "tags": [
+      "Resistance",
+      " weight-lifting",
+      " free-weights",
+      " dumbell"
+    ],
+    "agonists": [
+      " gluteus maximus",
+      " hamdtrings",
+      " quadriceps",
+      " adductor maagus",
+      " soleus"
+    ],
+    "variations": [
+      " side lunge",
+      " reverse lunge",
+      " walking lunge"
+    ],
+    "alternatives": [
+      "Split Squat"
+    ]
+  },
+  {
+    "name": "Split Squat",
+    "tags": [
+      "Resistance",
+      " weight-lifting",
+      " free-weights",
+      " dumbell"
+    ],
+    "agonists": [
+      " gluteus maximus",
+      " hamdtrings",
+      " quadriceps",
+      " adductor maagus",
+      " soleus"
+    ],
+    "variations": [
+      "single leg split squat"
+    ],
+    "alternatives": [
+      "Lunge"
+    ]
+  },
+  {
+    "name": "Leg Extension",
+    "tags": [
+      "Resistance",
+      " weight-lifting",
+      " free-weights",
+      " dumbell"
+    ],
+    "primary": "Quads",
+    "agonists": [
+      " quadriceps",
+      " adductor maagus",
+      " soleus"
+    ],
+    "variations": [
+    ],
+    "alternatives": [
+    ]
+  },
+  {
+    "name": "Leg Curl",
+    "tags": [
+      "Resistance",
+      " weight-lifting",
+      " machine weights"
+    ],
+    "primary": "Hamstrings",
+    "agonists": [
+      " quadriceps",
+      " adductor maagus",
+      " soleus"
+    ],
+    "variations": [
+    ],
+    "alternatives": [
+      "Good Morning",
+      "Hyperextension"
+    ]
+  },
+  {
+    "name": "Good Morning",
+    "tags": [
+      "Resistance",
+      " weight-lifting",
+      " machine weights"
+    ],
+    "agonists": [
+      " quadriceps",
+      " adductor maagus",
+      " soleus"
+    ],
+    "variations": [
+    ],
+    "alternatives": [
+      "Leg Curl",
+      "Hyperextension"
+    ]
+  },
+  {
+    "name": "Hyperextension",
+    "tags": [
+      "Resistance",
+      " weight-lifting",
+      " machine weights"
+    ],
+    "agonists": [
+      " quadriceps",
+      " adductor maagus",
+      " soleus"
+    ],
+    "variations": [
+    ],
+    "alternatives": [
+      "Good Morning",
+      "Leg Curl"
+    ]
+  },
+  {
+    "name": "Hip Adducition",
+    "tags": [
+      "Resistance",
+      " weight-lifting",
+      " machine weights"
+    ],
+    "primary": "Adductors",
+    "agonists": [
+      " quadriceps",
+      " adductor maagus",
+      " soleus"
+    ],
+    "variations": [
+      " cable hip adduction"
+    ],
+    "alternatives": [
+    ]
+  },
+  {
+    "name": "Hip Abduction",
+    "tags": [
+      "Resistance",
+      " weight-lifting",
+      " machine weights"
+    ],
+    "agonists": [
+      " quadriceps",
+      " adductor maagus",
+      " soleus"
+    ],
+    "primary": "Abductors",
+    "variations": [
+      " cable hip abduction"
+    ],
+    "alternatives": [
+    ]
+  },
+  {
+    "name": "Calf Raises",
+    "tags": [
+      "Resistance",
+      " weight-lifting",
+      " machine weights"
+    ],
+    "primary": "Calves",
+    "agonists": [
+      " quadriceps",
+      " adductor maagus",
+      " soleus"
+    ],
+    "variations": [
+      " seated calf raise",
+      " single leg calf raise",
+      " calf raise machine",
+      " seated calf raise macine"
+    ],
+    "alternatives": [
+    ]
+  },
+  {
+    "name": "Crunch",
+    "tags": [
+      "Resistance",
+      " calithetics"
+    ],
+    "primary": "Abdominals",
+    "agonists": [
+      " quadriceps",
+      " adductor maagus",
+      " soleus"
+    ],
+    "variations": [
+      " Stability Ball Crunch",
+      " Incline Crunch",
+      " Cross Body Crunch"
+    ],
+    "alternatives": [
+      "Sit-up",
+      "Jack-knife Sit-up"
+    ]
+  },
+  {
+    "name": "Sit-up",
+    "tags": [
+      "Resistance",
+      " calithetics"
+    ],
+    "primary": "Abdominals",
+    "agonists": [
+      " quadriceps",
+      " adductor maagus",
+      " soleus"
+    ],
+    "variations": [
+      " Incline Sit-up",
+      " Cross Body Sit-up"
+    ],
+    "alternatives": [
+      "Crunch",
+      "Jack-knife Sit-up"
+    ]
+  },
+  {
+    "name": "Jack-knife Sit-up",
+    "tags": [
+      "Resistance",
+      " calithetics"
+    ],
+    "primary": "Abdominals",
+    "agonists": [
+      " quadriceps",
+      " adductor maagus",
+      " soleus"
+    ],
+    "variations": [
+      " Incline Sit-up",
+      " Cross Body Sit-up"
+    ],
+    "alternatives": [
+      "Crunch",
+      "Sit-up"
+    ]
+  },
+  {
+    "name": "Front Plank",
+    "tags": [
+      "Resistance",
+      " calithetics"
+    ],
+    "primary": "Abdominals",
+    "agonists": [
+      " quadriceps",
+      " adductor maagus",
+      " soleus"
+    ],
+    "variations": [
+      " Kneeling Front Plank",
+      " Stability Ball Front Plank",
+      " Wall Front Plank",
+      " Incline Front Plank"
+    ],
+    "alternatives": [
+      "Stability Ball Rollout",
+      "Ab Wheel Rollout"
+    ]
+  },
+  {
+    "name": "Stability Ball Rollout",
+    "tags": [
+      "Resistance",
+      " calithetics"
+    ],
+    "primary": "Abdominals",
+    "agonists": [
+      " quadriceps",
+      " adductor maagus",
+      " soleus"
+    ],
+    "variations": [
+      " Stability Ball Rollout Circles"
+    ],
+    "alternatives": [
+      "Front Plank",
+      "Ab Wheel Rollout"
+    ]
+  },
+  {
+    "name": "Ab Wheel Rollout",
+    "tags": [
+      "Resistance",
+      " calithetics"
+    ],
+    "primary": "Abdominals",
+    "agonists": [
+      " quadriceps",
+      " adductor maagus",
+      " soleus"
+    ],
+    "variations": [
+    ],
+    "alternatives": [
+      "Front Plank",
+      "Stability Ball Rollout"
+    ]
+  },
+  {
+    "name": "Back Extension",
+    "tags": [
+      "Resistance",
+      " calithetics"
+    ],
+    "primary": "Lower Back",
+    "agonists": [
+      " quadriceps",
+      " adductor maagus",
+      " soleus"
+    ],
+    "variations": [
+      " Back Hyperextension",
+      " Bent Knee Good Morning",
+      " Stability Ball Back Extension"
+    ],
+    "alternatives": [
+      "Bird Dog",
+      "Superman",
+      "Bridge"
+    ]
+  },
+  {
+    "name": "Bird Dog",
+    "tags": [
+      "Resistance",
+      " calithetics"
+    ],
+    "primary": "Lower Back",
+    "agonists": [
+      " quadriceps",
+      " adductor maagus",
+      " soleus"
+    ],
+    "variations": [
+      " Bird Dog Alternating",
+      " Bird Dog Ipsillateral"
+    ],
+    "alternatives": [
+      "Back Extension",
+      "Superman",
+      "Bridge"
+    ]
+  },
+  {
+    "name": "Superman",
+    "tags": [
+      "Resistance",
+      " calithetics"
+    ],
+    "primary": "Lower Back",
+    "agonists": [
+      " quadriceps",
+      " adductor maagus",
+      " soleus"
+    ],
+    "variations": [
+      " Contralateral Superman"
+    ],
+    "alternatives": [
+      "Back Extension",
+      "Bird Dog",
+      "Bridge"
+    ]
+  },
+  {
+    "name": "Bridge",
+    "tags": [
+      "Resistance",
+      " calithetics"
+    ],
+    "primary": "Lower Back",
+    "agonists": [
+      " quadriceps",
+      " adductor maagus",
+      " soleus"
+    ],
+    "variations": [
+      " Isometric Bridge",
+      " Single Leg Bridge"
+    ],
+    "alternatives": [
+      "Back Extension",
+      "Bird Dog",
+      "Superman"
+    ]
+  },
+  {
+    "name": "Russian Twist",
+    "tags": [
+      "Resistance",
+      " calithetics"
+    ],
+    "primary": "Obliques",
+    "agonists": [
+      " quadriceps",
+      " adductor maagus",
+      " soleus"
+    ],
+    "variations": [
+      " Weighted Russian Twist",
+      " Cable Russian Twist",
+      " Stability Ball Russian Twist"
+    ],
+    "alternatives": [
+      "Side Crunch",
+      "Cable Twist",
+      "Side Bridge",
+      "Side Plank"
+    ]
+  },
+  {
+    "name": "Side Crunch",
+    "tags": [
+      "Resistance",
+      " calithetics"
+    ],
+    "primary": "Obliques",
+    "agonists": [
+      " quadriceps",
+      " adductor maagus",
+      " soleus"
+    ],
+    "variations": [
+      " Sability Ball Side Crunch",
+      " Wieghted Side Crunch"
+    ],
+    "alternatives": [
+      "Russian Twist",
+      "Cable Twist",
+      "Side Bridge",
+      "Side Plank"
+    ]
+  },
+  {
+    "name": "Cable Twist",
+    "tags": [
+      "Resistance",
+      " calithetics"
+    ],
+    "primary": "Obliques",
+    "agonists": [
+    ],
+    "variations": [
+      " Cable Twist (High to Low)",
+      " Cable Twist (Low to High)"
+    ],
+    "alternatives": [
+      "Russian Twist",
+      "Side Crunch",
+      "Side Bridge",
+      "Side Plank"
+    ]
+  },
+  {
+    "name": "Side Bridge",
+    "tags": [
+      "Resistance",
+      " calithetics"
+    ],
+    "primary": "Obliques",
+    "agonists": [
+    ],
+    "variations": [
+      " Kneeling Side Bridge"
+    ],
+    "alternatives": [
+      "Russian Twist",
+      "Side Crunch",
+      "Cable Twist",
+      "Side Plank"
+    ]
+  },
+  {
+    "name": "Side Plank",
+    "tags": [
+      "Resistance",
+      " calithetics"
+    ],
+    "primary": "Obliques",
+    "agonists": [
+      " quadriceps",
+      " adductor maagus",
+      " soleus"
+    ],
+    "variations": [
+      "Kneeling Side Plank"
+    ],
+    "alternatives": [
+      "Russian Twist",
+      "Side Crunch",
+      "Cable Twist",
+      "Side Bridge"
+    ]
+  },
+  {
+    "name": "Clean",
+    "tags": [
+      "Power",
+      " weight-lifting",
+      " free weights"
+    ],
+    "agonists": [
+      " quadriceps",
+      " adductor maagus",
+      " soleus"
+    ],
+    "variations": [
+      " Kettlebell Clean"
+    ],
+    "alternatives": [
+      "Clean and Jerk",
+      "Hang Clean",
+      "Jump Shrug",
+      "High Pulls",
+      "Block Pull"
+    ]
+  },
+  {
+    "name": "Clean and Jerk",
+    "tags": [
+      "Power",
+      " weight-lifting",
+      " free weights"
+    ],
+    "agonists": [
+      " quadriceps",
+      " adductor maagus",
+      " soleus"
+    ],
+    "variations": [
+      " Dumbbell Hang Clean",
+      " Dumbbell Hang Clean and Jerk",
+      " Kettlebell Clean and Jerk"
+    ],
+    "alternatives": [
+      "Clean",
+      "Hang Clean",
+      "Jump Shrug",
+      "High Pulls",
+      "Block Pull"
+    ]
+  },
+  {
+    "name": "Hang Clean",
+    "tags": [
+      "Power",
+      " weight-lifting",
+      " free weights"
+    ],
+    "agonists": [
+      " quadriceps",
+      " adductor maagus",
+      " soleus"
+    ],
+    "variations": [
+      " Dumbbell Hang Clean",
+      " Dumbbell Hang Clean and Jerk"
+    ],
+    "alternatives": [
+      "Clean",
+      "Clean and Jerk",
+      "Jump Shrug",
+      "High Pulls",
+      "Block Pull"
+    ]
+  },
+  {
+    "name": "Jump Shrug",
+    "tags": [
+      "Power",
+      " weight-lifting",
+      " free weights"
+    ],
+    "agonists": [
+      " quadriceps",
+      " adductor maagus",
+      " soleus"
+    ],
+    "variations": [
+    ],
+    "alternatives": [
+      "Clean",
+      "Clean and Jerk",
+      "Hang Clean",
+      "High Pulls",
+      "Block Pull"
+    ]
+  },
+  {
+    "name": "High Pulls",
+    "tags": [
+      "Power",
+      " weight-lifting",
+      " free weights"
+    ],
+    "agonists": [
+      " quadriceps",
+      " adductor maagus",
+      " soleus"
+    ],
+    "variations": [
+    ],
+    "alternatives": [
+      "Clean",
+      "Clean and Jerk",
+      "Hang Clean",
+      "Jump Shrug",
+      "Block Pull"
+    ]
+  },
+  {
+    "name": "Block Pulls",
+    "tags": [
+      "Power",
+      " weight-lifting",
+      " free weights"
+    ],
+    "agonists": [
+      " quadriceps",
+      " adductor maagus",
+      " soleus"
+    ],
+    "variations": [
+    ],
+    "alternatives": [
+      "Clean",
+      "Clean and Jerk",
+      "Hang Clean",
+      "Jump Shrug",
+      "High Pulls"
+    ]
+  },
+  {
+    "name": "Snatch",
+    "tags": [
+      "Power",
+      " weight-lifting",
+      " free weights"
+    ],
+    "agonists": [
+      " quadriceps",
+      " adductor maagus",
+      " soleus"
+    ],
+    "variations": [
+      " Deficit Snatch",
+      " Dumbbell Snatch",
+      " Kettlebell Snatch"
+    ],
+    "alternatives": [
+      "Hang Snatch",
+      "Block Snatch",
+      "Block Snatch Pull",
+      "High Block Snatch"
+    ]
+  },
+  {
+    "name": "Hang Snatch",
+    "tags": [
+      "Power",
+      " weight-lifting",
+      " free weights"
+    ],
+    "agonists": [
+      " quadriceps",
+      " adductor maagus",
+      " soleus"
+    ],
+    "variations": [
+    ],
+    "alternatives": [
+      "Snatch",
+      "Block Snatch",
+      "Block Snatch Pull",
+      "High Block Snatch"
+    ]
+  },
+  {
+    "name": "Block Snatch",
+    "tags": [
+      "Power",
+      " weight-lifting",
+      " free weights"
+    ],
+    "agonists": [
+      " quadriceps",
+      " adductor maagus",
+      " soleus"
+    ],
+    "variations": [
+    ],
+    "alternatives": [
+      "Snatch",
+      "Hang Snatch",
+      "Block Snatch Pull",
+      "High Block Snatch"
+    ]
+  },
+  {
+    "name": "Block Snatch Pull",
+    "tags": [
+      "Power",
+      " weight-lifting",
+      " free weights"
+    ],
+    "agonists": [
+      " quadriceps",
+      " adductor maagus",
+      " soleus"
+    ],
+    "variations": [
+    ],
+    "alternatives": [
+      "Snatch",
+      "Hang Snatch",
+      "Block Snatch",
+      "High Block Snatch"
+    ]
+  },
+  {
+    "name": "High Block Snatch",
+    "tags": [
+      "Power",
+      " weight-lifting",
+      " free weights"
+    ],
+    "description": "",
+    "agonists": [
+      " quadriceps",
+      " adductor maagus",
+      " soleus"
+    ],
+    "variations": [
+    ],
+    "alternatives": [
+      "Snatch",
+      "Hang Snatch",
+      "Block Snatch",
+      "Block Snatch Pull"
+    ]
+  },
+  {
+    "name": "Push Press",
+    "tags": [
+      "Power",
+      " weight-lifting",
+      " free weights"
+    ],
+    "description": "Place the bar high on your chest with an overhand hold somewhat broader than shoulder width and tighten your torso. Dip your body by slightly bending your knees, hips, and ankles. Drive up with your legs, driving the barbell off your shoulders and fiercely stretching your arms overhead. Return to your shoulders.",
+    "agonists": [
+      " quadriceps",
+      " adductor maagus",
+      " soleus"
+    ],
+    "variations": [
+    ],
+    "alternatives": [
+      "Split Jerk"
+    ]
+  },
+  {
+    "name": "Split Jerk",
+    "tags": [
+      "Power",
+      " weight-lifting",
+      " free weights"
+    ],
+    "description": "Position your chest high and your torso tight. Dip your body by slightly bending your knees and ankles while keeping pressure on your heels. Drive the barbell up off the shoulders by exploding upward with the legs. Drop your body to the ground and split one foot forward and the other backward as quickly as you can while extending your arms over your head. The split position has the front shin parallel to the floor and the front foot level on the ground. The back knee is slightly bent, and the back foot is on toes. The bar should be held at arm's length directly over the ears, with the back straight. With both legs, push up. By putting the front foot back a portion of the way and then bringing the back foot forward, you can place your feet side by side. Return to your shoulders and continue the process.",
+    "agonists": [
+      " quadriceps",
+      " adductor maagus",
+      " soleus"
+    ],
+    "variations": [
+    ],
+    "alternatives": [
+      "Push Press"
+    ]
+  },
+  {
+    "name": "Kettlebell Swings",
+    "tags": [
+      "Power",
+      " weight-lifting",
+      " free weights"
+    ],
+    "description": "Stand in front of the kettlebell with your feet slightly wider than shoulder width apart. Bend over at the hips, keeping your knees bent and your back straight. Extend arms downward and use an overhand grip to grab the kettlebell with both hands. Lift the kettlebell off the floor and pull the forearms into the inner thighs, maintaining the hips and knees bent and the low back tense. To press the kettlebell forward and upward, drive your hips forward, torso upright, and knees straight. Allow the kettlebell to return to its original position. Hinge at the hips while bending the knees as the kettlebell approaches the lower position. Kettlebell swings back under hips as forearms make contact with inner thighs. Repeat the exercise and continue to swing the kettlebell. Maintain height swings from shoulder to eye level. ",
+    "agonists": [
+      " quadriceps",
+      " adductor maagus",
+      " soleus"
+    ],
+    "variations": [
+      " Two Arm Swing",
+      " Two Arm Overhead Swing",
+      " Two Arm Swing Catch",
+      " Alternative Swing Catch",
+      " Alternative Swing Fip Catch"
+    ],
+    "alternatives": [
+    ]
+  },
+  {
+    "name": "Cycling",
+    "tags": [
+      "Cardio",
+      " non-weight bearing",
+      " bike",
+      " stationary bike",
+      " cycle"
+    ],
+    "intensity": [ "Low", "Moderate", "High" ],
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZF8Djmb0oW2Gnk-m3fbZVl1DFsH9dWUgn8A&usqp=CAU"
+  },
+  {
+    "name": "Running",
+    "text": "Typical cardio exercise that requires very little equipment and can be performed in a variety of ways, from a light jog to high intensity sprinting",
+    "tags": [
+      "Cardio",
+      " weight-bearing",
+      " no equipment",
+      " treadmill"
+    ],
+    "intensity": "High",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk1S2Sxnv8hkdQBLcsIoVlDknFyGortZDd8w&usqp=CAU"
+  },
+  {
+    "name": "Swimming",
+    "tags": [
+      "Cardio",
+      " non-weight bearing",
+      " no equipment",
+      " water based exercise"
+    ],
+    "intensity": [ "Moderate", "High" ],
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ07IeRbKJcNtwqi7EzZ9wa5p9MASQIfPR2Yw&usqp=CAU"
+  },
+  {
+    "name": "Walking",
+    "tags": [
+      "Cardio",
+      " weight-bearing",
+      " no equipment",
+      " treadmill"
+    ],
+    "intensity": [ "Low", "Moderate" ],
+    "description": "Walking is perhaps the most basic kind of exercise, and it can be done practically anyplace. There are many reasons to begin walking for exercise. Your heart will become stronger, your blood pressure will drop, and your bones will become stronger. Walking also relieves stress, improves sleep, and improves your view on life.",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9uL5v631ZtxW2DCJP4y-Btf72Noz4Kt0WAw&usqp=CAU",
+    "progression": [
+      { "beginner": "Start out walking on a flat safe surface or treadmill for 10 - 20 minutes." },
+      { "intermidiate": "Increase your walking duration to 20 - 30 minutes. For added intensity, try walking on a slight uphill gradiant." },
+      { "advanced": "Increase your walking duration to 30 - 60 minutes. For added intensity, try walking on a slight to moderate uphill gradiant." }
+    ],
+    "tips": [
+      "Avoid walking outdoors in extreme temperatures and severe weather conditions.",
+      "Make sure you are well hydrated and have water avaliable before exercising."
+    ]
+  },
+  {
+    "name": "Eliptical",
+    "tags": [
+      "Cardio",
+      " non-weight bearing",
+      " no equipment",
+      " water based exercise"
+    ],
+    "intensity": [ "Moderate", "High" ],
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfd_UK_6Y0yWYeiXlMtWIGLV4xSeG7qwZ6OQ&usqp=CAU"
+  },
+  {
+    "name": "Arc Trainier",
+    "tags": [
+      "Cardio",
+      " non-weight bearing",
+      " no equipment",
+      " water based exercise"
+    ],
+    "intensity": [ "Moderate", "High" ],
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIhM5rdvg-L34u9p703FyPmUIru__82P0d-g&usqp=CAU"
+  },
+  {
+    "name": "Stairs",
+    "tags": [
+      "Cardio",
+      " non-weight bearing",
+      " no equipment",
+      " water based exercise"
+    ],
+    "intensity": [ "Moderate", "High" ],
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaj_xoUdm9wckvA2PJYuxSbjPCt7FwiMOKwg&usqp=CAU"
+  },
+  {
+    "name": "Ladder Machines",
+    "tags": [
+      "Cardio",
+      " non-weight bearing",
+      " no equipment",
+      " water based exercise"
+    ],
+    "intensity": "High",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmA7sJ29pBnaHtYq30NPAFGhBvsZUQ580dAqspOMOBv2GHT4hcNF7NWUloDf1f0jqlGbA&usqp=CAU"
+  },
+  {
+    "name": "Rowing",
+    "tags": [
+      "Cardio",
+      " non-weight bearing",
+      " no equipment",
+      " water based exercise"
+    ],
+    "intensity": [ "Moderate", "High" ],
+    "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/rowing-workout-shoot-1481-1594750726.jpg?crop=1.00xw:0.752xh;0.00160xw,0.0577xh&resize=1200:*"
+  },
+  {
+    "name": "Stepping",
+    "tags": [
+      "Cardio",
+      " non-weight bearing",
+      " no equipment",
+      " water based exercise"
+    ],
+    "intensity": [ "Moderate", "High" ],
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYPAb6TRzrSCXGS-Gud6iWSaZsXdPhSSNoHw&usqp=CAU"
+  },
+  {
+    "name": "Arm Cycling",
+    "tags": [
+      "Cardio",
+      " non-weight bearing",
+      " no equipment",
+      " water based exercise"
+    ],
+    "intensity": [ "Moderate", "High" ],
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfPgf3NepLAy3oWe5ybV22H5mxV95YjwEsoA&usqp=CAU"
+  },
+  {
+    "name": "Hiking",
+    "tags": [
+      "Cardio",
+      " non-weight bearing",
+      " no equipment",
+      " water based exercise"
+    ],
+    "intensity": [ "Moderate", "High" ],
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPIfnyypkFs3Usx2bKmSAgpzeWZpyRS3Xt-A&usqp=CAU"
+  },
+  {
+    "name": "Dancing",
+    "tags": [
+      "Cardio",
+      " non-weight bearing",
+      " no equipment",
+      " water based exercise"
+    ],
+    "intensity": [ "Low", "Moderate", "High" ],
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUUpSnbzvvhwsFgkO3Eaj0chjZgFdhtEL7Mw&usqp=CAU"
+  },
+  {
+    "name": "Cat",
+    "tags": [
+      "Mobility",
+      " stretch",
+      " dynamic"
+    ],
+    "muscle group": [
+    ],
+    "variations": [
+      " Cat-Cow",
+      " Bent-over Cat Stretch"
+    ],
+    "alternatives": [
+      "Lying Lower Back Stretch"
+    ]
+  },
+  {
+    "name": "Lying Lower Back Stretch",
+    "tags": [
+      "Mobility",
+      " stretch",
+      " dynamic"
+    ],
+    "muscle group": [
+    ],
+    "variations": [
+    ],
+    "alternatives": [
+      "Cat"
+    ]
+  },
+  {
+    "name": "Lying Lower Back Stretch",
+    "tags": [
+      "Mobility",
+      " stretch",
+      " dynamic"
+    ],
+    "muscle group": [
+    ],
+    "variations": [
+    ],
+    "alternatives": [
+      "Cat"
+    ]
+  },
+  {
+    "name": "Doorway Chest Stretch",
+    "tags": [
+      "Mobility",
+      " stretch",
+      " dynamic"
+    ],
+    "muscle group": [
+    ],
+    "variations": [
+      " Single Arm Doorway Chest Stretch",
+      " Stability Ball Chest Stretch"
+    ],
+    "alternatives": [
+      "Behind Head Chest Stretch"
+    ]
+  },
+  {
+    "name": "Behind Head Chest Stretch",
+    "tags": [
+      "Mobility",
+      " stretch",
+      " dynamic"
+    ],
+    "muscle group": [
+    ],
+    "variations": [
+    ],
+    "alternatives": [
+      "Doorway Chest Stretch"
+    ]
+  },
+  {
+    "name": "Standing Side Stretch",
+    "tags": [
+      "Mobility",
+      " stretch",
+      " dynamic"
+    ],
+    "muscle group": [
+    ],
+    "variations": [
+      "Seated Side Stretch"
+    ],
+    "alternatives": [
+      ""
+    ]
+  },
+  {
+    "name": "Lying Lat Stretch",
+    "tags": [
+      "Mobility",
+      " stretch",
+      " dynamic"
+    ],
+    "muscle group": [
+    ],
+    "variations": [
+      ""
+    ],
+    "alternatives": [
+      "Child's Pose"
+    ]
+  },
+  {
+    "name": "Child's Pose",
+    "tags": [
+      "Mobility",
+      " stretch",
+      " yoga"
+    ],
+    "muscle group": [
+    ],
+    "variations": [
+      ""
+    ],
+    "alternatives": [
+      "Lying Lat Stretch"
+    ]
+  },
+  {
+    "name": "Agility Ladder Run",
+    "tags": [
+      "Agility"
+    ],
+    "description": "",
+    "muscle group": [
+    ],
+    "variations": [
+      " One Foot Each Hole",
+      " Two Feet Each Hole",
+      " Skip a Hole"
+    ],
+    "alternatives": [
+      "Agility Ladder High Knees",
+      "Agility Ladder Side Shuffle",
+      "Agility Ladder Hop",
+      "Agility Ladder In Out",
+      "Agility Ladder Ali Shuffle",
+      "Agility Ladder Icky Shuffle",
+      "Agility Ladder Quarter Turn"
+    ]
+  },
+  {
+    "name": "Agility Ladder High Knees",
+    "tags": [
+      "Agility"
+    ],
+    "muscle group": [
+    ],
+    "variations": [
+      " One Foot Each Hole",
+      " Two Feet Each Hole",
+      " Skip a Hole"
+    ],
+    "alternatives": [
+      "Agility Ladder Run",
+      "Agility Ladder Side Shuffle",
+      "Agility Ladder Hop",
+      "Agility Ladder In Out",
+      "Agility Ladder Ali Shuffle",
+      "Agility Ladder Icky Shuffle",
+      "Agility Ladder Quarter Turn"
+    ]
+  },
+  {
+    "name": "Agility Ladder Side Shuffle",
+    "tags": [
+      "Agility"
+    ],
+    "muscle group": [
+    ],
+    "variations": [
+      " Skip a Hole"
+    ],
+    "alternatives": [
+      "Agility Ladder Run",
+      "Agility Ladder High Knees",
+      "Agility Ladder Hop",
+      "Agility Ladder In Out",
+      "Agility Ladder Ali Shuffle",
+      "Agility Ladder Icky Shuffle",
+      "Agility Ladder Quarter Turn"
+    ]
+  },
+  {
+    "name": "Agility Ladder Hop",
+    "tags": [
+      "Agility"
+    ],
+    "muscle group": [
+    ],
+    "variations": [
+      " Skip a Hole",
+      " Single Leg",
+      " Single Leg, Skip a Hole",
+      " Lateral Hop",
+      " Lateral Hop Single Leg"
+    ],
+    "alternatives": [
+      "Agility Ladder Run",
+      "Agility Ladder High Knees",
+      "Agility Ladder Side Shuffle",
+      "Agility Ladder In Out",
+      "Agility Ladder Ali Shuffle",
+      "Agility Ladder Icky Shuffle",
+      "Agility Ladder Quarter Turn"
+    ]
+  },
+  {
+    "name": "Agility Ladder In Out",
+    "tags": [
+      "Agility"
+    ],
+    "muscle group": [
+    ],
+    "variations": [
+      " In, In, Out, Out",
+      " In, In, Out, Out Weaving",
+      " Straddle Hop In Out",
+      " Hopscotch"
+    ],
+    "alternatives": [
+      "Agility Ladder Run",
+      "Agility Ladder High Knees",
+      "Agility Ladder Side Shuffle",
+      "Agility Ladder Hop",
+      "Agility Ladder Ali Shuffle",
+      "Agility Ladder Icky Shuffle",
+      "Agility Ladder Quarter Turn"
+    ]
+  },
+  {
+    "name": "Agility Ladder Ali Shuffle",
+    "tags": [
+      "Agility"
+    ],
+    "muscle group": [
+    ],
+    "variations": [
+    ],
+    "alternatives": [
+      "Agility Ladder Run",
+      "Agility Ladder High Knees",
+      "Agility Ladder Side Shuffle",
+      "Agility Ladder Hop",
+      "Agility Ladder In Out",
+      "Agility Ladder Icky Shuffle",
+      "Agility Ladder Quarter Turn"
+    ]
+  },
+  {
+    "name": "Agility Ladder Icky Shuffle",
+    "tags": [
+      "Agility"
+    ],
+    "muscle group": [
+    ],
+    "variations": [
+      "Heisman Shuffle"
+    ],
+    "alternatives": [
+      "Agility Ladder Run",
+      "Agility Ladder High Knees",
+      "Agility Ladder Side Shuffle",
+      "Agility Ladder Hop",
+      "Agility Ladder In Out",
+      "Agility Ladder Ali Shuffle",
+      "Agility Ladder Quarter Turn"
+    ]
+  },
+  {
+    "name": "Agility Ladder Quarter Turn",
+    "tags": [
+      "Agility"
+    ],
+    "muscle group": [
+    ],
+    "variations": [
+    ],
+    "alternatives": [
+      "Agility Ladder Run",
+      "Agility Ladder High Knees",
+      "Agility Ladder Side Shuffle",
+      "Agility Ladder Hop",
+      "Agility Ladder In Out",
+      "Agility Ladder Ali Shuffle",
+      "Agility Ladder Icky Shuffle"
+    ]
+  },
+  {
+    "name": "X Drill",
+    "tags": [
+      "Agility",
+      " Dot Drill"
+    ],
+    "description": "Start with feet split, one foot on dot 1 and one on dot 2. Jump to dot 3 with both feet, then to dots 4 and 5 with feet split. Repeat the steps jumping backward.",
+    "muscle group": [
+    ],
+    "variations": [
+      {
+        "name": "X Drill Hopscotch",
+        "description": "Start with feet split, one foot on dot 1 and one on dot 2. Jump to dot 3 with ONE foot, then split feet to dots 4 and 5. Repeat jumping backward with same or alternate foot landing in the middle."
+      },
+      {
+        "name": "X Drill Turn Around",
+        "description": "This is the same as the X Drill or X Drill Hopscotch except that when you get to the top or bottom, you turn your body around to go in the other direction."
+      }
+    ],
+    "alternatives": [
+      "Z Drill",
+      "M Drill",
+      "Figure 8 Drill",
+      "Triangle Drill",
+      "Box Drill"
+    ]
+  },
+  {
+    "name": "Z Drill",
+    "tags": [
+      "Agility",
+      " Dot Drill"
+    ],
+    "description": "Form a Z pattern (4-5-3-1-2) keeping both feet together.",
+    "muscle group": [
+    ],
+    "variations": [
+      {
+        "name": "Z Drill Single Leg",
+        "description": "Form a Z pattern (4-5-3-1-2) on a single leg."
+      }
+    ],
+    "alternatives": [
+      "X Drill",
+      "M Drill",
+      "Figure 8 Drill",
+      "Triangle Drill",
+      "Box Drill"
+    ]
+  },
+  {
+    "name": "M Drill",
+    "tags": [
+      "Agility",
+      " Dot Drill"
+    ],
+    "description": "Form an M pattern (4-5-3-2-1) keeping your feet together.",
+    "muscle group": [
+    ],
+    "variations": [
+      {
+        "name": "M Drill Single Leg",
+        "description": "Form an M pattern (4-5-3-2-1) while on a single leg."
+      }
+    ],
+    "alternatives": [
+      "X Drill",
+      "Z Drill",
+      "Figure 8 Drill",
+      "Triangle Drill",
+      "Box Drill"
+    ]
+  },
+  {
+    "name": "Figure 8 Drill",
+    "tags": [
+      "Agility",
+      " Dot Drill"
+    ],
+    "description": "Form a figure eight (4-5-3-1-2-3-4) down and back, keeping feet together.",
+    "muscle group": [
+    ],
+    "variations": [
+      {
+        "name": "Figure 8 Drill Single Leg",
+        "description": "Form a figure eight (4-5-3-1-2-3-4) down and back, keeping on one foot."
+      }
+    ],
+    "alternatives": [
+      "X Drill",
+      "Z Drill",
+      "M Drill",
+      "Triangle Drill",
+      "Box Drill"
+    ]
+  },
+  {
+    "name": "Trianlge Drill",
+    "tags": [
+      "Agility",
+      " Dot Drill"
+    ],
+    "description": "Keep feet together and hop in a counterclockwise direction (2-3-1-2) or a clockwise direction (1-3-2-1) to form a triangle.",
+    "muscle group": [
+    ],
+    "variations": [
+      {
+        "name": "Triangle Drill Single Leg",
+        "description": "On one leg, hop in a counterclockwise direction (2-3-1-2) or a clockwise direction (1-3-2-1) to form a triangle."
+      }
+    ],
+    "alternatives": [
+      "X Drill",
+      "Z Drill",
+      "M Drill",
+      "Figure 8 Drill",
+      "Box Drill"
+    ]
+  },
+  {
+    "name": "Box Drill",
+    "tags": [
+      "Agility",
+      " Dot Drill"
+    ],
+    "description": "Keep feet together and hop the perimeter of the square (1-4-5-2-1), facing the same direction at all times.",
+    "muscle group": [
+    ],
+    "variations": [
+      {
+        "name": "Box Drill Single Leg",
+        "description": "On one leg, hop the perimeter of the square (1-4-5-2-1), facing the same direction at all times."
+      }
+    ],
+    "alternatives": [
+      "X Drill",
+      "Z Drill",
+      "M Drill",
+      "Figure 8 Drill",
+      "Triangle Drill"
+    ]
+  },
+  {
+    "name": "Shuttle Run",
+    "tags": [
+      "Agility"
+    ],
+    "muscle group": [
+    ],
+    "variations": [
+    ],
+    "alternatives": [
+    ]
+  },
+  {
+    "name": "Mountain Pose",
+    "tags": [
+      "Balance",
+      " Yoga"
+    ],
+    "variations": [
+      " Forward Fold"
+    ],
+    "alternatives": [
+      "Warrior Pose",
+      "Triangle Pose",
+      "Crescent Lunge",
+      "Tree Pose",
+      "Chair Pose",
+      "Dancer Pose"
+    ]
+  },
+  {
+    "name": "Warrior Pose",
+    "tags": [
+      "Balance",
+      " Yoga"
+    ],
+    "variations": [
+      " Warrior I",
+      " Warrior II",
+      " Warrior III"
+    ],
+    "alternatives": [
+      "Mountain Pose",
+      "Triangle Pose",
+      "Crescent Lunge",
+      "Tree Pose",
+      "Chair Pose",
+      "Dancer Pose"
+    ]
+  },
+  {
+    "name": "Warrior Pose",
+    "tags": [
+      "Balance",
+      " Yoga"
+    ],
+    "variations": [
+      " Twisting Triangle"
+    ],
+    "alternatives": [
+      "Mountain Pose",
+      "Triangle Pose",
+      "Crescent Lunge",
+      "Tree Pose",
+      "Chair Pose",
+      "Dancer Pose"
+    ]
+  },
+  {
+    "name": "Crescent Lunge",
+    "tags": [
+      "Balance",
+      " Yoga"
+    ],
+    "variations": [
+      " Crescent Lunge with Catcus Arms"
+    ],
+    "alternatives": [
+      "Mountain Pose",
+      "Triangle Pose",
+      "Warrior Pose",
+      "Tree Pose",
+      "Chair Pose",
+      "Dancer Pose"
+    ]
+  },
+  {
+    "name": "Tree Pose",
+    "tags": [
+      "Balance",
+      " Yoga"
+    ],
+    "variations": [
+    ],
+    "alternatives": [
+      "Mountain Pose",
+      "Triangle Pose",
+      "Warrior Pose",
+      "Crescent Lunge",
+      "Chair Pose",
+      "Dancer Pose"
+    ]
+  },
+  {
+    "name": "Chair Pose",
+    "tags": [
+      "Balance",
+      " Yoga"
+    ],
+    "variations": [
+      " Figure 4 Chair Pose"
+    ],
+    "alternatives": [
+      "Mountain Pose",
+      "Triangle Pose",
+      "Warrior Pose",
+      "Crescent Lunge",
+      "Tree Pose",
+      "Dancer Pose"
+    ]
+  },
+  {
+    "name": "Dancer Pose",
+    "tags": [
+      "Balance",
+      " Yoga"
+    ],
+    "variations": [
+    ],
+    "alternatives": [
+      "Mountain Pose",
+      "Triangle Pose",
+      "Warrior Pose",
+      "Crescent Lunge",
+      "Tree Pose",
+      "Chair Pose"
+    ]
+  }
+]
