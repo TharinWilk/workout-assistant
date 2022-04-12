@@ -1,7 +1,7 @@
 <template lang="html">
   <v-card elevation="3" class="border mx-auto" width="90%">
     <v-card-subtitle class="text-h5">
-      Balance
+      Power
     </v-card-subtitle>
     <v-card-text>
       <v-row>
@@ -10,7 +10,7 @@
         </v-col>
         </v-col>
         <v-col align="center" cols="4">
-          {{ balance }}
+          {{ power }}
         </v-col>
         <v-col v-for="item in workoutMetrics" :key="item" align="center" cols="4">
           {{ item }}
@@ -35,7 +35,7 @@ export default {
   },
   computed: {
     ...mapGetters({
-      balance: 'balance'
+      power: 'power'
     })
   }
 }

@@ -31,8 +31,10 @@ export default {
       ]
     }
   },
-  computed: mapGetters({
-    resistance: 'resistance'
-  })
+  computed: {
+    ...mapGetters({
+      balance: 'mobility'
+    })
+  }
 }
 </script>

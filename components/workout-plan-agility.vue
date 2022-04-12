@@ -1,15 +1,17 @@
 <template lang="html">
   <v-card elevation="3" class="border mx-auto" width="90%">
     <v-card-subtitle class="text-h5">
-      Cardio
+      Agility
     </v-card-subtitle>
     <v-card-text>
       <v-row>
         <v-col v-for="item in layout" :key="item" align="center" cols="4">
           <span class="text-decoration-underline">{{ item }}</span>
         </v-col>
+        <v-col align="center" cols="4">
+          {{ agility }}
         </v-col>
-        <v-col v-for="item in cardio" :key="item" align="center" cols="4">
+        <v-col v-for="item in agility" :key="item" align="center" cols="4">
           {{ item }}
         </v-col>
       </v-row>
@@ -25,13 +27,16 @@ export default {
     return {
       layout: [
         'Exercise',
-        'Min.',
+        'Sets',
         'Intervals'
       ]
     }
   },
-  computed: mapGetters({
-    cardio: 'cardio'
-  })
+  computed: {
+    ...mapGetters({
+      agility: 'agility',
+      intensity: 'intensity'
+    })
+  }
 }
 </script>

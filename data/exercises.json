@@ -1519,10 +1519,9 @@
     "tags": [
       "Cardio",
       " non-weight bearing",
-      " bike",
-      " stationary bike",
       " cycle"
     ],
+    "equipment": [ "Bike", "Stationary Bike" ],
     "intensity": [ "Low", "Moderate", "High" ],
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZF8Djmb0oW2Gnk-m3fbZVl1DFsH9dWUgn8A&usqp=CAU"
   },
@@ -1531,10 +1530,9 @@
     "text": "Typical cardio exercise that requires very little equipment and can be performed in a variety of ways, from a light jog to high intensity sprinting",
     "tags": [
       "Cardio",
-      " weight-bearing",
-      " no equipment",
-      " treadmill"
+      " weight-bearing"
     ],
+    "equipment": [ "Calithetics", "Treadmill"],
     "intensity": "High",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk1S2Sxnv8hkdQBLcsIoVlDknFyGortZDd8w&usqp=CAU"
   },
@@ -1543,9 +1541,9 @@
     "tags": [
       "Cardio",
       " non-weight bearing",
-      " no equipment",
       " water based exercise"
     ],
+    "equipment": "Pool",
     "intensity": [ "Moderate", "High" ],
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ07IeRbKJcNtwqi7EzZ9wa5p9MASQIfPR2Yw&usqp=CAU"
   },
@@ -1553,10 +1551,9 @@
     "name": "Walking",
     "tags": [
       "Cardio",
-      " weight-bearing",
-      " no equipment",
-      " treadmill"
+      " weight-bearing"
     ],
+    "equipment": [ "Calithetics", "Treadmill"],
     "intensity": [ "Low", "Moderate" ],
     "description": "Walking is perhaps the most basic kind of exercise, and it can be done practically anyplace. There are many reasons to begin walking for exercise. Your heart will become stronger, your blood pressure will drop, and your bones will become stronger. Walking also relieves stress, improves sleep, and improves your view on life.",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9uL5v631ZtxW2DCJP4y-Btf72Noz4Kt0WAw&usqp=CAU",
@@ -1574,10 +1571,9 @@
     "name": "Eliptical",
     "tags": [
       "Cardio",
-      " non-weight bearing",
-      " no equipment",
-      " water based exercise"
+      " non-weight bearing"
     ],
+    "equipment": "Eliptical",
     "intensity": [ "Moderate", "High" ],
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfd_UK_6Y0yWYeiXlMtWIGLV4xSeG7qwZ6OQ&usqp=CAU"
   },
@@ -1585,10 +1581,9 @@
     "name": "Arc Trainier",
     "tags": [
       "Cardio",
-      " non-weight bearing",
-      " no equipment",
-      " water based exercise"
+      " non-weight bearing"
     ],
+    "equipment": "Arc Trainer",
     "intensity": [ "Moderate", "High" ],
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIhM5rdvg-L34u9p703FyPmUIru__82P0d-g&usqp=CAU"
   },
@@ -1596,10 +1591,9 @@
     "name": "Stairs",
     "tags": [
       "Cardio",
-      " non-weight bearing",
-      " no equipment",
-      " water based exercise"
+      " weight bearing"
     ],
+    "equipment": "Stair Machine",
     "intensity": [ "Moderate", "High" ],
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaj_xoUdm9wckvA2PJYuxSbjPCt7FwiMOKwg&usqp=CAU"
   },
@@ -1607,10 +1601,9 @@
     "name": "Ladder Machines",
     "tags": [
       "Cardio",
-      " non-weight bearing",
-      " no equipment",
-      " water based exercise"
+      " weight bearing"
     ],
+    "equipment": "Ladder Machine",
     "intensity": "High",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmA7sJ29pBnaHtYq30NPAFGhBvsZUQ580dAqspOMOBv2GHT4hcNF7NWUloDf1f0jqlGbA&usqp=CAU"
   },
@@ -1618,10 +1611,9 @@
     "name": "Rowing",
     "tags": [
       "Cardio",
-      " non-weight bearing",
-      " no equipment",
-      " water based exercise"
+      " non-weight bearing"
     ],
+    "equipment": "Rowing Machine",
     "intensity": [ "Moderate", "High" ],
     "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/rowing-workout-shoot-1481-1594750726.jpg?crop=1.00xw:0.752xh;0.00160xw,0.0577xh&resize=1200:*"
   },
@@ -1629,10 +1621,9 @@
     "name": "Stepping",
     "tags": [
       "Cardio",
-      " non-weight bearing",
-      " no equipment",
-      " water based exercise"
+      " weight bearing"
     ],
+    "equipment": "Calithetics",
     "intensity": [ "Moderate", "High" ],
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYPAb6TRzrSCXGS-Gud6iWSaZsXdPhSSNoHw&usqp=CAU"
   },
@@ -1644,6 +1635,7 @@
       " no equipment",
       " water based exercise"
     ],
+    "equipment": "Arm Cycle",
     "intensity": [ "Moderate", "High" ],
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfPgf3NepLAy3oWe5ybV22H5mxV95YjwEsoA&usqp=CAU"
   },
@@ -1655,6 +1647,7 @@
       " no equipment",
       " water based exercise"
     ],
+    "equipment": "Calithetics",
     "intensity": [ "Moderate", "High" ],
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPIfnyypkFs3Usx2bKmSAgpzeWZpyRS3Xt-A&usqp=CAU"
   },
@@ -1666,6 +1659,7 @@
       " no equipment",
       " water based exercise"
     ],
+    "equipment": "Calithetics",
     "intensity": [ "Low", "Moderate", "High" ],
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUUpSnbzvvhwsFgkO3Eaj0chjZgFdhtEL7Mw&usqp=CAU"
   },
