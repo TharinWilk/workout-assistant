@@ -13,7 +13,7 @@
             <v-list-item v-for="items in filter.filters" :key="items.name" @click="items.checked = !items.checked">
               <template>
                 <v-list-item-action>
-                  <v-checkbox :input-value="items.checked" @click="changeAdditionalFilters(items.stateName)" />
+                  <v-checkbox :input-value="items.checked" @click="changeAdditionalFilters(items.name)" />
                 </v-list-item-action>
               </template>
               <v-list-item-content>
@@ -35,36 +35,36 @@ export default {
         {
           category: 'Resistance Filters',
           filters: [
-            { name: 'Upper Body Exercises', checked: true, stateName: 'upperBody' },
-            { name: 'Lower Body Exercises', checked: true, stateName: 'lowerBody' },
-            { name: 'Core Exercises', checked: true, stateName: 'core' },
-            { name: 'Push Exercises', checked: true, stateName: 'push' },
-            { name: 'Pull Exercises', checked: true, stateName: 'pull' }
+            { name: 'Upper Body Exercises', checked: true },
+            { name: 'Lower Body Exercises', checked: true },
+            { name: 'Core Exercises', checked: true },
+            { name: 'Push Exercises', checked: true },
+            { name: 'Pull Exercises', checked: true }
           ]
         },
         {
           category: 'Equipment Filters',
           filters: [
-            { name: 'Calithetics', checked: true, stateName: 'calithetics' },
-            { name: 'Treadmill', checked: true, stateName: 'treadmill' },
-            { name: 'Stationary Bike', checked: true, stateName: 'stationaryBike' },
-            { name: 'Bike', checked: true, stateName: 'bike' },
-            { name: 'Dumbbells', checked: true, stateName: 'dumbbells' },
-            { name: 'Barbells', checked: true, stateName: 'barbells' },
-            { name: 'Kettlebells', checked: true, stateName: 'kettlebells' },
-            { name: 'Weight Machines', checked: true, stateName: 'weightMachines' },
-            { name: 'Cable Machine', checked: true, stateName: 'cableMachine' },
-            { name: 'Full Rack', checked: true, stateName: 'fullRack' },
-            { name: 'Half Rack', checked: true, stateName: 'halfRack' },
-            { name: 'Agility Ladder', checked: true, stateName: 'agilityLadder' },
-            { name: 'Stability Ball', checked: true, stateName: 'stabilityBall' },
-            { name: 'Pool', checked: true, stateName: 'pool' },
-            { name: 'Eliptical', checked: true, stateName: 'eliptical' },
-            { name: 'Arc Trainier', checked: true, stateName: 'arcTrainier' },
-            { name: 'Stair Machine', checked: true, stateName: 'stairMachine' },
-            { name: 'Ladder Machine', checked: true, stateName: 'ladderMachine' },
-            { name: 'Rowing Machine', checked: true, stateName: 'rowingMachine' },
-            { name: 'Arm Cycle', checked: true, stateName: 'armCycle' }
+            { name: 'Calithetics', checked: true },
+            { name: 'Treadmill', checked: true },
+            { name: 'Stationary Bike', checked: true },
+            { name: 'Bike', checked: true },
+            { name: 'Dumbbells', checked: true },
+            { name: 'Barbells', checked: true },
+            { name: 'Kettlebells', checked: true },
+            { name: 'Weight Machines', checked: true },
+            { name: 'Cable Machine', checked: true },
+            { name: 'Full Rack', checked: true },
+            { name: 'Half Rack', checked: true },
+            { name: 'Agility Ladder', checked: true },
+            { name: 'Stability Ball', checked: true },
+            { name: 'Pool', checked: true },
+            { name: 'Eliptical', checked: true },
+            { name: 'Arc Trainer', checked: true },
+            { name: 'Stair Machine', checked: true },
+            { name: 'Ladder Machine', checked: true },
+            { name: 'Rowing Machine', checked: true },
+            { name: 'Arm Cycle', checked: true }
           ]
         }
       ]
@@ -73,11 +73,7 @@ export default {
   methods: {
     changeAdditionalFilters (e) {
       this.$store.dispatch('selectedWorkoutAdditionalFilters', e)
-      console.log(this.$store.state.additionalFilters)
     }
   }
 }
 </script>
-
-<style lang="css" scoped>
-</style>
