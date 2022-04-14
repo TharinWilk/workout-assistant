@@ -11,7 +11,7 @@
         <v-col align="center" cols="4">
           {{ agility }}
         </v-col>
-        <v-col v-for="item in agility" :key="item" align="center" cols="4">
+        <v-col align="center" cols="4">
           {{ item }}
         </v-col>
       </v-row>

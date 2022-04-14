@@ -111,6 +111,8 @@ export const actions = {
 }
 
 export const getters = {
+  agility: state => state.workout.agility,
+  balance: state => state.workout.balance,
   cardio: state => state.workout.cardio,
   intensity: state => state.workoutFilters.intensity,
   resistance: state => state.workout.resistance

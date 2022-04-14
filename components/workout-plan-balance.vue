@@ -8,7 +8,6 @@
         <v-col v-for="item in layout" :key="item" align="center" cols="4">
           <span class="text-decoration-underline">{{ item }}</span>
         </v-col>
-        </v-col>
         <v-col align="center" cols="4">
           {{ balance }}
         </v-col>

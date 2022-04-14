@@ -39,21 +39,42 @@ export default {
           }
         })
       })
-      this.workout = exerciseOptions
-      console.log(this.$store.state.additionalFilters)
 
       const type = this.$store.state.workoutFilters.type
-      if (type.includes('Cardio')) {
+      if (type.includes('Agility')) {
+        console.log('agility found')
+        this.generateAgilityWorkout(exerciseOptions)
+      } else if (type.includes('Balance')) {
+        console.log('balance found')
+        this.generateBalanceWorkout(exerciseOptions)
+      } else if (type.includes('Cardio')) {
         this.generateCardioWorkout(exerciseOptions)
       }
     },
+    generateAgilityWorkout (exercise) {
+      console.log('generating agility workout')
+      let workout = null
+      this.$store.state.workoutFilters.type.forEach((type) => {
+        const options = exercises.filter(exercise => exercise.tags.includes(type) === true)
+        workout = options[Math.floor(Math.random() * options.length)]
+      })
+      this.$store.dispatch('updateWorkoutPlan', workout)
+    },
+    generateBalanceWorkout (exercise) {
+      console.log('generating balance workout')
+      let workout = null
+      this.$store.state.workoutFilters.type.forEach((type) => {
+        const options = exercises.filter(exercise => exercise.tags.includes(type) === true)
+        workout = options[Math.floor(Math.random() * options.length)]
+      })
+      this.$store.dispatch('updateWorkoutPlan', workout)
+    },
     generateCardioWorkout (exercises) {
       let workout = null
-      console.log(exercises)
       this.$store.state.workoutFilters.type.forEach((type) => {
-        const options = exercises.filter(exercise => exercise.tags.includes(type) === true && exercise.intensity.includes(this.$store.state.workoutFilters.intensity))
+        let options = exercises.filter(exercise => exercise.tags.includes(type) === true)
+        options = options.filter(exercise => exercise.intensity.includes(this.$store.state.workoutFilters.intensity))
         workout = options[Math.floor(Math.random() * options.length)]
-        console.log(options)
       })
       this.$store.dispatch('updateWorkoutPlan', workout)
     }
