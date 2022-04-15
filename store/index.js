@@ -70,19 +70,48 @@ export const mutations = {
     }
   },
   changeWorkoutPlan (state, payload) {
-    if (payload.tags.includes('Agility')) {
-      state.workout.agility = payload.name
-    } else if (payload.tags.includes('Balance')) {
-      state.workout.balance = payload.name
-    } else if (payload.tags.includes('Cardio')) {
-      state.workout.cardio = payload.name
-    } else if (payload.tags.includes('Mobility')) {
-      state.workout.mobility = payload.name
-    } else if (payload.tags.includes('Power')) {
-      state.workout.power = payload.name
-    } else {
-      state.workout.resistance = payload.name
-    }
+    console.log(payload)
+    payload.forEach((item) => {
+      if (item.tags.includes('Agility')) {
+        state.workout.agility = payload.name
+      }
+      if (item.tags.includes('Balance')) {
+        state.workout.balance = payload.name
+      }
+      if (item.tags.includes('Cardio')) {
+        state.workout.cardio = payload.name
+      }
+      if (item.tags.includes('Mobility')) {
+        console.log('changed mobility state')
+        state.workout.mobility = payload
+      }
+      if (item.tags.includes('Power')) {
+        console.log('changed power state')
+        state.workout.power = payload
+      }
+      if (item.tags.includes('Resistance')) {
+        state.workout.resistance = payload
+      }
+    })
+    // state.workout.power.forEach(item => console.log(item.name))
+    // if (payload.tags.includes('Agility')) {
+    //   state.workout.agility = payload.name
+    // }
+    // if (payload.tags.includes('Balance')) {
+    //   state.workout.balance = payload.name
+    // }
+    // if (payload.tags.includes('Cardio')) {
+    //   state.workout.cardio = payload.name
+    // }
+    // if (payload.tags.includes('Mobility')) {
+    //   state.workout.mobility = payload.name
+    // }
+    // if (payload.tags.includes('Power')) {
+    //   state.workout.power = payload.name
+    // }
+    // if (payload.tags.includes('Resistance')) {
+    //   state.workout.resistance = payload.name
+    // }
   }
 }
 
@@ -115,5 +144,7 @@ export const getters = {
   balance: state => state.workout.balance,
   cardio: state => state.workout.cardio,
   intensity: state => state.workoutFilters.intensity,
+  mobility: state => state.workout.mobility,
+  power: state => state.workout.power,
   resistance: state => state.workout.resistance
 }
