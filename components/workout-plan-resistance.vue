@@ -33,7 +33,7 @@ export default {
   },
   computed: {
     ...mapGetters({
-      balance: 'mobility'
+      resistance: 'resistance'
     })
   }
 }

@@ -12,7 +12,6 @@
         </v-btn>
       </v-container>
       <workout-plan />
-      {{ workout }}
     </v-layout>
   </article>
 </template>
@@ -24,11 +23,6 @@ export default {
   asyncData ({ params }) {
     return { exercises }
   },
-  data () {
-    return {
-      workout: []
-    }
-  },
   methods: {
     generateWorkout () {
       const exerciseOptions = []
@@ -39,84 +33,49 @@ export default {
           }
         })
       })
-      console.log(exerciseOptions)
 
-      const type = this.$store.state.workoutFilters.type
-      if (type.includes('Agility')) {
-        console.log('agility found')
-        this.generateAgilityWorkout(exerciseOptions)
-      }
-      if (type.includes('Balance')) {
-        console.log('balance found')
-        this.generateBalanceWorkout(exerciseOptions)
-      }
-      if (type.includes('Cardio')) {
-        this.generateCardioWorkout(exerciseOptions)
-      }
-      if (type.includes('Mobility')) {
-        this.generateMobilityWorkout(exerciseOptions)
-      }
-      if (type.includes('Power')) {
-        console.log('Power Found')
-        this.generatePowerWorkout(exerciseOptions)
-      }
-      if (type.includes('Resistance')) {
-        this.generateResistanceWorkout(exerciseOptions)
-      }
+      this.generateAgilityWorkout(exerciseOptions)
+      this.generateBalanceWorkout(exerciseOptions)
+      this.generateCardioWorkout(exerciseOptions)
+      this.generateMobilityWorkout(exerciseOptions)
+      this.generatePowerWorkout(exerciseOptions)
+      this.generateResistanceWorkout(exerciseOptions)
     },
     generateAgilityWorkout (exercise) {
-      console.log('generating agility workout')
-      let workout = null
-      this.$store.state.workoutFilters.type.forEach((type) => {
-        const options = exercises.filter(exercise => exercise.tags.includes(type) === true)
-        workout = options[Math.floor(Math.random() * options.length)]
-      })
-      this.$store.dispatch('updateWorkoutPlan', workout)
+      if (this.$store.state.workoutFilters.type.includes('Agility')) {
+        const workout = exercises.filter(exercise => exercise.tags.includes('Agility') === true)
+        this.$store.dispatch('updateWorkoutPlan', workout)
+      }
     },
     generateBalanceWorkout (exercise) {
-      console.log('generating balance workout')
-      let workout = null
-      this.$store.state.workoutFilters.type.forEach((type) => {
-        const options = exercises.filter(exercise => exercise.tags.includes(type) === true)
-        workout = options[Math.floor(Math.random() * options.length)]
-      })
-      this.$store.dispatch('updateWorkoutPlan', workout)
+      if (this.$store.state.workoutFilters.type.includes('Balance')) {
+        const workout = exercises.filter(exercise => exercise.tags.includes('Balance') === true)
+        this.$store.dispatch('updateWorkoutPlan', workout)
+      }
     },
     generateCardioWorkout (exercises) {
-      let workout = null
-      this.$store.state.workoutFilters.type.forEach((type) => {
-        let options = exercises.filter(exercise => exercise.tags.includes(type) === true)
-        options = options.filter(exercise => exercise.intensity.includes(this.$store.state.workoutFilters.intensity))
-        workout = options[Math.floor(Math.random() * options.length)]
-      })
-      this.$store.dispatch('updateWorkoutPlan', workout)
+      if (this.$store.state.workoutFilters.type.includes('Cardio')) {
+        const workout = exercises.filter(exercise => exercise.tags.includes('Cardio') === true)
+        this.$store.dispatch('updateWorkoutPlan', workout)
+      }
     },
     generateMobilityWorkout (exercise) {
-      console.log('generating mobility workout')
-      let workout = null
-      this.$store.state.workoutFilters.type.forEach((type) => {
-        const options = exercises.filter(exercise => exercise.tags.includes(type) === true)
-        workout = options
-      })
-      this.$store.dispatch('updateWorkoutPlan', workout)
+      if (this.$store.state.workoutFilters.type.includes('Mobility')) {
+        const workout = exercises.filter(exercise => exercise.tags.includes('Mobility') === true)
+        this.$store.dispatch('updateWorkoutPlan', workout)
+      }
     },
     generatePowerWorkout (exercise) {
-      console.log('generating power workout')
-      let workout = null
-      this.$store.state.workoutFilters.type.forEach((type) => {
-        const options = exercises.filter(exercise => exercise.tags.includes(type) === true)
-        workout = options
-      })
-      this.$store.dispatch('updateWorkoutPlan', workout)
+      if (this.$store.state.workoutFilters.type.includes('Power')) {
+        const workout = exercises.filter(exercise => exercise.tags.includes('Power') === true)
+        this.$store.dispatch('updateWorkoutPlan', workout)
+      }
     },
     generateResistanceWorkout (exercise) {
-      console.log('generating resistance workout')
-      let workout = null
-      this.$store.state.workoutFilters.type.forEach((type) => {
-        const options = exercises.filter(exercise => exercise.tags.includes(type) === true)
-        workout = options
-      })
-      this.$store.dispatch('updateWorkoutPlan', workout)
+      if (this.$store.state.workoutFilters.type.includes('Resistance')) {
+        const workout = exercises.filter(exercise => exercise.tags.includes('Resistance') === true)
+        this.$store.dispatch('updateWorkoutPlan', workout)
+      }
     }
   }
 }

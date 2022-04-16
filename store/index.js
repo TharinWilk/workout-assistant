@@ -39,7 +39,7 @@ export const state = () => ({
     cardio: null,
     mobility: null,
     power: null,
-    reistance: null
+    resistance: null
   }
 })
 
@@ -70,16 +70,15 @@ export const mutations = {
     }
   },
   changeWorkoutPlan (state, payload) {
-    console.log(payload)
     payload.forEach((item) => {
       if (item.tags.includes('Agility')) {
-        state.workout.agility = payload.name
+        state.workout.agility = payload
       }
       if (item.tags.includes('Balance')) {
-        state.workout.balance = payload.name
+        state.workout.balance = payload
       }
       if (item.tags.includes('Cardio')) {
-        state.workout.cardio = payload.name
+        state.workout.cardio = payload
       }
       if (item.tags.includes('Mobility')) {
         console.log('changed mobility state')
@@ -93,25 +92,6 @@ export const mutations = {
         state.workout.resistance = payload
       }
     })
-    // state.workout.power.forEach(item => console.log(item.name))
-    // if (payload.tags.includes('Agility')) {
-    //   state.workout.agility = payload.name
-    // }
-    // if (payload.tags.includes('Balance')) {
-    //   state.workout.balance = payload.name
-    // }
-    // if (payload.tags.includes('Cardio')) {
-    //   state.workout.cardio = payload.name
-    // }
-    // if (payload.tags.includes('Mobility')) {
-    //   state.workout.mobility = payload.name
-    // }
-    // if (payload.tags.includes('Power')) {
-    //   state.workout.power = payload.name
-    // }
-    // if (payload.tags.includes('Resistance')) {
-    //   state.workout.resistance = payload.name
-    // }
   }
 }
 
