@@ -89,7 +89,9 @@ export default {
           options = options.map((item) => {
             return item.name
           })
-          array.push(options[Math.floor(Math.random() * options.length)])
+          if (options.length !== 0) {
+            array.push(options[Math.floor(Math.random() * options.length)])
+          }
         })
       }
       if (this.$store.state.additionalFilters.includes('Lower Body')) {
@@ -98,7 +100,9 @@ export default {
           options = options.map((item) => {
             return item.name
           })
-          array.push(options[Math.floor(Math.random() * options.length)])
+          if (options.length !== 0) {
+            array.push(options[Math.floor(Math.random() * options.length)])
+          }
         })
       }
       if (this.$store.state.additionalFilters.includes('Core')) {
@@ -107,7 +111,9 @@ export default {
           options = options.map((item) => {
             return item.name
           })
-          array.push(options[Math.floor(Math.random() * options.length)])
+          if (options.length !== 0) {
+            array.push(options[Math.floor(Math.random() * options.length)])
+          }
         })
       }
       return array

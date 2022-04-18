@@ -5,14 +5,41 @@
     </v-card-subtitle>
     <v-card-text>
       <v-row>
-        <v-col v-for="item in layout" :key="item" align="center" cols="4">
-          <span class="text-decoration-underline">{{ item }}</span>
+        <v-col cols="6">
+          <v-row>
+            <v-col align="start" cols="12">
+              <span class="text-decoration-underline">Exercise</span>
+            </v-col>
+          </v-row>
+          <v-row>
+            <v-col align="start" cols="12" v-for="exercise in balance" :key="exercise.name">
+              {{ exercise.name }}
+            </v-col>
+          </v-row>
         </v-col>
-        <v-col align="center" cols="4">
-          {{ balance }}
+        <v-col cols="3">
+          <v-row>
+            <v-col align="center" cols="12">
+              <span class="text-decoration-underline">Duration</span>
+            </v-col>
+          </v-row>
+          <v-row>
+            <v-col align="center" cols="12" v-for="exercise in balance" :key="exercise">
+              {{ duration }}
+            </v-col>
+          </v-row>
         </v-col>
-        <v-col v-for="item in workoutMetrics" :key="item" align="center" cols="4">
-          {{ item }}
+        <v-col cols="3">
+          <v-row>
+            <v-col align="center" cols="12">
+              <span class="text-decoration-underline">Sets</span>
+            </v-col>
+          </v-row>
+          <v-row>
+            <v-col align="center" cols="12" v-for="exercise in balance" :key="exercise">
+              {{ sets }}
+            </v-col>
+          </v-row>
         </v-col>
       </v-row>
     </v-card-text>
@@ -25,17 +52,15 @@ import { mapGetters } from 'vuex'
 export default {
   data () {
     return {
-      layout: [
-        'Exercise',
-        'Min.',
-        'Sets'
-      ]
+      duration: '30-90 sec',
+      sets: '1-3 sets'
     }
   },
   computed: {
     ...mapGetters({
       balance: 'balance'
     })
+    // Possibly add difference for low, Moderate, and high intensity to the number of balance exercises. Low = 4, moderate = 8, high = 12
   }
 }
 </script>

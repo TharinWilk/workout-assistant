@@ -4,7 +4,23 @@
       Resistance
     </v-card-subtitle>
     <v-card-text>
-      <v-row>
+      <v-row class="d-sm-none">
+        <v-col align="center" cols="12" v-for="exercise in resistanceExercises" :key="exercise">
+          <span>Exercise: {{ exercise }}</span>
+          <v-row dense>
+            <v-col  align="center" cols="12">
+              Reps: {{ reps }}
+            </v-col>
+            <v-col cols="12">
+              Sets: {{ sets }}
+            </v-col>
+            <v-col cols="12">
+              Rest: {{ rest }}
+            </v-col>
+          </v-row>
+        </v-col>
+      </v-row>
+      <v-row class="d-none d-sm-flex">
         <v-col cols="6">
           <v-row>
             <v-col align="start" cols="12">

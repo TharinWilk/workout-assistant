@@ -122,6 +122,7 @@ export const actions = {
 }
 
 export const getters = {
+  additionalFilters: state => state.additionalFilters,
   agility: state => state.workout.agility,
   balance: state => state.workout.balance,
   cardio: state => state.workout.cardio,
