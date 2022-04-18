@@ -628,8 +628,7 @@
       " dynamic"
     ],
     "equipment": "Calithetics",
-    "muscle group": [
-    ],
+    "primary": "Lower Back",
     "variations": [
       " Cat-Cow",
       " Bent-over Cat Stretch"
@@ -646,24 +645,7 @@
       " dynamic"
     ],
     "equipment": "Calithetics",
-    "muscle group": [
-    ],
-    "variations": [
-    ],
-    "alternatives": [
-      "Cat"
-    ]
-  },
-  {
-    "name": "Lying Lower Back Stretch",
-    "tags": [
-      "Mobility",
-      " stretch",
-      " dynamic"
-    ],
-    "equipment": "Calithetics",
-    "muscle group": [
-    ],
+    "primary": "Lower Back",
     "variations": [
     ],
     "alternatives": [
@@ -678,8 +660,7 @@
       " dynamic"
     ],
     "equipment": "Calithetics",
-    "muscle group": [
-    ],
+    "primary": "Chest",
     "variations": [
       " Single Arm Doorway Chest Stretch",
       " Stability Ball Chest Stretch"
@@ -696,8 +677,7 @@
       " dynamic"
     ],
     "equipment": "Calithetics",
-    "muscle group": [
-    ],
+    "primary": "Chest",
     "variations": [
     ],
     "alternatives": [
@@ -712,8 +692,7 @@
       " dynamic"
     ],
     "equipment": "Calithetics",
-    "muscle group": [
-    ],
+    "primary": "Lats",
     "variations": [
       "Seated Side Stretch"
     ],
@@ -729,8 +708,7 @@
       " dynamic"
     ],
     "equipment": "Calithetics",
-    "muscle group": [
-    ],
+    "primary": "Lats",
     "variations": [
       ""
     ],
@@ -746,8 +724,7 @@
       " yoga"
     ],
     "equipment": "Calithetics",
-    "muscle group": [
-    ],
+    "primary": "Lats",
     "variations": [
       ""
     ],
