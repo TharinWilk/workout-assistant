@@ -52,12 +52,14 @@ export const mutations = {
   },
   changeWorkoutFitnessLevel (state, payload) {
     state.workoutFilters.fitness = payload
+    console.log(state.workoutFilters.fitness)
   },
   changeWorkoutIntensity (state, payload) {
     state.workoutFilters.intensity = payload
   },
   changeWorkoutGoal (state, payload) {
     state.workoutFilters.goal = payload
+    console.log(state.workoutFilters.goal)
   },
   changeWorkoutAdditionalFilters (state, payload) {
     if (state.additionalFilters.includes(payload)) {

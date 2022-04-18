@@ -35,11 +35,11 @@ export default {
         {
           category: 'Resistance Filters',
           filters: [
-            { name: 'Upper Body Exercises', checked: true },
-            { name: 'Lower Body Exercises', checked: true },
-            { name: 'Core Exercises', checked: true },
-            { name: 'Push Exercises', checked: true },
-            { name: 'Pull Exercises', checked: true }
+            { name: 'Upper Body', checked: true },
+            { name: 'Lower Body', checked: true },
+            { name: 'Core', checked: true },
+            { name: 'Push', checked: true },
+            { name: 'Pull', checked: true }
           ]
         },
         {

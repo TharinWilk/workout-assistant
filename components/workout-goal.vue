@@ -8,7 +8,7 @@
         <v-list-item v-for="goal in goals" :key="goal.name" @click="changeWorkoutGoal">
           <v-list-item-content>
             <v-list-item-title>
-              {{ goal.name }}
+              {{ goal }}
             </v-list-item-title>
           </v-list-item-content>
         </v-list-item>
@@ -22,14 +22,14 @@ export default {
   data () {
     return {
       goals: [
-        { name: 'Weight Loss', category: 'Cardio' },
-        { name: 'Cardiovascular Endurance', category: 'Cardio' },
-        { name: 'Muscular Strength', category: 'Resistance' },
-        { name: 'Muscular Endurance', category: 'Resistance' },
-        { name: 'Build Muscle Mass', category: 'Resistance' },
-        { name: 'Muscular Power', category: 'Resistance' },
-        { name: 'Foot Speed', category: 'Agility' },
-        { name: 'Directional Change', category: 'Agility' }
+        'Weight Loss',
+        'Cardiovascular Endurance',
+        'Muscular Strength',
+        'Muscular Endurance',
+        'Build Muscle Mass',
+        'Muscular Power',
+        'Foot Speed',
+        'Directional Change'
       ]
     }
   },
