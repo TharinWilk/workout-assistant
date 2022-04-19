@@ -1,30 +1,32 @@
 <template lang="html">
-  <v-list max-width="300px" class="mx-auto">
-    <v-list-group :value="false">
-      <template #activator>
-        <v-list-item-title>Filters</v-list-item-title>
-      </template>
-      <v-list-item v-for="filter in filters" :key="filter.category">
-        <v-list-item-content>
-          <v-list-item-title>
-            {{ filter.category }}
-          </v-list-item-title>
-          <v-list-item-group multiple>
-            <v-list-item v-for="items in filter.filters" :key="items.name" @click="items.checked = !items.checked">
-              <template>
-                <v-list-item-action>
-                  <v-checkbox :input-value="items.checked" @click="changeAdditionalFilters(items.name)" />
-                </v-list-item-action>
-              </template>
-              <v-list-item-content>
-                {{ items.name }}
-              </v-list-item-content>
-            </v-list-item>
-          </v-list-item-group>
-        </v-list-item-content>
-      </v-list-item>
-    </v-list-group>
-  </v-list>
+  <v-expansion-panel>
+    <v-expansion-panel-header>
+      Additional Filters
+    </v-expansion-panel-header>
+    <v-expansion-panel-content>
+      <v-list>
+        <v-list-item v-for="filter in filters" :key="filter.category">
+          <v-list-item-content>
+            <v-list-item-title>
+              {{ filter.category }}
+            </v-list-item-title>
+            <v-list-item-group multiple>
+              <v-list-item v-for="items in filter.filters" :key="items.name" @click="items.checked = !items.checked">
+                <template>
+                  <v-list-item-action>
+                    <v-checkbox :input-value="items.checked" @click="changeAdditionalFilters(items.name)" />
+                  </v-list-item-action>
+                </template>
+                <v-list-item-content>
+                  {{ items.name }}
+                </v-list-item-content>
+              </v-list-item>
+            </v-list-item-group>
+          </v-list-item-content>
+        </v-list-item>
+      </v-list>
+    </v-expansion-panel-content>
+  </v-expansion-panel>
 </template>
 
 <script>
