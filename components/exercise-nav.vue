@@ -10,7 +10,7 @@
           </v-slide-item>
         </v-slide-group>
       </v-sheet>
-      <v-list class="d-none d-sm-flex pa-0">
+      <v-list class="d-none d-sm-flex pa-0" min-height="48px">
         <v-list-item v-for="link in categories" :key="link.route" router :to="link.route">
           <v-list-item-title>
             {{ link.name }}

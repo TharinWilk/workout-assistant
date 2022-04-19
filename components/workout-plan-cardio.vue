@@ -1,5 +1,5 @@
 <template lang="html">
-<v-card flat class="mx-auto" width="90%">
+  <v-card flat class="mx-auto" width="90%">
     <v-card-subtitle class="text-h5">
       Cardio
     </v-card-subtitle>
