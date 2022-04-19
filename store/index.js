@@ -34,6 +34,7 @@ export const state = () => ({
     goal: null
   },
   workout: {
+    active: false,
     agility: null,
     balance: null,
     cardio: null,
@@ -52,14 +53,12 @@ export const mutations = {
   },
   changeWorkoutFitnessLevel (state, payload) {
     state.workoutFilters.fitness = payload
-    console.log(state.workoutFilters.fitness)
   },
   changeWorkoutIntensity (state, payload) {
     state.workoutFilters.intensity = payload
   },
   changeWorkoutGoal (state, payload) {
     state.workoutFilters.goal = payload
-    console.log(state.workoutFilters.goal)
   },
   changeWorkoutAdditionalFilters (state, payload) {
     if (state.additionalFilters.includes(payload)) {
@@ -72,6 +71,7 @@ export const mutations = {
     }
   },
   changeWorkoutPlan (state, payload) {
+    state.workout.active = true
     payload.forEach((item) => {
       if (item.tags.includes('Agility')) {
         state.workout.agility = payload
@@ -83,17 +83,21 @@ export const mutations = {
         state.workout.cardio = payload
       }
       if (item.tags.includes('Mobility')) {
-        console.log('changed mobility state')
         state.workout.mobility = payload
       }
-      if (item.tags.includes('Power')) {
-        console.log('changed power state')
-        state.workout.power = payload
-      }
-      if (item.tags.includes('Resistance')) {
+      if (item.tags.includes('Resistance') || item.tags.includes('Power')) {
         state.workout.resistance = payload
       }
     })
+  },
+  resetWorkoutPlan (state) {
+    state.workout.active = false
+    state.workout.agility = null
+    state.workout.balance = null
+    state.workout.cardio = null
+    state.workout.mobility = null
+    state.workout.power = null
+    state.workout.resistance = null
   }
 }
 
@@ -116,12 +120,16 @@ export const actions = {
   selectedWorkoutAdditionalFilters (context, payload) {
     context.commit('changeWorkoutAdditionalFilters', payload)
   },
+  clearWorkout (context) {
+    context.commit('resetWorkoutPlan')
+  },
   updateWorkoutPlan (context, payload) {
     context.commit('changeWorkoutPlan', payload)
   }
 }
 
 export const getters = {
+  activeWorkout: state => state.workout.active,
   additionalFilters: state => state.additionalFilters,
   agility: state => state.workout.agility,
   balance: state => state.workout.balance,

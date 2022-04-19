@@ -1,5 +1,10 @@
 <template lang="html">
   <article class="">
+    <v-card class="py-10 grey darken-4" dark>
+      <h1 class="text-center text-h2 font-weight-bold">
+        Workout Generator
+      </h1>
+    </v-card>
     <v-layout justify-center column align-center>
       <v-container>
         <v-sheet max-width="300px" class="mx-auto">

@@ -1,10 +1,20 @@
 <template lang="html">
-  <v-card elevation="3" class="border mx-auto" width="90%">
+  <v-card flat class="mx-auto" width="90%">
     <v-card-subtitle class="text-h5">
       Agility
     </v-card-subtitle>
     <v-card-text>
-      <v-row>
+      <v-row class="d-sm-none">
+        <v-col v-for="exercise in agilityExercises" :key="exercise" align="center" cols="12" class="plan-border">
+          <span>Exercise: {{ exercise.name }}</span>
+          <v-row dense>
+            <v-col cols="12">
+              Sets: {{ exerciseIntensity }}
+            </v-col>
+          </v-row>
+        </v-col>
+      </v-row>
+      <v-row class="d-none d-sm-flex">
         <v-col cols="8">
           <v-row>
             <v-col align="start" cols="12">
@@ -12,7 +22,7 @@
             </v-col>
           </v-row>
           <v-row>
-            <v-col align="start" cols="12" v-for="exercise in agilityExercises" :key="exercise">
+            <v-col v-for="exercise in agilityExercises" :key="exercise" align="start" cols="12" class="plan-border">
               {{ exercise.name }}
             </v-col>
           </v-row>
@@ -24,7 +34,7 @@
             </v-col>
           </v-row>
           <v-row>
-            <v-col align="center" cols="12" v-for="exercise in agilityExercises" :key="exercise">
+            <v-col v-for="exercise in agilityExercises" :key="exercise" align="center" cols="12" class="plan-border">
               {{ exerciseIntensity }}
             </v-col>
           </v-row>
@@ -80,3 +90,9 @@ export default {
   }
 }
 </script>
+
+<style media="screen">
+  .plan-border {
+    border-bottom: 1px solid gray
+  }
+</style>

@@ -1,10 +1,23 @@
 <template lang="html">
-  <v-card elevation="3" class="border mx-auto" width="90%">
+  <v-card flat class="mx-auto" width="90%">
     <v-card-subtitle class="text-h5">
       Balance
     </v-card-subtitle>
     <v-card-text>
-      <v-row>
+      <v-row class="d-sm-none">
+        <v-col v-for="exercise in balance" :key="exercise" align="center" cols="12" class="plan-border">
+          <span>Exercise: {{ exercise.name }}</span>
+          <v-row dense>
+            <v-col align="center" cols="12">
+              Duration: {{ duration }}
+            </v-col>
+            <v-col cols="12">
+              Sets: {{ sets }}
+            </v-col>
+          </v-row>
+        </v-col>
+      </v-row>
+      <v-row class="d-none d-sm-flex">
         <v-col cols="6">
           <v-row>
             <v-col align="start" cols="12">
@@ -12,7 +25,7 @@
             </v-col>
           </v-row>
           <v-row>
-            <v-col align="start" cols="12" v-for="exercise in balance" :key="exercise.name">
+            <v-col v-for="exercise in balance" :key="exercise.name" align="start" cols="12" class="plan-border">
               {{ exercise.name }}
             </v-col>
           </v-row>
@@ -24,7 +37,7 @@
             </v-col>
           </v-row>
           <v-row>
-            <v-col align="center" cols="12" v-for="exercise in balance" :key="exercise">
+            <v-col v-for="exercise in balance" :key="exercise" align="center" cols="12" class="plan-border">
               {{ duration }}
             </v-col>
           </v-row>
@@ -36,7 +49,7 @@
             </v-col>
           </v-row>
           <v-row>
-            <v-col align="center" cols="12" v-for="exercise in balance" :key="exercise">
+            <v-col v-for="exercise in balance" :key="exercise" align="center" cols="12" class="plan-border">
               {{ sets }}
             </v-col>
           </v-row>

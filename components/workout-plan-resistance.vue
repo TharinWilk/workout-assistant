@@ -1,14 +1,14 @@
 <template lang="html">
-  <v-card elevation="3" class="border mx-auto" width="90%">
+  <v-card flat class="mx-auto" width="90%">
     <v-card-subtitle class="text-h5">
       Resistance
     </v-card-subtitle>
     <v-card-text>
       <v-row class="d-sm-none">
-        <v-col align="center" cols="12" v-for="exercise in resistanceExercises" :key="exercise">
+        <v-col v-for="exercise in resistanceExercises" :key="exercise" align="center" cols="12" class="plan-border">
           <span>Exercise: {{ exercise }}</span>
           <v-row dense>
-            <v-col  align="center" cols="12">
+            <v-col align="center" cols="12">
               Reps: {{ reps }}
             </v-col>
             <v-col cols="12">
@@ -28,7 +28,7 @@
             </v-col>
           </v-row>
           <v-row>
-            <v-col align="start" cols="12" v-for="exercise in resistanceExercises" :key="exercise">
+            <v-col v-for="exercise in resistanceExercises" :key="exercise" align="start" cols="12" class="plan-border">
               {{ exercise }}
             </v-col>
           </v-row>
@@ -40,7 +40,7 @@
             </v-col>
           </v-row>
           <v-row>
-            <v-col align="center" cols="12" v-for="exercise in resistanceExercises" :key="exercise">
+            <v-col v-for="exercise in resistanceExercises" :key="exercise" align="center" cols="12" class="plan-border">
               {{ reps }}
             </v-col>
           </v-row>
@@ -52,7 +52,7 @@
             </v-col>
           </v-row>
           <v-row>
-            <v-col align="center" cols="12" v-for="exercise in resistanceExercises" :key="exercise">
+            <v-col v-for="exercise in resistanceExercises" :key="exercise" align="center" cols="12" class="plan-border">
               {{ sets }}
             </v-col>
           </v-row>
@@ -64,7 +64,7 @@
             </v-col>
           </v-row>
           <v-row>
-            <v-col align="center" cols="12" v-for="exercise in resistanceExercises" :key="exercise">
+            <v-col v-for="exercise in resistanceExercises" :key="exercise" align="center" cols="12" class="plan-border">
               {{ rest }}
             </v-col>
           </v-row>
@@ -112,25 +112,58 @@ export default {
     }),
     resistanceExercises () {
       const array = []
-      if (this.$store.state.additionalFilters.includes('Upper Body')) {
+      const filters = this.$store.state.additionalFilters
+      const goal = this.$store.state.workoutFilters.goal
+
+      if (filters.includes('Upper Body')) {
         this.upperBody.forEach((group) => {
           let options = this.resistance.filter(item => item.primary === group)
+          if (goal === 'Muscular Power') {
+            const power = options.filter((item) => {
+              return item.tags.includes('Power')
+            })
+            console.log(power)
+            if (power.length > 0) {
+              options = options.filter((item) => {
+                return item.tags.includes('Power')
+              })
+            } else {
+              options = options.filter((item) => {
+                return item.tags.includes('Resistance')
+              })
+            }
+          }
           options = options.map((item) => {
             return item.name
           })
           array.push(options[Math.floor(Math.random() * options.length)])
         })
       }
-      if (this.$store.state.additionalFilters.includes('Lower Body')) {
+      if (filters.includes('Lower Body')) {
         this.lowerBody.forEach((group) => {
           let options = this.resistance.filter(item => item.primary === group)
+          if (goal === 'Muscular Power') {
+            const power = options.filter((item) => {
+              return item.tags.includes('Power')
+            })
+            console.log(power)
+            if (power.length > 0) {
+              options = options.filter((item) => {
+                return item.tags.includes('Power')
+              })
+            } else {
+              options = options.filter((item) => {
+                return item.tags.includes('Resistance')
+              })
+            }
+          }
           options = options.map((item) => {
             return item.name
           })
           array.push(options[Math.floor(Math.random() * options.length)])
         })
       }
-      if (this.$store.state.additionalFilters.includes('Core')) {
+      if (filters.includes('Core')) {
         this.core.forEach((group) => {
           let options = this.resistance.filter(item => item.primary === group)
           options = options.map((item) => {
@@ -142,11 +175,16 @@ export default {
       return array
     }
   },
+  mounted () {
+    this.getRepsSetsAndRest()
+  },
+  updated () {
+    this.getRepsSetsAndRest()
+  },
   methods: {
     getRepsSetsAndRest () {
       const goal = this.$store.state.workoutFilters.goal
       const fitness = this.$store.state.workoutFilters.fitness
-      console.log(goal, fitness)
 
       if (fitness === 'Advanced' || fitness === 'Intermediate') {
         if (goal === 'Muscular Strength') {
@@ -186,12 +224,6 @@ export default {
         }
       }
     }
-  },
-  mounted () {
-    this.getRepsSetsAndRest()
-  },
-  updated () {
-    this.getRepsSetsAndRest()
   }
 }
 </script>

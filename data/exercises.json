@@ -736,10 +736,12 @@
     "name": "Clean",
     "tags": [
       "Power",
+      " Resistance",
       " weight-lifting",
       " free weights"
     ],
     "equipment": [ "Barbell", "Dumbbell", "Kettlebell" ],
+    "primary": "Glutes",
     "agonists": [
       " quadriceps",
       " adductor maagus",
@@ -760,10 +762,12 @@
     "name": "Clean and Jerk",
     "tags": [
       "Power",
+      " Resistance",
       " weight-lifting",
       " free weights"
     ],
     "equipment": [ "Barbell", "Dumbbell", "Kettlebell" ],
+    "primary": "Glutes",
     "agonists": [
       " quadriceps",
       " adductor maagus",
@@ -786,10 +790,12 @@
     "name": "Hang Clean",
     "tags": [
       "Power",
+      " Resistance",
       " weight-lifting",
       " free weights"
     ],
     "equipment": [ "Barbell", "Dumbbell" ],
+    "primary": "Glutes",
     "agonists": [
       " quadriceps",
       " adductor maagus",
@@ -811,10 +817,12 @@
     "name": "Jump Shrug",
     "tags": [
       "Power",
+      " Resistance",
       " weight-lifting",
       " free weights"
     ],
     "equipment": [ "Barbell" ],
+    "primary": "Glutes",
     "agonists": [
       " quadriceps",
       " adductor maagus",
@@ -834,10 +842,12 @@
     "name": "High Pulls",
     "tags": [
       "Power",
+      " Resistance",
       " weight-lifting",
       " free weights"
     ],
     "equipment": [ "Barbell" ],
+    "primary": "Glutes",
     "agonists": [
       " quadriceps",
       " adductor maagus",
@@ -857,10 +867,12 @@
     "name": "Block Pulls",
     "tags": [
       "Power",
+      " Resistance",
       " weight-lifting",
       " free weights"
     ],
     "equipment": [ "Barbell" ],
+    "primary": "Glutes",
     "agonists": [
       " quadriceps",
       " adductor maagus",
@@ -880,10 +892,12 @@
     "name": "Snatch",
     "tags": [
       "Power",
+      " Resistance",
       " weight-lifting",
       " free weights"
     ],
     "equipment": [ "Barbell", "Dumbbell", "Kettlebell" ],
+    "primary": "Glutes",
     "agonists": [
       " quadriceps",
       " adductor maagus",
@@ -905,10 +919,12 @@
     "name": "Hang Snatch",
     "tags": [
       "Power",
+      " Resistance",
       " weight-lifting",
       " free weights"
     ],
     "equipment": [ "Barbell", "Dumbbell", "Kettlebell" ],
+    "primary": "Glutes",
     "agonists": [
       " quadriceps",
       " adductor maagus",
@@ -927,10 +943,12 @@
     "name": "Block Snatch",
     "tags": [
       "Power",
+      " Resistance",
       " weight-lifting",
       " free weights"
     ],
     "equipment": [ "Barbell" ],
+    "primary": "Glutes",
     "agonists": [
       " quadriceps",
       " adductor maagus",
@@ -949,10 +967,12 @@
     "name": "Block Snatch Pull",
     "tags": [
       "Power",
+      " Resistance",
       " weight-lifting",
       " free weights"
     ],
     "equipment": [ "Barbell" ],
+    "primary": "Glutes",
     "agonists": [
       " quadriceps",
       " adductor maagus",
@@ -971,10 +991,12 @@
     "name": "High Block Snatch",
     "tags": [
       "Power",
+      " Resistance",
       " weight-lifting",
       " free weights"
     ],
     "equipment": [ "Barbell" ],
+    "primary": "Glutes",
     "description": "",
     "agonists": [
       " quadriceps",
@@ -994,10 +1016,12 @@
     "name": "Push Press",
     "tags": [
       "Power",
+      " Resistance",
       " weight-lifting",
       " free weights"
     ],
     "equipment": [ "Barbell", "Dumbbell", "Kettlebell" ],
+    "primary": "Shoulders",
     "description": "Place the bar high on your chest with an overhand hold somewhat broader than shoulder width and tighten your torso. Dip your body by slightly bending your knees, hips, and ankles. Drive up with your legs, driving the barbell off your shoulders and fiercely stretching your arms overhead. Return to your shoulders.",
     "agonists": [
       " quadriceps",
@@ -1014,10 +1038,12 @@
     "name": "Split Jerk",
     "tags": [
       "Power",
+      " Resistance",
       " weight-lifting",
       " free weights"
     ],
     "equipment": [ "Barbell", "Dumbbell", "Kettlebell" ],
+    "primary": "Shoulders",
     "description": "Position your chest high and your torso tight. Dip your body by slightly bending your knees and ankles while keeping pressure on your heels. Drive the barbell up off the shoulders by exploding upward with the legs. Drop your body to the ground and split one foot forward and the other backward as quickly as you can while extending your arms over your head. The split position has the front shin parallel to the floor and the front foot level on the ground. The back knee is slightly bent, and the back foot is on toes. The bar should be held at arm's length directly over the ears, with the back straight. With both legs, push up. By putting the front foot back a portion of the way and then bringing the back foot forward, you can place your feet side by side. Return to your shoulders and continue the process.",
     "agonists": [
       " quadriceps",
@@ -1038,6 +1064,7 @@
       " free weights"
     ],
     "equipment": [ "Kettlebell" ],
+    "primary": "Glutes",
     "description": "Stand in front of the kettlebell with your feet slightly wider than shoulder width apart. Bend over at the hips, keeping your knees bent and your back straight. Extend arms downward and use an overhand grip to grab the kettlebell with both hands. Lift the kettlebell off the floor and pull the forearms into the inner thighs, maintaining the hips and knees bent and the low back tense. To press the kettlebell forward and upward, drive your hips forward, torso upright, and knees straight. Allow the kettlebell to return to its original position. Hinge at the hips while bending the knees as the kettlebell approaches the lower position. Kettlebell swings back under hips as forearms make contact with inner thighs. Repeat the exercise and continue to swing the kettlebell. Maintain height swings from shoulder to eye level. ",
     "agonists": [
       " quadriceps",
@@ -1812,7 +1839,7 @@
       " dumbell"
     ],
     "equipment": [ "Weight Machine" ],
-    "primary": "Quads",
+    "primary": "Quadriceps",
     "agonists": [
       " quadriceps",
       " adductor maagus",
