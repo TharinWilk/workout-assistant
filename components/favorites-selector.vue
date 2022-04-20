@@ -6,9 +6,15 @@
     >
       <v-toolbar-title>Select Favorites</v-toolbar-title>
       <v-spacer />
-      <v-btn icon>
-        <v-icon>mdi-magnify</v-icon>
-      </v-btn>
+      <v-tooltip left>
+        <template #activator="{ on, attrs }">
+          <v-btn icon @click="toggleSelectAll" v-bind="attrs" v-on="on">
+            <v-icon>mdi-checkbox-multiple-outline</v-icon>
+          </v-btn>
+        </template>
+        <span v-if="favorites.length < exercises.length">Select All</span>
+        <span v-if="favorites.length === exercises.length">Unselect All</span>
+      </v-tooltip>
     </v-toolbar>
     <v-list two-line>
       <v-list-item-group
@@ -17,7 +23,7 @@
         multiple
       >
         <template v-for="exercise in exercises">
-          <v-list-item :key="exercise.name" >
+          <v-list-item :key="exercise.name">
             <template #default="{ active }">
               <v-list-item-content>
                 <v-list-item-title v-text="exercise.name" />
@@ -59,6 +65,12 @@
 <script>
 export default {
   props: ['exercises'],
+  data () {
+    return {
+      toggleSearch: false,
+      search: ''
+    }
+  },
   computed: {
     favorites: {
       get () {
@@ -66,6 +78,22 @@ export default {
       },
       set (selected) {
         return this.$store.dispatch('updateFavorites', selected)
+      }
+    }
+  },
+  methods: {
+    toggleSelectAll () {
+      if (this.$store.state.favorites.length === this.exercises.length) {
+        const array = []
+        this.$store.dispatch('updateFavorites', array)
+      } else {
+        const array = []
+        let i = 0
+        this.exercises.forEach((exercise) => {
+          array.push(i)
+          i++
+        })
+        this.$store.dispatch('updateFavorites', array)
       }
     }
   }
