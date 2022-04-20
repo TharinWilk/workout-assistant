@@ -1,5 +1,6 @@
 export const state = () => ({
   exercise: null,
+  favorites: [2],
   additionalFilters: [
     'Upper Body',
     'Lower Body',
@@ -47,6 +48,9 @@ export const state = () => ({
 export const mutations = {
   changeExercise (state, payload) {
     state.exercise = payload
+  },
+  changefavorites (state, payload) {
+    state.favorites = payload
   },
   changeWorkoutTypes (state, payload) {
     state.workoutFilters.type = payload
@@ -123,6 +127,9 @@ export const actions = {
   clearWorkout (context) {
     context.commit('resetWorkoutPlan')
   },
+  updateFavorites (context, payload) {
+    context.commit('changefavorites', payload)
+  },
   updateWorkoutPlan (context, payload) {
     context.commit('changeWorkoutPlan', payload)
   }
@@ -134,6 +141,7 @@ export const getters = {
   agility: state => state.workout.agility,
   balance: state => state.workout.balance,
   cardio: state => state.workout.cardio,
+  favorites: state => state.favorites,
   intensity: state => state.workoutFilters.intensity,
   mobility: state => state.workout.mobility,
   power: state => state.workout.power,
