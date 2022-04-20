@@ -35,8 +35,8 @@ export default {
       user: null,
       accountLinks: [
         { icon: 'mdi-home', text: 'Home', route: '/' },
-        { icon: 'mdi-view-dashboard', text: 'My Workouts', route: '/' },
-        { icon: 'mdi-heart', text: 'Favorited Exercises', route: '/' }
+        { icon: 'mdi-view-dashboard', text: 'My Workouts', route: '/account-pages/my-workouts' },
+        { icon: 'mdi-heart', text: 'Favorited Exercises', route: '/account-pages/favorited-exercises' }
       ],
       pageLinks: [
         { icon: 'mdi-weight-lifter', text: 'Generate Workout', route: '/generate-workout' },
