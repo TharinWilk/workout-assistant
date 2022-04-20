@@ -22,7 +22,6 @@
           :close-on-content-click="loginOpen"
           max-width="400px"
           nudge-bottom="46px"
-          transition="scroll-x-reverse-transition"
         >
           <template #activator="{ on, attrs }">
             <v-btn elevation="0" v-bind="attrs" v-on="on">
@@ -37,7 +36,6 @@
           :close-on-content-click="loginOpen"
           max-width="400px"
           nudge-bottom="46px"
-          transition="scroll-x-reverse-transition"
         >
           <template #activator="{ on, attrs }">
             <v-btn elevation="0" v-bind="attrs" v-on="on">
