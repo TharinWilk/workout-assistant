@@ -1,17 +1,7 @@
 <template lang="html">
   <article class="">
-    <v-container>
-      <!-- Heading -->
-      <!-- Subheading -->
-      <v-text-field
-        outlined
-        placeholder="Search Exercises"
-        rounded
-        prepend-inner-icon="mdi-magnify"
-        clearable
-      />
-      <!-- Output Field -->
-    </v-container>
+    <exercise-search-bar :exercises="exercises" />
+    <exercise-info />
     <v-container>
       <h2>Exercise categories</h2>
       <v-row class="flex flex-wrap">
@@ -38,8 +28,15 @@
 </template>
 
 <script>
+import exercises from '~/data/exercises.json'
+
 export default {
   layout: 'exercise-guide-layout',
+  asyncData ({ params }) {
+    return {
+      exercises
+    }
+  },
   data () {
     return {
       categories: [
@@ -51,11 +48,6 @@ export default {
         { name: 'Power', img: 'https://images.unsplash.com/photo-1517836357463-d25dfeac3438?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8d2VpZ2h0JTIwbGlmdGluZ3xlbnwwfHwwfHw%3D&w=1000&q=80', examples: ' Olympic Lifting, Plyometrics,  Kettlebell, and more...', route: '/exercise-guide/power-exercises' }
       ]
     }
-  },
-  methods: {
-    // searchExercises(e) {
-    //   const value = e.target.value.toLowerCase()
-    // }
   }
 }
 </script>
