@@ -3,6 +3,7 @@
     <v-card-subtitle class="text-h5">
       Agility
     </v-card-subtitle>
+    <save-workout-button :workout="AgilityExercises" :type="type"/>
     <v-card-text>
       <v-row class="d-sm-none">
         <v-col v-for="exercise in agilityExercises" :key="exercise" align="center" cols="12" class="plan-border">
@@ -48,6 +49,11 @@
 import { mapGetters } from 'vuex'
 
 export default {
+  data () {
+    return {
+      type: 'Agility'
+    }
+  },
   computed: {
     ...mapGetters({
       agility: 'agility',

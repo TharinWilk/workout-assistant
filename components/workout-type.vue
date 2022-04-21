@@ -16,15 +16,6 @@
           </v-list-item-action>
         </v-list-item>
       </v-list>
-      <v-list class="d-none d-md-flex">
-        <v-list-item v-for="box in boxes" :key="box.name" color="blue">
-          <v-list-item-content>
-            <v-list-item-action>
-              {{ box.name }}
-            </v-list-item-action>
-          </v-list-item-content>
-        </v-list-item>
-      </v-list>
     </v-expansion-panel-content>
   </v-expansion-panel>
 </template>

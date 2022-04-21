@@ -3,6 +3,7 @@
     <v-card-subtitle class="text-h5">
       Resistance
     </v-card-subtitle>
+    <save-workout-button :workout="resistanceExercises" :type="type"/>
     <v-card-text>
       <v-row class="d-sm-none">
         <v-col v-for="exercise in resistanceExercises" :key="exercise" align="center" cols="12" class="plan-border">
@@ -80,6 +81,7 @@ import { mapGetters } from 'vuex'
 export default {
   data () {
     return {
+      type: 'Resistance',
       upperBody: [
         'Chest',
         'Shoulders',

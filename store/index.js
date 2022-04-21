@@ -42,10 +42,14 @@ export const state = () => ({
     mobility: null,
     power: null,
     resistance: null
-  }
+  },
+  savedWorkouts: []
 })
 
 export const mutations = {
+  addWorkout (state, payload) {
+    state.savedWorkouts.push(payload)
+  },
   changeExercise (state, payload) {
     state.exercise = payload
   },
@@ -106,6 +110,9 @@ export const mutations = {
 }
 
 export const actions = {
+  addNewWorkout (context, payload) {
+    context.commit('addWorkout', payload)
+  },
   selectedExercise (context, payload) {
     context.commit('changeExercise', payload)
   },

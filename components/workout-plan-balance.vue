@@ -3,6 +3,7 @@
     <v-card-subtitle class="text-h5">
       Balance
     </v-card-subtitle>
+    <save-workout-button :workout="balance" :type="type"/>
     <v-card-text>
       <v-row class="d-sm-none">
         <v-col v-for="exercise in balance" :key="exercise" align="center" cols="12" class="plan-border">
@@ -65,6 +66,7 @@ import { mapGetters } from 'vuex'
 export default {
   data () {
     return {
+      type: 'Balance',
       duration: '30-90 sec',
       sets: '1-3 sets'
     }

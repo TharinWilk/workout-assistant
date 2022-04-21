@@ -3,6 +3,7 @@
     <v-card-subtitle class="text-h5">
       Cardio
     </v-card-subtitle>
+    <save-workout-button :workout="cardioExercise" :type="type"/>
     <v-card-text>
       <v-row class="d-sm-none">
         <v-col align="center" cols="12" class="plan-border">
@@ -42,6 +43,7 @@ import { mapGetters } from 'vuex'
 export default {
   data () {
     return {
+      type: 'Cardio',
       layout: [
         'Duration',
         'Intervals'
