@@ -3,7 +3,7 @@
     <v-card-subtitle class="text-h5">
       Balance
     </v-card-subtitle>
-    <save-workout-button :workout="balance" :type="type"/>
+    <save-workout-button :workout="balanceExercises" :type="type" :duration="duration" :sets="sets"/>
     <v-card-text>
       <v-row class="d-sm-none">
         <v-col v-for="exercise in balance" :key="exercise" align="center" cols="12" class="plan-border">
@@ -74,7 +74,13 @@ export default {
   computed: {
     ...mapGetters({
       balance: 'balance'
-    })
+    }),
+    balanceExercises () {
+      const exercises = this.balance.map((exercise) => {
+        return exercise.name
+      })
+      return exercises
+    }
     // Possibly add difference for low, Moderate, and high intensity to the number of balance exercises. Low = 4, moderate = 8, high = 12
   }
 }

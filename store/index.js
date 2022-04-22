@@ -152,5 +152,6 @@ export const getters = {
   intensity: state => state.workoutFilters.intensity,
   mobility: state => state.workout.mobility,
   power: state => state.workout.power,
-  resistance: state => state.workout.resistance
+  resistance: state => state.workout.resistance,
+  savedWorkouts: state => state.savedWorkouts
 }

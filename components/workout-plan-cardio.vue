@@ -3,7 +3,7 @@
     <v-card-subtitle class="text-h5">
       Cardio
     </v-card-subtitle>
-    <save-workout-button :workout="cardioExercise" :type="type"/>
+    <save-workout-button :workout="exercise" :type="type" :duration="duration" :interval="interval"/>
     <v-card-text>
       <v-row class="d-sm-none">
         <v-col align="center" cols="12" class="plan-border">
@@ -72,6 +72,11 @@ export default {
     },
     interval () {
       return this.workoutMetrics[1]
+    },
+    exercise () {
+      const exercise = []
+      exercise.push(this.cardioExercise.name)
+      return exercise
     }
   }
 }
