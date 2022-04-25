@@ -4,6 +4,7 @@
     "tags": [
       "Agility"
     ],
+    "img": "https://journals.humankinetics.com/view/journals/pes/31/3/full-pes.2018-0117figuref1.jpg",
     "equipment": "Agility Ladder",
     "description": "",
     "muscle group": [
@@ -28,6 +29,7 @@
     "tags": [
       "Agility"
     ],
+    "img": "http://www.stack.com/wp-content/uploads/2012/12/SpeedDrill-e1354557105256.jpg",
     "equipment": "Agility Ladder",
     "muscle group": [
     ],
@@ -51,6 +53,7 @@
     "tags": [
       "Agility"
     ],
+    "img": "https://garagegymbuilder.com/wp-content/uploads/2016/09/lateral-shuffle.jpg",
     "equipment": "Agility Ladder",
     "muscle group": [
     ],
@@ -72,6 +75,7 @@
     "tags": [
       "Agility"
     ],
+    "img": "https://garagegymbuilder.com/wp-content/uploads/2016/09/Lateral-One-Leg-Bunny-Hop-1.jpg",
     "equipment": "Agility Ladder",
     "muscle group": [
     ],
@@ -97,6 +101,7 @@
     "tags": [
       "Agility"
     ],
+    "img": "https://m.media-amazon.com/images/S/aplus-media/sc/b1877633-eaa5-4c63-8594-4125b1f321cd.__CR0,0,300,300_PT0_SX300_V1___.png",
     "equipment": "Agility Ladder",
     "muscle group": [
     ],
@@ -121,6 +126,7 @@
     "tags": [
       "Agility"
     ],
+    "img": "https://cdn2.hubspot.net/hubfs/2494739/Imported_Blog_Media/fig_09-036-no-source-2.jpg",
     "equipment": "Agility Ladder",
     "muscle group": [
     ],
@@ -141,6 +147,7 @@
     "tags": [
       "Agility"
     ],
+    "img": "https://cdn2.sportngin.com/attachments/text_block/2600/7157/ZigzagCrossoverShuffle.gif",
     "equipment": "Agility Ladder",
     "muscle group": [
     ],
@@ -158,31 +165,12 @@
     ]
   },
   {
-    "name": "Agility Ladder Quarter Turn",
-    "tags": [
-      "Agility"
-    ],
-    "equipment": "Agility Ladder",
-    "muscle group": [
-    ],
-    "variations": [
-    ],
-    "alternatives": [
-      "Agility Ladder Run",
-      "Agility Ladder High Knees",
-      "Agility Ladder Side Shuffle",
-      "Agility Ladder Hop",
-      "Agility Ladder In Out",
-      "Agility Ladder Ali Shuffle",
-      "Agility Ladder Icky Shuffle"
-    ]
-  },
-  {
     "name": "X Drill",
     "tags": [
       "Agility",
       " Dot Drill"
     ],
+    "img": "https://www.theglowingedge.com/wp-content/uploads/2010/07/Agility-Dot-Drills1.jpg",
     "equipment": [ "Calithetics", "Dot Mat" ],
     "description": "Start with feet split, one foot on dot 1 and one on dot 2. Jump to dot 3 with both feet, then to dots 4 and 5 with feet split. Repeat the steps jumping backward.",
     "muscle group": [
@@ -211,6 +199,7 @@
       "Agility",
       " Dot Drill"
     ],
+    "img": "https://www.theglowingedge.com/wp-content/uploads/2010/07/Agility-Dot-Drills1.jpg",
     "equipment": [ "Calithetics", "Dot Mat" ],
     "description": "Form a Z pattern (4-5-3-1-2) keeping both feet together.",
     "muscle group": [
@@ -235,6 +224,7 @@
       "Agility",
       " Dot Drill"
     ],
+    "img": "https://www.theglowingedge.com/wp-content/uploads/2010/07/Agility-Dot-Drills1.jpg",
     "equipment": [ "Calithetics", "Dot Mat" ],
     "description": "Form an M pattern (4-5-3-2-1) keeping your feet together.",
     "muscle group": [
@@ -259,6 +249,7 @@
       "Agility",
       " Dot Drill"
     ],
+    "img": "https://www.theglowingedge.com/wp-content/uploads/2010/07/Agility-Dot-Drills1.jpg",
     "equipment": [ "Calithetics", "Dot Mat" ],
     "description": "Form a figure eight (4-5-3-1-2-3-4) down and back, keeping feet together.",
     "muscle group": [
@@ -283,6 +274,7 @@
       "Agility",
       " Dot Drill"
     ],
+    "img": "https://www.theglowingedge.com/wp-content/uploads/2010/07/Agility-Dot-Drills1.jpg",
     "equipment": [ "Calithetics", "Dot Mat" ],
     "description": "Keep feet together and hop in a counterclockwise direction (2-3-1-2) or a clockwise direction (1-3-2-1) to form a triangle.",
     "muscle group": [
@@ -307,6 +299,7 @@
       "Agility",
       " Dot Drill"
     ],
+    "img": "https://www.theglowingedge.com/wp-content/uploads/2010/07/Agility-Dot-Drills1.jpg",
     "equipment": [ "Calithetics", "Dot Mat" ],
     "description": "Keep feet together and hop the perimeter of the square (1-4-5-2-1), facing the same direction at all times.",
     "muscle group": [
@@ -326,16 +319,143 @@
     ]
   },
   {
-    "name": "Shuttle Run",
+    "name": "Mountain Pose",
     "tags": [
-      "Agility"
+      "Balance",
+      " Yoga"
     ],
-    "equipment": "Calithetics",
-    "muscle group": [
+    "img": "https://www.yogapedia.com/images/uploads/792b80fd0c884040bbcfaf14656788f7.png",
+    "equipment": [ "Calithetics" ],
+    "variations": [
+      " Forward Fold"
     ],
+    "alternatives": [
+      "Warrior Pose",
+      "Triangle Pose",
+      "Crescent Lunge",
+      "Tree Pose",
+      "Chair Pose",
+      "Dancer Pose"
+    ]
+  },
+  {
+    "name": "Warrior Pose",
+    "tags": [
+      "Balance",
+      " Yoga"
+    ],
+    "img": "https://www.yogapedia.com/images/uploads/silhouette-logo-trademark-poster-apparel-clothing-art-modern-art.png",
+    "equipment": [ "Calithetics" ],
+    "variations": [
+      " Warrior I",
+      " Warrior II",
+      " Warrior III"
+    ],
+    "alternatives": [
+      "Mountain Pose",
+      "Triangle Pose",
+      "Crescent Lunge",
+      "Tree Pose",
+      "Chair Pose",
+      "Dancer Pose"
+    ]
+  },
+  {
+    "name": "Triangle Pose",
+    "tags": [
+      "Balance",
+      " Yoga"
+    ],
+    "img": "https://www.yogapedia.com/images/uploads/afb95eaf-0efe-4fd4-b07d-86515d44fc6b.png",
+    "equipment": [ "Calithetics" ],
+    "variations": [
+      " Twisting Triangle"
+    ],
+    "alternatives": [
+      "Mountain Pose",
+      "Triangle Pose",
+      "Crescent Lunge",
+      "Tree Pose",
+      "Chair Pose",
+      "Dancer Pose"
+    ]
+  },
+  {
+    "name": "Crescent Lunge",
+    "tags": [
+      "Balance",
+      " Yoga"
+    ],
+    "img": "https://www.yogapedia.com/images/uploads/7284ce1b70eb4714bfad6f061337d639.png",
+    "equipment": [ "Calithetics" ],
+    "variations": [
+      " Crescent Lunge with Catcus Arms"
+    ],
+    "alternatives": [
+      "Mountain Pose",
+      "Triangle Pose",
+      "Warrior Pose",
+      "Tree Pose",
+      "Chair Pose",
+      "Dancer Pose"
+    ]
+  },
+  {
+    "name": "Tree Pose",
+    "tags": [
+      "Balance",
+      " Yoga"
+    ],
+    "img": "https://www.yogapedia.com/images/uploads/8182ced0e2784fc1b5737f8bda1de28a.png",
+    "equipment": [ "Calithetics" ],
     "variations": [
     ],
     "alternatives": [
+      "Mountain Pose",
+      "Triangle Pose",
+      "Warrior Pose",
+      "Crescent Lunge",
+      "Chair Pose",
+      "Dancer Pose"
+    ]
+  },
+  {
+    "name": "Chair Pose",
+    "tags": [
+      "Balance",
+      " Yoga"
+    ],
+    "img": "https://www.yogapedia.com/images/uploads/7149c422e030410f9fe25cc9b652d708.png",
+    "equipment": [ "Calithetics" ],
+    "variations": [
+      " Figure 4 Chair Pose"
+    ],
+    "alternatives": [
+      "Mountain Pose",
+      "Triangle Pose",
+      "Warrior Pose",
+      "Crescent Lunge",
+      "Tree Pose",
+      "Dancer Pose"
+    ]
+  },
+  {
+    "name": "Dancer Pose",
+    "tags": [
+      "Balance",
+      " Yoga"
+    ],
+    "img": "https://www.yogapedia.com/images/uploads/1fc24d91175b46719fe7cfbfecc05f1d.png",
+    "equipment": [ "Calithetics" ],
+    "variations": [
+    ],
+    "alternatives": [
+      "Mountain Pose",
+      "Triangle Pose",
+      "Warrior Pose",
+      "Crescent Lunge",
+      "Tree Pose",
+      "Chair Pose"
     ]
   },
   {
@@ -488,145 +608,13 @@
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUUpSnbzvvhwsFgkO3Eaj0chjZgFdhtEL7Mw&usqp=CAU"
   },
   {
-    "name": "Mountain Pose",
-    "tags": [
-      "Balance",
-      " Yoga"
-    ],
-    "equipment": [ "Calithetics" ],
-    "variations": [
-      " Forward Fold"
-    ],
-    "alternatives": [
-      "Warrior Pose",
-      "Triangle Pose",
-      "Crescent Lunge",
-      "Tree Pose",
-      "Chair Pose",
-      "Dancer Pose"
-    ]
-  },
-  {
-    "name": "Warrior Pose",
-    "tags": [
-      "Balance",
-      " Yoga"
-    ],
-    "equipment": [ "Calithetics" ],
-    "variations": [
-      " Warrior I",
-      " Warrior II",
-      " Warrior III"
-    ],
-    "alternatives": [
-      "Mountain Pose",
-      "Triangle Pose",
-      "Crescent Lunge",
-      "Tree Pose",
-      "Chair Pose",
-      "Dancer Pose"
-    ]
-  },
-  {
-    "name": "Triangle Pose",
-    "tags": [
-      "Balance",
-      " Yoga"
-    ],
-    "equipment": [ "Calithetics" ],
-    "variations": [
-      " Twisting Triangle"
-    ],
-    "alternatives": [
-      "Mountain Pose",
-      "Triangle Pose",
-      "Crescent Lunge",
-      "Tree Pose",
-      "Chair Pose",
-      "Dancer Pose"
-    ]
-  },
-  {
-    "name": "Crescent Lunge",
-    "tags": [
-      "Balance",
-      " Yoga"
-    ],
-    "equipment": [ "Calithetics" ],
-    "variations": [
-      " Crescent Lunge with Catcus Arms"
-    ],
-    "alternatives": [
-      "Mountain Pose",
-      "Triangle Pose",
-      "Warrior Pose",
-      "Tree Pose",
-      "Chair Pose",
-      "Dancer Pose"
-    ]
-  },
-  {
-    "name": "Tree Pose",
-    "tags": [
-      "Balance",
-      " Yoga"
-    ],
-    "equipment": [ "Calithetics" ],
-    "variations": [
-    ],
-    "alternatives": [
-      "Mountain Pose",
-      "Triangle Pose",
-      "Warrior Pose",
-      "Crescent Lunge",
-      "Chair Pose",
-      "Dancer Pose"
-    ]
-  },
-  {
-    "name": "Chair Pose",
-    "tags": [
-      "Balance",
-      " Yoga"
-    ],
-    "equipment": [ "Calithetics" ],
-    "variations": [
-      " Figure 4 Chair Pose"
-    ],
-    "alternatives": [
-      "Mountain Pose",
-      "Triangle Pose",
-      "Warrior Pose",
-      "Crescent Lunge",
-      "Tree Pose",
-      "Dancer Pose"
-    ]
-  },
-  {
-    "name": "Dancer Pose",
-    "tags": [
-      "Balance",
-      " Yoga"
-    ],
-    "equipment": [ "Calithetics" ],
-    "variations": [
-    ],
-    "alternatives": [
-      "Mountain Pose",
-      "Triangle Pose",
-      "Warrior Pose",
-      "Crescent Lunge",
-      "Tree Pose",
-      "Chair Pose"
-    ]
-  },
-  {
     "name": "Cat",
     "tags": [
       "Mobility",
       " stretch",
       " dynamic"
     ],
+    "img": "https://www.yogapedia.com/images/uploads/cd548476f6264ac18101d1a6e9d4697d.png",
     "equipment": "Calithetics",
     "primary": "Lower Back",
     "variations": [
@@ -644,6 +632,7 @@
       " stretch",
       " dynamic"
     ],
+    "img": "http://2hhgdy43zdzm1zortu1ro2r5-wpengine.netdna-ssl.com/wp-content/uploads/2017/09/knee-to-ches-stretcht340.jpg",
     "equipment": "Calithetics",
     "primary": "Lower Back",
     "variations": [
@@ -659,6 +648,7 @@
       " stretch",
       " dynamic"
     ],
+    "img": "https://ccsbismarck.com/wp-content/uploads/2020/03/Pec-minor-stretch-two.png",
     "equipment": "Calithetics",
     "primary": "Chest",
     "variations": [
@@ -676,6 +666,7 @@
       " stretch",
       " dynamic"
     ],
+    "img": "https://www.gazettenet.com/getattachment/9085deb2-8792-46dd-94cb-47e18379d329/17HEALTH-stretchcolumn-hg-091719-ph3",
     "equipment": "Calithetics",
     "primary": "Chest",
     "variations": [
@@ -691,6 +682,7 @@
       " stretch",
       " dynamic"
     ],
+    "img": "https://www.yogapedia.com/images/uploads/77cd7c59-26bd-4c6e-a7db-96e53396eab4.png",
     "equipment": "Calithetics",
     "primary": "Lats",
     "variations": [
@@ -707,6 +699,7 @@
       " stretch",
       " dynamic"
     ],
+    "img": "https://i.ytimg.com/vi/XEIYNpNUDx8/maxresdefault.jpg",
     "equipment": "Calithetics",
     "primary": "Lats",
     "variations": [
@@ -723,6 +716,7 @@
       " stretch",
       " yoga"
     ],
+    "img": "https://www.yogapedia.com/images/uploads/19fc7864-88b4-4bf3-8c71-f8a0525c42dc.jpg",
     "equipment": "Calithetics",
     "primary": "Lats",
     "variations": [
@@ -740,6 +734,7 @@
       " weight-lifting",
       " free weights"
     ],
+    "img": "https://www.crossfit.com/wp-content/uploads/2019/05/06154727/Squat-Clean-Collage2.jpg",
     "equipment": [ "Barbell", "Dumbbell", "Kettlebell" ],
     "primary": "Glutes",
     "agonists": [
@@ -766,6 +761,7 @@
       " weight-lifting",
       " free weights"
     ],
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtvfqtR0V4IZIfqUcNGA5VATeRdR0aUPBhuHxQ7epXrh0KKQJ2szw3XoaQzuNXJ49-BjM&usqp=CAU",
     "equipment": [ "Barbell", "Dumbbell", "Kettlebell" ],
     "primary": "Glutes",
     "agonists": [
@@ -794,6 +790,7 @@
       " weight-lifting",
       " free weights"
     ],
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTGw4YlTrYJMuiJdSdbo_usNexRrxsSlUp795L45mQ7Qz5qEES2hgh7NI34TeY6_Qv5VI&usqp=CAU",
     "equipment": [ "Barbell", "Dumbbell" ],
     "primary": "Glutes",
     "agonists": [
@@ -821,6 +818,7 @@
       " weight-lifting",
       " free weights"
     ],
+    "img": "https://fitnessvolt.com/wp-content/uploads/2017/01/Snatch-Grip-Shrug-Pull-1024x886.jpg",
     "equipment": [ "Barbell" ],
     "primary": "Glutes",
     "agonists": [
@@ -846,6 +844,7 @@
       " weight-lifting",
       " free weights"
     ],
+    "img": "https://external-preview.redd.it/Ssei46td42KSHTpT-y6MVpoN00Jrh2F3ToJrVvCqMt4.jpg?auto=webp&s=d7e4ec7bced99c6e9c7a4bd07f74413bd7e6c6e1",
     "equipment": [ "Barbell" ],
     "primary": "Glutes",
     "agonists": [
@@ -871,6 +870,7 @@
       " weight-lifting",
       " free weights"
     ],
+    "img": "https://sportsedtv.com/img/blog/Power-Snatch-position-1.jpg",
     "equipment": [ "Barbell" ],
     "primary": "Glutes",
     "agonists": [
@@ -896,6 +896,7 @@
       " weight-lifting",
       " free weights"
     ],
+    "img": "https://www.crossfit.com/wp-content/uploads/2020/01/17133940/Clean-and-Jerk-Camille2-scaled.jpg",
     "equipment": [ "Barbell", "Dumbbell", "Kettlebell" ],
     "primary": "Glutes",
     "agonists": [
@@ -923,6 +924,7 @@
       " weight-lifting",
       " free weights"
     ],
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDHs47bnKgU9HINVx5iTv3PsKS160CxxlPBUPubLJlaXjmW6pbuCwwRqR_nQlyx-QlpgE&usqp=CAU",
     "equipment": [ "Barbell", "Dumbbell", "Kettlebell" ],
     "primary": "Glutes",
     "agonists": [
@@ -947,6 +949,7 @@
       " weight-lifting",
       " free weights"
     ],
+    "img": "https://sportsedtv.com/img/blog/Power-Snatch-4..png",
     "equipment": [ "Barbell" ],
     "primary": "Glutes",
     "agonists": [
@@ -971,6 +974,7 @@
       " weight-lifting",
       " free weights"
     ],
+    "img": "https://sportsedtv.com/img/blog/Power-Snatch-position-1.jpg",
     "equipment": [ "Barbell" ],
     "primary": "Glutes",
     "agonists": [
@@ -995,6 +999,7 @@
       " weight-lifting",
       " free weights"
     ],
+    "img": "https://sportsedtv.com/img/blog/Power-Snatch-position-1.jpgs",
     "equipment": [ "Barbell" ],
     "primary": "Glutes",
     "description": "",
@@ -1020,6 +1025,7 @@
       " weight-lifting",
       " free weights"
     ],
+    "img": "https://www.crossfit.com/wp-content/uploads/2019/02/27145014/PushPress_Male_V4.jpg",
     "equipment": [ "Barbell", "Dumbbell", "Kettlebell" ],
     "primary": "Shoulders",
     "description": "Place the bar high on your chest with an overhand hold somewhat broader than shoulder width and tighten your torso. Dip your body by slightly bending your knees, hips, and ankles. Drive up with your legs, driving the barbell off your shoulders and fiercely stretching your arms overhead. Return to your shoulders.",
@@ -1042,6 +1048,7 @@
       " weight-lifting",
       " free weights"
     ],
+    "img": "https://i.ytimg.com/vi/GUDkOtraHHY/maxresdefault.jpg",
     "equipment": [ "Barbell", "Dumbbell", "Kettlebell" ],
     "primary": "Shoulders",
     "description": "Position your chest high and your torso tight. Dip your body by slightly bending your knees and ankles while keeping pressure on your heels. Drive the barbell up off the shoulders by exploding upward with the legs. Drop your body to the ground and split one foot forward and the other backward as quickly as you can while extending your arms over your head. The split position has the front shin parallel to the floor and the front foot level on the ground. The back knee is slightly bent, and the back foot is on toes. The bar should be held at arm's length directly over the ears, with the back straight. With both legs, push up. By putting the front foot back a portion of the way and then bringing the back foot forward, you can place your feet side by side. Return to your shoulders and continue the process.",
@@ -1063,6 +1070,7 @@
       " weight-lifting",
       " free weights"
     ],
+    "img": "https://epicself.com/wp-content/uploads/2016/02/kettlebell-swing.png-e1456347095756.jpg",
     "equipment": [ "Kettlebell" ],
     "primary": "Glutes",
     "description": "Stand in front of the kettlebell with your feet slightly wider than shoulder width apart. Bend over at the hips, keeping your knees bent and your back straight. Extend arms downward and use an overhand grip to grab the kettlebell with both hands. Lift the kettlebell off the floor and pull the forearms into the inner thighs, maintaining the hips and knees bent and the low back tense. To press the kettlebell forward and upward, drive your hips forward, torso upright, and knees straight. Allow the kettlebell to return to its original position. Hinge at the hips while bending the knees as the kettlebell approaches the lower position. Kettlebell swings back under hips as forearms make contact with inner thighs. Repeat the exercise and continue to swing the kettlebell. Maintain height swings from shoulder to eye level. ",
@@ -1090,6 +1098,7 @@
       " free-weights",
       " barbell"
     ],
+    "img": "https://i.ytimg.com/vi/SCVCLChPQFY/maxresdefault.jpg",
     "equipment": [ "Barbell" ],
     "primary": "Chest",
     "agonists": [
@@ -1122,6 +1131,7 @@
       " free-weights",
       " dumbbell"
     ],
+    "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/dumbbell-bench-press-1441211036.jpg",
     "equipment": [ "Dumbbell" ],
     "primary": "Chest",
     "agonists": [
@@ -1150,6 +1160,7 @@
       " weight-lifting",
       " machine-weights"
     ],
+    "img": "https://cdn.activeman.com/wp-content/uploads/2021/12/03220432/how-to-do-11.jpg",
     "equipment": [ "Weight Machine" ],
     "primary": "Chest",
     "agonists": [
@@ -1178,6 +1189,7 @@
       " weight-lifting",
       " machine-weights"
     ],
+    "img": "https://i.stack.imgur.com/rOEQ3.jpg",
     "equipment": [ "Weight Machine" ],
     "primary": "Chest",
     "agonists": [
@@ -1203,6 +1215,7 @@
       " free-weights",
       " dumbbell"
     ],
+    "img": "https://seannal.com/images/flat-dumbbell-flye.jpg",
     "equipment": [ "Dumbbell" ],
     "primary": "Chest",
     "agonists": [
@@ -1230,6 +1243,7 @@
       " weight-lifting",
       " cables"
     ],
+    "img": "https://bodybuilding-wizard.com/wp-content/uploads/2014/12/cable-crossover.jpg",
     "equipment": [ "Cable Machine" ],
     "primary": "Chest",
     "agonists": [
@@ -1257,6 +1271,7 @@
       " weight-lifting",
       " cables"
     ],
+    "img": "https://s3.amazonaws.com/prod.skimble/assets/1019634/image_iphone.jpg",
     "equipment": [ "Cable Machine" ],
     "primary": "Chest",
     "agonists": [
@@ -1286,6 +1301,7 @@
     "tags": [
       "Resistance"
     ],
+    "img": "http://www.stack.com/wp-content/uploads/Quickly-Strengthen-Your-Upper-Body-With-Pyramid-Push-Ups.jpg",
     "equipment": [ "Calithetics" ],
     "primary": "Chest",
     "agonists": [
@@ -1318,6 +1334,7 @@
       " free-weights",
       " barbell"
     ],
+    "img": "https://cdn.mos.cms.futurecdn.net/vNWR5RHgC8KsMoMGTSxEdS-1200-80.jpg",
     "equipment": [ "Barbell" ],
     "primary": "Shoulders",
     "agonists": [
@@ -1326,9 +1343,9 @@
       " triceps"
     ],
     "variations": [
+      "Seated Military Press"
     ],
     "alternatives": [
-      "Military Press",
       "Front Raise",
       "Handstand Push-up",
       "Pike Press",
@@ -1340,13 +1357,14 @@
     ]
   },
   {
-    "name": "Shoulder Press",
+    "name": "Dumbbell Shoulder Press",
     "tags": [
       "Resistance",
       " weight-lifting",
       " free-weights",
       " dumbell"
     ],
+    "img": "https://www.heandshefitness.com/wp-content/uploads/2016/10/OverheadShoulderPress.jpg",
     "equipment": [ "Dumbbell" ],
     "primary": "Shoulders",
     "agonists": [
@@ -1355,6 +1373,7 @@
       " triceps"
     ],
     "variations": [
+      "Seated Dubbell Shoulder Press"
     ],
     "alternatives": [
       "Military Press",
@@ -1376,6 +1395,7 @@
       " free-weights",
       " dumbell"
     ],
+    "img": "https://cdn.mos.cms.futurecdn.net/spmeMadc8qAz59nKTFJmZj.jpg",
     "equipment": [ "Barbell" ],
     "primary": "Back",
     "agonists": [
@@ -1402,6 +1422,7 @@
       " free-weights",
       " dumbell"
     ],
+    "img": "https://i.pinimg.com/564x/00/c2/93/00c29341434fc897876f750c41c211c7.jpg",
     "equipment": [ "Cable Machine" ],
     "primary": "Back",
     "agonists": [
@@ -1428,6 +1449,7 @@
       " free-weights",
       " dumbell"
     ],
+    "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/bodyweight-row-1441032989.jpg",
     "equipment": [ "Calithetics" ],
     "primary": "Back",
     "agonists": [
@@ -1454,6 +1476,7 @@
       " free-weights",
       " dumbell"
     ],
+    "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/02-single-arm-bent-over-row-1441211036.jpg",
     "equipment": [ "Dumbbell" ],
     "primary": "Back",
     "agonists": [
@@ -1480,6 +1503,7 @@
       " free-weights",
       " dumbell"
     ],
+    "img": "https://best-powertower.com/wp-content/uploads/2019/03/3.-Reverse-Close-Grip-Lat-Pull-Down.jpg",
     "equipment": [ "Weight Machine" ],
     "primary": "Lats",
     "agonists": [
@@ -1505,6 +1529,7 @@
       " free-weights",
       " dumbell"
     ],
+    "img": "https://www.climbing.com/wp-content/uploads/2016/03/trainingperfectpullupsjpg.jpg",
     "equipment": [ "Calithetics" ],
     "primary": "Lats",
     "agonists": [
@@ -1530,6 +1555,7 @@
       " free-weights",
       " dumbell"
     ],
+    "img": "https://www.buildingbeast.com/wp-content/uploads/2020/07/barbell-shrugs.jpg",
     "equipment": [ "Barbell" ],
     "agonists": [
       " upper trapezius",
@@ -1552,6 +1578,7 @@
       " free-weights",
       " dumbell"
     ],
+    "img": "https://thumbs.dreamstime.com/b/dumbbell-shrugs-personal-trainer-doing-training-his-trapezius-isolated-white-31439338.jpg",
     "equipment": [ "Dumbbell" ],
     "agonists": [
       " upper trapezius",
@@ -1574,6 +1601,7 @@
       " free-weights",
       " dumbell"
     ],
+    "img": "https://hiitacademy.com/wp-content/uploads/2015/02/tricep_dips_feet_ext-1024x495.jpg",
     "equipment": [ "Calithetics" ],
     "primary": "Triceps",
     "agonists": [
@@ -1598,6 +1626,7 @@
       " free-weights",
       " dumbell"
     ],
+    "img": "https://bodybuilding-wizard.com/wp-content/uploads/2014/04/incline-ez-bar-lying-triceps-extension.jpg",
     "equipment": [ "Barbell" ],
     "primary": "Triceps",
     "agonists": [
@@ -1621,6 +1650,7 @@
       " weight-lifting",
       " free-weights"
     ],
+    "img": "https://i.pinimg.com/originals/a2/4e/ab/a24eab95ec0febb991ac33c5c8d37f6c.jpg",
     "equipment": [ "Cable Machine" ],
     "primary": "Triceps",
     "agonists": [
@@ -1645,6 +1675,7 @@
       " free-weights",
       " dumbell"
     ],
+    "img": "https://cdn.prod.openfit.com/uploads/2018/02/02181500/seated-overhead-triceps-extension.jpg",
     "equipment": [ "Dumbbell" ],
     "primary": "Triceps",
     "agonists": [
@@ -1669,6 +1700,7 @@
       " free-weights",
       " dumbell"
     ],
+    "img": "https://media1.popsugar-assets.com/files/thumbor/vR1i54EGDIq5WxzLwT4_lNvNQaQ/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2015/03/10/605/n/1922729/570ff954_bicep-curls-Red/i/Dumbbell-Exercise-For-Biceps-Bicep-Curl.jpg",
     "equipment": [ "Dumbbell" ],
     "primary": "Biceps",
     "agonists": [
@@ -1692,6 +1724,7 @@
       " free-weights",
       " dumbell"
     ],
+    "img": "https://irongrif.com/uploads/exercise/image/12/jpg_375_cable-curl.jpg",
     "equipment": [ "Cable Machine" ],
     "primary": "Biceps",
     "agonists": [
@@ -1715,6 +1748,7 @@
       " free-weights",
       " dumbell"
     ],
+    "img": "https://i.pinimg.com/originals/d1/9b/dd/d19bdd4c8dd4f0217ad25da7121fd2a9.jpg",
     "equipment": [ "Barbell" ],
     "primary": "Biceps",
     "agonists": [
@@ -1738,6 +1772,7 @@
       " free-weights",
       " dumbell"
     ],
+    "img": "https://www.researchgate.net/profile/Florian-Michaud/publication/353924505/figure/fig3/AS:1057397732823040@1629114673421/Deadlift-technique-a-Step-1-b-Step-2-c-Step-3.ppm",
     "equipment": [ "Barbell" ],
     "primary": "Glutes",
     "agonists": [
@@ -1764,6 +1799,7 @@
       " free-weights",
       " dumbell"
     ],
+    "img": "https://experiencelife.lifetime.life/wp-content/uploads/2021/08/f2-barbell-back-squat.jpg",
     "equipment": [ "Barbell" ],
     "agonists": [
       " gluteus maximus",
@@ -1790,6 +1826,7 @@
       " free-weights",
       " dumbell"
     ],
+    "img": "https://gethealthyu.com/wp-content/uploads/2014/08/Alternating-Forward-Lunges_Exercise.jpg",
     "equipment": [ "Barbell", "Calithetics", "Dumbbell" ],
     "agonists": [
       " gluteus maximus",
@@ -1815,6 +1852,7 @@
       " free-weights",
       " dumbell"
     ],
+    "img": "https://res.cloudinary.com/display97/image/upload/dumbbell-split-squat-157045.jpg",
     "equipment": [ "Barbell", "Calithetics", "Dumbbell" ],
     "agonists": [
       " gluteus maximus",
@@ -1824,7 +1862,8 @@
       " soleus"
     ],
     "variations": [
-      "single leg split squat"
+      "single leg split squat",
+      "Elevated Split Squat"
     ],
     "alternatives": [
       "Lunge"
@@ -1838,6 +1877,7 @@
       " free-weights",
       " dumbell"
     ],
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/36/LegExtensionMachineExercise.JPG",
     "equipment": [ "Weight Machine" ],
     "primary": "Quadriceps",
     "agonists": [
@@ -1857,6 +1897,7 @@
       " weight-lifting",
       " machine weights"
     ],
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c6/LyingLegCurlMachineExercise.JPG",
     "equipment": [ "Weight Machine" ],
     "primary": "Hamstrings",
     "agonists": [
@@ -1878,6 +1919,7 @@
       " weight-lifting",
       " machine weights"
     ],
+    "img": "https://pkdeveloper.in/wp-content/uploads/2021/08/Good-mornings-2-1024x640-1.png",
     "equipment": [ "Barbell" ],
     "agonists": [
       " quadriceps",
@@ -1898,6 +1940,7 @@
       " weight-lifting",
       " machine weights"
     ],
+    "img": "http://coachmikeblogs.com/wp-content/uploads/2016/03/book-3-image-6364.jpg",
     "equipment": [ "Weight Machine" ],
     "agonists": [
       " quadriceps",
@@ -1918,6 +1961,7 @@
       " weight-lifting",
       " machine weights"
     ],
+    "img": "https://i.pinimg.com/originals/ce/18/de/ce18deb8bb173cbf531e03c2887b7d09.png",
     "equipment": [ "Weight Machine" ],
     "primary": "Adductors",
     "agonists": [
@@ -1938,6 +1982,7 @@
       " weight-lifting",
       " machine weights"
     ],
+    "img": "https://fitnessprogramer.com/wp-content/uploads/2021/02/HiP-ABDUCTION-MACHINE.gif",
     "equipment": [ "Weight Machine" ],
     "agonists": [
       " quadriceps",
@@ -1958,6 +2003,7 @@
       " weight-lifting",
       " machine weights"
     ],
+    "img": "https://cdn.mos.cms.futurecdn.net/cY7Hze3mZNFok2L36CMStA.jpg",
     "equipment": [ "Calithetics", "Weight Machine" ],
     "primary": "Calves",
     "agonists": [
@@ -1980,6 +2026,7 @@
       "Resistance",
       " calithetics"
     ],
+    "img": "https://gethealthyu.com/wp-content/uploads/2014/07/Basic-Crunch_Exercise.jpg",
     "equipment": [ "Calithetics" ],
     "primary": "Abdominals",
     "agonists": [
@@ -2003,6 +2050,7 @@
       "Resistance",
       " calithetics"
     ],
+    "img": "https://gethealthyu.com/wp-content/uploads/2014/08/Full-Sit-Up_Exercise.jpg",
     "equipment": [ "Calithetics" ],
     "primary": "Abdominals",
     "agonists": [
@@ -2025,6 +2073,7 @@
       "Resistance",
       " calithetics"
     ],
+    "img": "https://eunicakes.files.wordpress.com/2016/02/untitled2.png",
     "equipment": [ "Calithetics" ],
     "primary": "Abdominals",
     "agonists": [
@@ -2047,6 +2096,7 @@
       "Resistance",
       " calithetics"
     ],
+    "img": "https://lawrenceparkhealth.com/wp-content/uploads/2016/03/plank.jpg",
     "equipment": [ "Calithetics" ],
     "primary": "Abdominals",
     "agonists": [
@@ -2071,6 +2121,7 @@
       "Resistance",
       " calithetics"
     ],
+    "img": "https://www.wynnfitness.com/wp-content/uploads/2019/09/c0a5b384544da20bcfebbdba4219d95a.jpg",
     "equipment": [ "Stability Ball" ],
     "primary": "Abdominals",
     "agonists": [
@@ -2092,6 +2143,7 @@
       "Resistance",
       " calithetics"
     ],
+    "img": "https://hctravisplace.com/wp-content/uploads/2020/10/abwheelrollout.jpg",
     "equipment": [ "Ab Wheel" ],
     "primary": "Abdominals",
     "agonists": [
@@ -2112,6 +2164,7 @@
       "Resistance",
       " calithetics"
     ],
+    "img": "https://weheartliving.com/wp-content/uploads/2014/07/WFnov-99718_Web.jpg",
     "equipment": [ "Calithetics" ],
     "primary": "Lower Back",
     "agonists": [
@@ -2136,6 +2189,7 @@
       "Resistance",
       " calithetics"
     ],
+    "img": "https://www4.pictures.livingly.com/mp/OHEUc7QWzJol.jpg",
     "equipment": [ "Calithetics" ],
     "primary": "Lower Back",
     "agonists": [
@@ -2159,6 +2213,7 @@
       "Resistance",
       " calithetics"
     ],
+    "img": "https://good2knowelpaso.org/images/page/exercise-like-a-supe-33649-5.jpg",
     "equipment": [ "Calithetics" ],
     "primary": "Lower Back",
     "agonists": [
@@ -2181,6 +2236,7 @@
       "Resistance",
       " calithetics"
     ],
+    "img": "https://cdn.shopify.com/s/files/1/0327/8461/3514/articles/bridge-exercise-1024x576_1024x.jpg?v=1582312376",
     "equipment": [ "Calithetics" ],
     "primary": "Lower Back",
     "agonists": [
@@ -2204,6 +2260,7 @@
       "Resistance",
       " calithetics"
     ],
+    "img": "https://64.media.tumblr.com/ec93361b975012d72122f4c332220cbf/tumblr_o81nq5gknn1re9gg7o1_1280.jpg",
     "equipment": [ "Calithetics" ],
     "primary": "Obliques",
     "agonists": [
@@ -2229,6 +2286,7 @@
       "Resistance",
       " calithetics"
     ],
+    "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/workouts/2016/04/7-moves-for-stronger-obliques-composites-side-crunch-1461690898.jpg",
     "equipment": [ "Calithetics" ],
     "primary": "Obliques",
     "agonists": [
@@ -2253,6 +2311,7 @@
       "Resistance",
       " calithetics"
     ],
+    "img": "https://www.mensjournal.com/wp-content/uploads/mf/cable-exercises-main.jpg?quality=86&strip=all",
     "equipment": [ "Cable Machine" ],
     "primary": "Obliques",
     "agonists": [
@@ -2269,31 +2328,12 @@
     ]
   },
   {
-    "name": "Side Bridge",
-    "tags": [
-      "Resistance",
-      " calithetics"
-    ],
-    "equipment": [ "Calithetics" ],
-    "primary": "Obliques",
-    "agonists": [
-    ],
-    "variations": [
-      " Kneeling Side Bridge"
-    ],
-    "alternatives": [
-      "Russian Twist",
-      "Side Crunch",
-      "Cable Twist",
-      "Side Plank"
-    ]
-  },
-  {
     "name": "Side Plank",
     "tags": [
       "Resistance",
       " calithetics"
     ],
+    "img": "https://media1.popsugar-assets.com/files/thumbor/EeH6zgtldow9ICmq43YSXGDv6Oc/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2016/12/06/853/n/1922729/9a0e507ee7841e4c_Side-Bridge.jpg",
     "equipment": [ "Calithetics" ],
     "primary": "Obliques",
     "agonists": [
