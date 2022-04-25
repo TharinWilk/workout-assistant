@@ -6,7 +6,7 @@
     ],
     "img": "https://journals.humankinetics.com/view/journals/pes/31/3/full-pes.2018-0117figuref1.jpg",
     "equipment": "Agility Ladder",
-    "description": "",
+    "description": "Starting on one end of the ladder, run to the other side, stepping in between each ladder rung. Variations change the amount off steps made in each space.",
     "muscle group": [
     ],
     "variations": [
@@ -31,6 +31,7 @@
     ],
     "img": "http://www.stack.com/wp-content/uploads/2012/12/SpeedDrill-e1354557105256.jpg",
     "equipment": "Agility Ladder",
+    "description": "Starting on one end of the ladder, run to the other side, stepping in between each ladder rung. When stepping, bring the leg up to at least a 90-degree bend. Variations change the amount off steps made in each space.",
     "muscle group": [
     ],
     "variations": [
@@ -55,6 +56,7 @@
     ],
     "img": "https://garagegymbuilder.com/wp-content/uploads/2016/09/lateral-shuffle.jpg",
     "equipment": "Agility Ladder",
+    "description": "Starting on one end of the ladder, but facing to the right or left side, side step to the other side, stepping in between each ladder rung. Variations change the amount off steps made in each space.",
     "muscle group": [
     ],
     "variations": [
@@ -77,6 +79,7 @@
     ],
     "img": "https://garagegymbuilder.com/wp-content/uploads/2016/09/Lateral-One-Leg-Bunny-Hop-1.jpg",
     "equipment": "Agility Ladder",
+    "description": "Starting on one end of the ladder, hop to the other side, landing in between each ladder rung.",
     "muscle group": [
     ],
     "variations": [
@@ -103,6 +106,7 @@
     ],
     "img": "https://m.media-amazon.com/images/S/aplus-media/sc/b1877633-eaa5-4c63-8594-4125b1f321cd.__CR0,0,300,300_PT0_SX300_V1___.png",
     "equipment": "Agility Ladder",
+    "description": "Start to the side of the ladder. While facing the ladder, step into the ladder's space, then back out. Repeat while traveling down the length of the ladder.",
     "muscle group": [
     ],
     "variations": [
@@ -128,6 +132,7 @@
     ],
     "img": "https://cdn2.hubspot.net/hubfs/2494739/Imported_Blog_Media/fig_09-036-no-source-2.jpg",
     "equipment": "Agility Ladder",
+    "description": "Beggining along the side of, and facing the ladder, start with on foot in the ladder's space, and one foot outside of the ladder's space. Travel down the ladder switching the feet so that the foot within the ladder's space is outside of the ladder and vice versa.",
     "muscle group": [
     ],
     "variations": [
@@ -149,6 +154,7 @@
     ],
     "img": "https://cdn2.sportngin.com/attachments/text_block/2600/7157/ZigzagCrossoverShuffle.gif",
     "equipment": "Agility Ladder",
+    "description": "Beggining along the side of the ladder. Facing down the length of the ladder, start with on foot in the ladder's space, and one foot outside of the ladder's space. Next bring the outside foot within the ladder's space by side stepping. After, take the foot that began in the ladder's space to the opposite side of the ladder. Finally, bring the foot remaining within the ladders space up to the next space. Repeat to the end of the ladder",
     "muscle group": [
     ],
     "variations": [
@@ -326,6 +332,7 @@
     ],
     "img": "https://www.yogapedia.com/images/uploads/792b80fd0c884040bbcfaf14656788f7.png",
     "equipment": [ "Calithetics" ],
+    "description": "Mountain pose is a simple standing pose in which you stand upright with your feet together and your body tall and strong. It is regarded as the most basic of all yoga poses. ",
     "variations": [
       " Forward Fold"
     ],
@@ -346,6 +353,7 @@
     ],
     "img": "https://www.yogapedia.com/images/uploads/silhouette-logo-trademark-poster-apparel-clothing-art-modern-art.png",
     "equipment": [ "Calithetics" ],
+    "description": "The legs are placed over the ankle in this posture, with the back foot turned at a 45-60 degree angle and the front leg bent at a 90 degree angle. The front foot's heel should be aligned with the back foot's heel. The arms are raised overhead with the palms facing each other or touching, and the hips are squared so that the torso faces the bent leg. ",
     "variations": [
       " Warrior I",
       " Warrior II",
@@ -368,6 +376,7 @@
     ],
     "img": "https://www.yogapedia.com/images/uploads/afb95eaf-0efe-4fd4-b07d-86515d44fc6b.png",
     "equipment": [ "Calithetics" ],
+    "description": "Triangle pose is a yoga posture that is performed while standing. With the legs stretched apart and the lead foot turned outward at a 90-degree angle, extend both arms vertically. One arm stretches toward the ground (but does not have to touch the ground) and the other toward the sky as the upper body bends toward the lead foot. ",
     "variations": [
       " Twisting Triangle"
     ],
@@ -388,6 +397,7 @@
     ],
     "img": "https://www.yogapedia.com/images/uploads/7284ce1b70eb4714bfad6f061337d639.png",
     "equipment": [ "Calithetics" ],
+    "description": "Place one foot forward and one foot back, bending the front knee 90-degrees to a lunging position. The back heel lifts, coming onto the ball of the back foot. The arms are lifted overhead with palms facing each other.",
     "variations": [
       " Crescent Lunge with Catcus Arms"
     ],
@@ -408,6 +418,7 @@
     ],
     "img": "https://www.yogapedia.com/images/uploads/8182ced0e2784fc1b5737f8bda1de28a.png",
     "equipment": [ "Calithetics" ],
+    "description": "Stand on one leg, pressing the foot of the other leg against the standing leg's inner thigh. The palms of the hands are touching as you reach overhead.",
     "variations": [
     ],
     "alternatives": [
@@ -427,6 +438,7 @@
     ],
     "img": "https://www.yogapedia.com/images/uploads/7149c422e030410f9fe25cc9b652d708.png",
     "equipment": [ "Calithetics" ],
+    "description": "Bend knees to act as if sitting on an imaginary chair, extending your arms upward alongside the ears.",
     "variations": [
       " Figure 4 Chair Pose"
     ],
@@ -447,6 +459,7 @@
     ],
     "img": "https://www.yogapedia.com/images/uploads/1fc24d91175b46719fe7cfbfecc05f1d.png",
     "equipment": [ "Calithetics" ],
+    "description": "Stand on one leg, bend the other leg and grasp it with your same side hand. Reach the other arm in front of you and bend at the hip, raising your back leg. Eventually, the thigh of your back leg should be parallel with the ground.",
     "variations": [
     ],
     "alternatives": [
