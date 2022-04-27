@@ -28,7 +28,7 @@
 export default {
   props: {
     exercises: {
-      type: Object,
+      type: Array,
       default: null
     }
   },

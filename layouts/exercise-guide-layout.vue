@@ -2,7 +2,7 @@
   <v-app>
     <main-navbar />
     <exercise-nav />
-    <v-main class="pa-0">
+    <v-main>
       <nuxt />
     </v-main>
     <footer-component />
