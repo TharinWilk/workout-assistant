@@ -480,17 +480,18 @@
     ],
     "equipment": [ "Bike", "Stationary Bike" ],
     "intensity": [ "Low", "Moderate", "High" ],
+    "description": "Cycling, whether on a bicycle or variety of stationary bike, is a great form of cardio. This non-weight-bearing exercise can be performed by people of all fitness levels to improve their overall health and wellness.",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZF8Djmb0oW2Gnk-m3fbZVl1DFsH9dWUgn8A&usqp=CAU"
   },
   {
     "name": "Running",
-    "text": "Typical cardio exercise that requires very little equipment and can be performed in a variety of ways, from a light jog to high intensity sprinting",
     "tags": [
       "Cardio",
       " weight-bearing"
     ],
     "equipment": [ "Calithetics", "Treadmill"],
     "intensity": "High",
+    "description": "Typical cardio exercise that requires very little equipment and can be performed in a variety of ways, from a light jog to high intensity sprinting.",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk1S2Sxnv8hkdQBLcsIoVlDknFyGortZDd8w&usqp=CAU"
   },
   {
@@ -502,6 +503,7 @@
     ],
     "equipment": [ "Pool" ],
     "intensity": [ "Moderate", "High" ],
+    "description": "With numerous stroke variations, swimming can be an all around cardio workout that utilizes the entire body while limiting the stress on joints.",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ07IeRbKJcNtwqi7EzZ9wa5p9MASQIfPR2Yw&usqp=CAU"
   },
   {
@@ -532,6 +534,7 @@
     ],
     "equipment": [ "Eliptical" ],
     "intensity": [ "Moderate", "High" ],
+    "description": "Ellipticals move in a smooth, oval motion, like riding a bike standing up, but offer fitness benifits more similar to that of running.",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfd_UK_6Y0yWYeiXlMtWIGLV4xSeG7qwZ6OQ&usqp=CAU"
   },
   {
@@ -542,6 +545,7 @@
     ],
     "equipment": [ "Arc Trainer" ],
     "intensity": [ "Moderate", "High" ],
+    "description": "This cardio machine offers a controlled version of toe tapping on a step to provide a workout targeting the lower body and core.",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIhM5rdvg-L34u9p703FyPmUIru__82P0d-g&usqp=CAU"
   },
   {
@@ -552,6 +556,7 @@
     ],
     "equipment": [ "Stair Machine" ],
     "intensity": [ "Moderate", "High" ],
+    "description": "Climbing up stairs, where on a machine or actual steps, can provide benifits to both your cardiovasular and lower body endurance.",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaj_xoUdm9wckvA2PJYuxSbjPCt7FwiMOKwg&usqp=CAU"
   },
   {
@@ -562,6 +567,7 @@
     ],
     "equipment": [ "Ladder Machine" ],
     "intensity": "High",
+    "description": "These high intensity machines provide a workout for the entire body while simulating climbing a ladder at a roughly 40-degree angle.",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmA7sJ29pBnaHtYq30NPAFGhBvsZUQ580dAqspOMOBv2GHT4hcNF7NWUloDf1f0jqlGbA&usqp=CAU"
   },
   {
@@ -572,6 +578,7 @@
     ],
     "equipment": [ "Rowing Machine" ],
     "intensity": [ "Moderate", "High" ],
+    "description": "This exercise can be performed on the water or in the gym on a machine. In either case its a great full body exercises with a focus on targeting the posterior chain muscles.",
     "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/rowing-workout-shoot-1481-1594750726.jpg?crop=1.00xw:0.752xh;0.00160xw,0.0577xh&resize=1200:*"
   },
   {
@@ -582,6 +589,7 @@
     ],
     "equipment": [ "Calithetics" ],
     "intensity": [ "Moderate", "High" ],
+    "description": "Step aerobics is a classic cardio workout. You increase your heart rate and respiration while strengthening your muscles by stepping up, around, and down from the platform in various patterns.",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYPAb6TRzrSCXGS-Gud6iWSaZsXdPhSSNoHw&usqp=CAU"
   },
   {
@@ -594,6 +602,7 @@
     ],
     "equipment": [ "Arm Cycle" ],
     "intensity": [ "Moderate", "High" ],
+    "description": "This is one of only a few cardio exercises that focuses on your upper body and core.",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfPgf3NepLAy3oWe5ybV22H5mxV95YjwEsoA&usqp=CAU"
   },
   {
@@ -606,6 +615,7 @@
     ],
     "equipment": [ "Calithetics" ],
     "intensity": [ "Moderate", "High" ],
+    "description": "This is a great outdoor cardiovascular eercise that combines the benefits of walking and stairs, though this is dependant on the terrain.",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPIfnyypkFs3Usx2bKmSAgpzeWZpyRS3Xt-A&usqp=CAU"
   },
   {
@@ -618,6 +628,7 @@
     ],
     "equipment": [ "Calithetics" ],
     "intensity": [ "Low", "Moderate", "High" ],
+    "description": "Dancing for cardio fitness can be a fun, well structured workout that has a variety of different dance styles to pull inspiration from.",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUUpSnbzvvhwsFgkO3Eaj0chjZgFdhtEL7Mw&usqp=CAU"
   },
   {
@@ -629,6 +640,7 @@
     ],
     "img": "https://www.yogapedia.com/images/uploads/cd548476f6264ac18101d1a6e9d4697d.png",
     "equipment": "Calithetics",
+    "description": "Starting from a hands-and-knees position, the core muscles are pulled in toward the spine as the back rounds and the head bends towards the ground. This pose is frequently combined with cow pose, in which the belly lowers toward the ground as the head rises, forming an arch in the back.",
     "primary": "Lower Back",
     "variations": [
       " Cat-Cow",
@@ -647,6 +659,7 @@
     ],
     "img": "http://2hhgdy43zdzm1zortu1ro2r5-wpengine.netdna-ssl.com/wp-content/uploads/2017/09/knee-to-ches-stretcht340.jpg",
     "equipment": "Calithetics",
+    "description": "Lying supine, tuck one or both knees towards the chest, grabbing them with your hands.",
     "primary": "Lower Back",
     "variations": [
     ],
@@ -663,6 +676,7 @@
     ],
     "img": "https://ccsbismarck.com/wp-content/uploads/2020/03/Pec-minor-stretch-two.png",
     "equipment": "Calithetics",
+    "description": "Standing in an open doorway, place one or both of the hands and forearms on the doorway at or above chest height. Step or lean forward until you feel a stretch across the chest and shoulders.",
     "primary": "Chest",
     "variations": [
       " Single Arm Doorway Chest Stretch",
@@ -681,6 +695,7 @@
     ],
     "img": "https://www.gazettenet.com/getattachment/9085deb2-8792-46dd-94cb-47e18379d329/17HEALTH-stretchcolumn-hg-091719-ph3",
     "equipment": "Calithetics",
+    "description": "Placing your hands behind your head, actively bring your elbows towards the back of your head without moving your hands until you feel a stretch in the chest and shoulders.",
     "primary": "Chest",
     "variations": [
     ],
@@ -697,6 +712,7 @@
     ],
     "img": "https://www.yogapedia.com/images/uploads/77cd7c59-26bd-4c6e-a7db-96e53396eab4.png",
     "equipment": "Calithetics",
+    "description": "While standing, bring one or both arms up overhead before leaning towards the side (opposite to the overhead arm in one handed variation).",
     "primary": "Lats",
     "variations": [
       "Seated Side Stretch"
@@ -714,6 +730,7 @@
     ],
     "img": "https://i.ytimg.com/vi/XEIYNpNUDx8/maxresdefault.jpg",
     "equipment": "Calithetics",
+    "description": "WHile lying in a supine position, bring both arms to an overhead position, trying to bring the arms to the floor. Make sure to keep the arms as close to your head as possible to get the best possible stretch.",
     "primary": "Lats",
     "variations": [
       ""
@@ -731,6 +748,7 @@
     ],
     "img": "https://www.yogapedia.com/images/uploads/19fc7864-88b4-4bf3-8c71-f8a0525c42dc.jpg",
     "equipment": "Calithetics",
+    "description": "Starting from the hands and knees, sit on your heels, keeping the arms outstretched and bringing the head down in between the arms.",
     "primary": "Lats",
     "variations": [
       ""
@@ -749,6 +767,7 @@
     ],
     "img": "https://www.crossfit.com/wp-content/uploads/2019/05/06154727/Squat-Clean-Collage2.jpg",
     "equipment": [ "Barbell", "Dumbbell", "Kettlebell" ],
+    "description": "Starting from a deadlift position, feet shoulder width apart, grasp the weight holding the bar with both hands also at shoulder width apart. Keeping the arms straight, bar close to your legs, and hips back, push through your feet into the floor and begin to stand upright. As the bar passes your knees, drive your hips forward until your hips, knees, and ankles are all extended. Now shrug and bend the elbows, guiding the bar upward. Once the bar approaches its maximum height, quickly force your heels back to the ground, bending the hips and knees as needed, while rotating your elbows under the bar into a front squat position. After catching the bar on the shoulders, complete the movement by fully standing. Bend knees slightly and lower barbell to mid-thigh position. Slowly lower bar with taut lower back and trunk close to vertical.",
     "primary": "Glutes",
     "agonists": [
       " quadriceps",
@@ -776,6 +795,7 @@
     ],
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtvfqtR0V4IZIfqUcNGA5VATeRdR0aUPBhuHxQ7epXrh0KKQJ2szw3XoaQzuNXJ49-BjM&usqp=CAU",
     "equipment": [ "Barbell", "Dumbbell", "Kettlebell" ],
+    "description": "Starting from a deadlift position, feet shoulder width apart, grasp the weight holding the bar with both hands also at shoulder width apart. Keeping the arms straight, bar close to your legs, and hips back, push through your feet into the floor and begin to stand upright. As the bar passes your knees, drive your hips forward until your hips, knees, and ankles are all extended. Now shrug and bend the elbows, guiding the bar upward. Once the bar approaches its maximum height, quickly force your heels back to the ground, bending the hips and knees as needed, while rotating your elbows under the bar into a front squat position. After catching the bar on the shoulders, move to a standing position before begining the jerk. Next, squat down slightly before exploding upwards, pushing the bar overhead. Lower barbell to shoulders, then bend knees slightly and lower barbell to mid-thigh position. Drop body downward and split one foot forward and other backward as fast as possible, while vigorously extending arms over head. Finish the movement by pushing up with both legs and returning the feet to a sided by side position. Slowly lower bar with taut lower back and trunk close to vertical. ",
     "primary": "Glutes",
     "agonists": [
       " quadriceps",
@@ -805,6 +825,7 @@
     ],
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTGw4YlTrYJMuiJdSdbo_usNexRrxsSlUp795L45mQ7Qz5qEES2hgh7NI34TeY6_Qv5VI&usqp=CAU",
     "equipment": [ "Barbell", "Dumbbell" ],
+    "description": "Begin holding the bar shoulder width apart above the knees with feet shoulder width apart. Keeping the arms straight, bar close to your legs, push through your feet into the floor and begin to stand upright. Simultaneously, drive your hips forward until your hips, knees, and ankles are all extended. Now shrug and bend the elbows, guiding the bar upward. Once the bar approaches its maximum height, quickly force your heels back to the ground, bending the hips and knees as needed, while rotating your elbows under the bar into a front squat position. After catching the bar on the shoulders, complete the movement by fully standing.",
     "primary": "Glutes",
     "agonists": [
       " quadriceps",
@@ -833,6 +854,7 @@
     ],
     "img": "https://fitnessvolt.com/wp-content/uploads/2017/01/Snatch-Grip-Shrug-Pull-1024x886.jpg",
     "equipment": [ "Barbell" ],
+    "description": "Begin holding the bar shoulder width apart above the knees with feet shoulder width apart. Keeping the arms straight, bar close to your legs, push through your feet into the floor and begin to stand upright. Simultaneously, drive your hips forward until your hips, knees, and ankles are all extended, leaping off the ground. Now shrug, keeping the arms straight, before landing on your feet and returning to a standing position.",
     "primary": "Glutes",
     "agonists": [
       " quadriceps",
@@ -859,6 +881,7 @@
     ],
     "img": "https://external-preview.redd.it/Ssei46td42KSHTpT-y6MVpoN00Jrh2F3ToJrVvCqMt4.jpg?auto=webp&s=d7e4ec7bced99c6e9c7a4bd07f74413bd7e6c6e1",
     "equipment": [ "Barbell" ],
+    "description": "Begin holding the bar shoulder width apart above the knees with feet shoulder width apart. Keeping the arms straight, bar close to your legs, push through your feet into the floor and begin to stand upright. Simultaneously, drive your hips forward until your hips, knees, and ankles are all extended. Now shrug and bend the elbows, guiding the bar upward to chest height before returning to a standing position.",
     "primary": "Glutes",
     "agonists": [
       " quadriceps",
@@ -885,6 +908,7 @@
     ],
     "img": "https://sportsedtv.com/img/blog/Power-Snatch-position-1.jpg",
     "equipment": [ "Barbell" ],
+    "description": "Starting with the weights resting off the ground on blocks, grasp the bar shoulder width apart with your feet also shoulder width apart. Keeping the arms straight, bar close to your legs, push through your feet into the floor and begin to stand upright. Simultaneously, drive your hips forward until your hips, knees, and ankles are all extended. Now shrug, keeping the arms straight, before landing on your heels in a standing position. return the wieghts to a resting position on the blocks.",
     "primary": "Glutes",
     "agonists": [
       " quadriceps",
@@ -911,6 +935,7 @@
     ],
     "img": "https://www.crossfit.com/wp-content/uploads/2020/01/17133940/Clean-and-Jerk-Camille2-scaled.jpg",
     "equipment": [ "Barbell", "Dumbbell", "Kettlebell" ],
+    "description": "Starting from a deadlift position, feet shoulder width apart, grasp the weight holding the bar with both hands in a very wide grip. Keeping the arms straight, bar close to your legs, and hips back, push through your feet into the floor and begin to stand upright. As the bar passes your knees, drive your hips forward until your hips, knees, and ankles are all extended. Now shrug and bend the elbows, guiding the bar upward. Once the bar approaches its maximum height, quickly force your heels back to the ground, bending the hips and knees as needed, while pulling your body under the bar. Catch bar at arm's length while moving into squat position. As soon as barbell is caught on locked out arms in squat position, squat up into standing position with barbell over head. Bend knees slightly and lower barbell to mid-thigh position. Slowly lower bar with taut lower back and trunk close to vertical.",
     "primary": "Glutes",
     "agonists": [
       " quadriceps",
@@ -939,6 +964,7 @@
     ],
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDHs47bnKgU9HINVx5iTv3PsKS160CxxlPBUPubLJlaXjmW6pbuCwwRqR_nQlyx-QlpgE&usqp=CAU",
     "equipment": [ "Barbell", "Dumbbell", "Kettlebell" ],
+    "description": "Begin holding the bar with a very wide grip above the knees with feet shoulder width apart. Keeping the arms straight, bar close to your legs, push through your feet into the floor and begin to stand upright. Simultaneously, drive your hips forward until your hips, knees, and ankles are all extended. Now shrug and bend the elbows, guiding the bar upward. Once the bar approaches its maximum height, quickly force your heels back to the ground, bending the hips and knees as needed, while pulling your body under the bar. Catch bar at arm's length while moving into squat position. As soon as barbell is caught on locked out arms in squat position, squat up into standing position with barbell over head. Bend knees slightly and lower barbell to mid-thigh position. Slowly lower bar with taut lower back and trunk close to vertical.",
     "primary": "Glutes",
     "agonists": [
       " quadriceps",
@@ -964,6 +990,7 @@
     ],
     "img": "https://sportsedtv.com/img/blog/Power-Snatch-4..png",
     "equipment": [ "Barbell" ],
+    "description": "Starting with the weights resting off the ground on blocks, approach the bar with feet shoulder width apart, grasp the weight holding the bar with both hands in a very wide grip. Keeping the arms straight, bar close to your legs, and hips back, push through your feet into the floor and begin to stand upright. As the bar passes your knees, drive your hips forward until your hips, knees, and ankles are all extended. Now shrug and bend the elbows, guiding the bar upward. Once the bar approaches its maximum height, quickly force your heels back to the ground, bending the hips and knees as needed, while pulling your body under the bar. Catch bar at arm's length while moving into squat position. As soon as barbell is caught on locked out arms in squat position, squat up into standing position with barbell over head. Bend knees slightly and lower barbell to mid-thigh position. Slowly lower bar with taut lower back and trunk close to vertical until weights rest on the blocks.",
     "primary": "Glutes",
     "agonists": [
       " quadriceps",
@@ -977,57 +1004,6 @@
       "Hang Snatch",
       "Block Snatch Pull",
       "High Block Snatch"
-    ]
-  },
-  {
-    "name": "Block Snatch Pull",
-    "tags": [
-      "Power",
-      " Resistance",
-      " weight-lifting",
-      " free weights"
-    ],
-    "img": "https://sportsedtv.com/img/blog/Power-Snatch-position-1.jpg",
-    "equipment": [ "Barbell" ],
-    "primary": "Glutes",
-    "agonists": [
-      " quadriceps",
-      " adductor maagus",
-      " soleus"
-    ],
-    "variations": [
-    ],
-    "alternatives": [
-      "Snatch",
-      "Hang Snatch",
-      "Block Snatch",
-      "High Block Snatch"
-    ]
-  },
-  {
-    "name": "High Block Snatch",
-    "tags": [
-      "Power",
-      " Resistance",
-      " weight-lifting",
-      " free weights"
-    ],
-    "img": "https://sportsedtv.com/img/blog/Power-Snatch-position-1.jpgs",
-    "equipment": [ "Barbell" ],
-    "primary": "Glutes",
-    "description": "",
-    "agonists": [
-      " quadriceps",
-      " adductor maagus",
-      " soleus"
-    ],
-    "variations": [
-    ],
-    "alternatives": [
-      "Snatch",
-      "Hang Snatch",
-      "Block Snatch",
-      "Block Snatch Pull"
     ]
   },
   {
@@ -1113,6 +1089,7 @@
     ],
     "img": "https://i.ytimg.com/vi/SCVCLChPQFY/maxresdefault.jpg",
     "equipment": [ "Barbell" ],
+    "description": "Lying supine on the bench, dismount barbell from rack over upper chest using wide oblique overhand grip. Lower weight to the chest. Press the bar upward until arms are extended.",
     "primary": "Chest",
     "agonists": [
       " pectoralis major",
@@ -1146,6 +1123,7 @@
     ],
     "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/dumbbell-bench-press-1441211036.jpg",
     "equipment": [ "Dumbbell" ],
+    "description": "Lying supine on the bench, holding dumbbells over upper chest in a neutral grip position. Lower weights to chest. Press the weights upward until arms are extended.",
     "primary": "Chest",
     "agonists": [
       " pectoralis major",
@@ -1175,6 +1153,7 @@
     ],
     "img": "https://cdn.activeman.com/wp-content/uploads/2021/12/03220432/how-to-do-11.jpg",
     "equipment": [ "Weight Machine" ],
+    "description": "This exercise is similar to other chest press exercises. Due to the variety of machines, please see machine instructions for how to perform this exercise correctly.",
     "primary": "Chest",
     "agonists": [
       " pectoralis major",
@@ -1204,6 +1183,7 @@
     ],
     "img": "https://i.stack.imgur.com/rOEQ3.jpg",
     "equipment": [ "Weight Machine" ],
+    "description": "This exercise is similar to other chest fly exercises. Due to the variety of machines, please see machine instructions for how to perform this exercise correctly.",
     "primary": "Chest",
     "agonists": [
       " pectoralis major",
@@ -1230,6 +1210,7 @@
     ],
     "img": "https://seannal.com/images/flat-dumbbell-flye.jpg",
     "equipment": [ "Dumbbell" ],
+    "description": "Lying supine on the bench, holding dumbbells over upper chest in a neutral grip position. Lower the dumbbells to sides until your chest muscles are stretched with your elbows fixed in slightly bent position. Bring the dumbbells together in wide hugging motion until the dumbbells are nearly together.",
     "primary": "Chest",
     "agonists": [
       " pectoralis major",
@@ -1258,6 +1239,7 @@
     ],
     "img": "https://bodybuilding-wizard.com/wp-content/uploads/2014/12/cable-crossover.jpg",
     "equipment": [ "Cable Machine" ],
+    "description": "Grasp two opposing high pulley with handle attachments. Stand with pulleys to each side, step and lean forward, bending your elbows slightly. Bring the cable attachments together in hugging motion with your elbows in fixed position. Return to the starting position until your chest muscles are stretched.",
     "primary": "Chest",
     "agonists": [
       " pectoralis major",
@@ -1286,6 +1268,7 @@
     ],
     "img": "https://s3.amazonaws.com/prod.skimble/assets/1019634/image_iphone.jpg",
     "equipment": [ "Cable Machine" ],
+    "description": "Stand between two shoulder height pulleys, facing away from the cables, graps the cable handle attachments. Position forearms horizontally and parallel with your hands at elbow width. Lean and step forward with one foot in front, bending forward leg. Push the handles forward until your arms are straight and parallel to one another. Return to the starting position in a controlled motion.",
     "primary": "Chest",
     "agonists": [
       " pectoralis major",
@@ -1316,6 +1299,7 @@
     ],
     "img": "http://www.stack.com/wp-content/uploads/Quickly-Strengthen-Your-Upper-Body-With-Pyramid-Push-Ups.jpg",
     "equipment": [ "Calithetics" ],
+    "description": "Lie prone on floor with your hands slightly wider than shoulder width apart. Raise your body up off floor by extending your arms with your body straight. Keeping the body straight, lower your body to floor by bending your arms. Push body up until your arms are extended.",
     "primary": "Chest",
     "agonists": [
       " pectoralis major",
@@ -1349,6 +1333,7 @@
     ],
     "img": "https://cdn.mos.cms.futurecdn.net/vNWR5RHgC8KsMoMGTSxEdS-1200-80.jpg",
     "equipment": [ "Barbell" ],
+    "description": "Grasp the barbell from a rack or clean the barbell from the floor with an overhand grip, slightly wider than shoulder width apart. Position the bar in front of neck before pressing the bar upwards until your arms are extended overhead. Lower the bar back to the starting position.",
     "primary": "Shoulders",
     "agonists": [
       " anterior deltoid",
@@ -1379,6 +1364,7 @@
     ],
     "img": "https://www.heandshefitness.com/wp-content/uploads/2016/10/OverheadShoulderPress.jpg",
     "equipment": [ "Dumbbell" ],
+    "description": "Grasp the dummbells with an overhand grip, slightly wider than shoulder width apart and position them just above the shoulders along side the head, keeping the weights, hands, and elbows inline. Press the weights upwards until your arms are extended overhead. Lower the weights back to the starting position.",
     "primary": "Shoulders",
     "agonists": [
       " anterior deltoid",
@@ -1410,6 +1396,7 @@
     ],
     "img": "https://cdn.mos.cms.futurecdn.net/spmeMadc8qAz59nKTFJmZj.jpg",
     "equipment": [ "Barbell" ],
+    "description": "Bend your knees slightly and bend over the bar with your back straight. Grasp the bar with a wide overhand grip. Pull the bar to your upper waist before returning to the starting position with your arms extended and shoulders stretched downward.",
     "primary": "Back",
     "agonists": [
       " trapezius",
@@ -1437,6 +1424,7 @@
     ],
     "img": "https://i.pinimg.com/564x/00/c2/93/00c29341434fc897876f750c41c211c7.jpg",
     "equipment": [ "Cable Machine" ],
+    "description": "Whether from a seated, kneeling, or standing position, grasp the handles, keeping your back straight and chest out. Pull your shoulders and arms back as the cable attachments are pulled towards the body. Return to the starting position with your arms extended.",
     "primary": "Back",
     "agonists": [
       " trapezius",
@@ -1464,6 +1452,7 @@
     ],
     "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/bodyweight-row-1441032989.jpg",
     "equipment": [ "Calithetics" ],
+    "description": "Lay on your back under a fixed horizontal bar. Grasp the bar with a wide overhand grip. Keeping the body straight, pull your body up to the bar. Return to the starting position with your arms extended and shoulders are stretched forward.",
     "primary": "Back",
     "agonists": [
       " trapezius",
@@ -1491,6 +1480,7 @@
     ],
     "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/02-single-arm-bent-over-row-1441211036.jpg",
     "equipment": [ "Dumbbell" ],
+    "description": "Grasp the dumbbells (or dumbbell) with a wide overhand, underhand, or neutral grip. Bend your knees slightly and bend at the hips over the ground with your back straight. Pull the weights to your body before returning to the starting position with your arms extended and shoulders stretched downward.",
     "primary": "Back",
     "agonists": [
       " trapezius",
@@ -1518,6 +1508,7 @@
     ],
     "img": "https://best-powertower.com/wp-content/uploads/2019/03/3.-Reverse-Close-Grip-Lat-Pull-Down.jpg",
     "equipment": [ "Weight Machine" ],
+    "description": "Sit on the machine's seat and reach up to grasp handles with an overhand, underhand, or neutral grip. Pull the handles down until neck or chin height. Return to the starting position with your arms overhead and extended.",
     "primary": "Lats",
     "agonists": [
       " latissimus dorsi",
@@ -1544,6 +1535,7 @@
     ],
     "img": "https://www.climbing.com/wp-content/uploads/2016/03/trainingperfectpullupsjpg.jpg",
     "equipment": [ "Calithetics" ],
+    "description": "Grasp the pull-up bar with an overhand, underhand, or neutral grip. Pull the body up until your neck reaches height of your hands. Lower your body until your arms and shoulders are fully extended.",
     "primary": "Lats",
     "agonists": [
       " latissimus dorsi",
@@ -1570,6 +1562,7 @@
     ],
     "img": "https://www.buildingbeast.com/wp-content/uploads/2020/07/barbell-shrugs.jpg",
     "equipment": [ "Barbell" ],
+    "description": "Stand holding the barbell with an overhand or mixed grip, shoulder width apart or slightly wider. Elevate your shoulders as high as possible before returning to the starting position.",
     "agonists": [
       " upper trapezius",
       " middle trapezius",
@@ -1593,6 +1586,7 @@
     ],
     "img": "https://thumbs.dreamstime.com/b/dumbbell-shrugs-personal-trainer-doing-training-his-trapezius-isolated-white-31439338.jpg",
     "equipment": [ "Dumbbell" ],
+    "description": "Stand holding the weughts with an overhand or neutral grip, shoulder width apart or slightly wider. Elevate your shoulders as high as possible before returning to the starting position.",
     "agonists": [
       " upper trapezius",
       " middle trapezius",
@@ -1616,6 +1610,7 @@
     ],
     "img": "https://hiitacademy.com/wp-content/uploads/2015/02/tricep_dips_feet_ext-1024x495.jpg",
     "equipment": [ "Calithetics" ],
+    "description": "Place your hands on a bar or bench with your arms extended and shoulders depressed. Lower the body until tightness in the shoulders before pushing upwards to the starting position.",
     "primary": "Triceps",
     "agonists": [
       " triceps brachii",
@@ -1641,6 +1636,7 @@
     ],
     "img": "https://bodybuilding-wizard.com/wp-content/uploads/2014/04/incline-ez-bar-lying-triceps-extension.jpg",
     "equipment": [ "Barbell" ],
+    "description": "Lie on a bench with a narrow overhand grip on the barbell. Position the barbell over the chest or forehead with arms extended. Lower the bar by bending your elbows. As the bar nears your head, either stop or move your elbows slightly back just enough to allow the bar to clear around curvature of the head. Return to the starting position by extending at the elbows.",
     "primary": "Triceps",
     "agonists": [
       " triceps brachii",
@@ -1665,6 +1661,7 @@
     ],
     "img": "https://i.pinimg.com/originals/a2/4e/ab/a24eab95ec0febb991ac33c5c8d37f6c.jpg",
     "equipment": [ "Cable Machine" ],
+    "description": "Face the high pulleys and grasp cable attachment with both hands and a narrow overhand or neutral grip. Position your elbows to the side. Extend arms down before returning to the starting position with your forearms is close to your upper arms.",
     "primary": "Triceps",
     "agonists": [
       " triceps brachii",
@@ -1690,6 +1687,7 @@
     ],
     "img": "https://cdn.prod.openfit.com/uploads/2018/02/02181500/seated-overhead-triceps-extension.jpg",
     "equipment": [ "Dumbbell" ],
+    "description": "While seated or standing, position one dumbbell over head with both hands under the inner plate (heart shaped grip). With your elbows over head, lower the forearms behind upper arms by flexing at the elbows. Raise dumbbell over head by extending elbows and return to the starting position.",
     "primary": "Triceps",
     "agonists": [
       " triceps brachii",
@@ -1715,6 +1713,7 @@
     ],
     "img": "https://media1.popsugar-assets.com/files/thumbor/vR1i54EGDIq5WxzLwT4_lNvNQaQ/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2015/03/10/605/n/1922729/570ff954_bicep-curls-Red/i/Dumbbell-Exercise-For-Biceps-Bicep-Curl.jpg",
     "equipment": [ "Dumbbell" ],
+    "description": "Grasp the weights with your hands shoulder width apart and an underhand or neutral grip. With your elbows tight to your sides, raise the weights until your forearms are vertical. Return to the starting position by Lowering your arms until they are fully extended.",
     "primary": "Biceps",
     "agonists": [
       " triceps brachii",
@@ -1739,6 +1738,7 @@
     ],
     "img": "https://irongrif.com/uploads/exercise/image/12/jpg_375_cable-curl.jpg",
     "equipment": [ "Cable Machine" ],
+    "description": "Grasp the cable attachments with your hands shoulder width apart and an underhand or neutral grip. With your elbows tight to your sides, raise the attachments until your forearms are vertical. Return to the starting position by Lowering your arms until they are fully extended.",
     "primary": "Biceps",
     "agonists": [
       " triceps brachii",
@@ -1763,6 +1763,7 @@
     ],
     "img": "https://i.pinimg.com/originals/d1/9b/dd/d19bdd4c8dd4f0217ad25da7121fd2a9.jpg",
     "equipment": [ "Barbell" ],
+    "description": "Grasp the bar with your hands shoulder width apart and an underhand grip. With your elbows tight to your sides, raise the bar until your forearms are vertical. Return to the starting position by Lowering your arms until they are fully extended.",
     "primary": "Biceps",
     "agonists": [
       " triceps brachii",
@@ -1787,6 +1788,7 @@
     ],
     "img": "https://www.researchgate.net/profile/Florian-Michaud/publication/353924505/figure/fig3/AS:1057397732823040@1629114673421/Deadlift-technique-a-Step-1-b-Step-2-c-Step-3.ppm",
     "equipment": [ "Barbell" ],
+    "description": "Starting with your feet shoulder width apart, grasp the weights with an overhand or mixed grip. Lift the weights by extending your hips and knees to full extension. Pull your shoulders back at the top of lift if rounded. Return the weights to the floor by bending at the hips while allowing your knees to bend forward, keeping your back straight and your knees pointed same direction as your feet.",
     "primary": "Glutes",
     "agonists": [
       " gluteus maximus",
@@ -1814,6 +1816,7 @@
     ],
     "img": "https://experiencelife.lifetime.life/wp-content/uploads/2021/08/f2-barbell-back-squat.jpg",
     "equipment": [ "Barbell" ],
+    "description": "Starting from the rack with a bar at upper chest height, position the bar low on the back of the shoulders. Grasp the bar with both hands and dismount the bar from the rack, standing with your feet shoulder width apart or slightly wider. Squat down by bending the hips back and allowing your knees to bend forward, though behind the toes. Keep your back straight as you descend. Once your thighs are parallel to the floor, push through your feet and extend at the knees and hips until your legs are straight.",
     "agonists": [
       " gluteus maximus",
       " hamdtrings",
@@ -1841,6 +1844,7 @@
     ],
     "img": "https://gethealthyu.com/wp-content/uploads/2014/08/Alternating-Forward-Lunges_Exercise.jpg",
     "equipment": [ "Barbell", "Calithetics", "Dumbbell" ],
+    "description": "From a standing position, lunge forward with one leg, landing on the heel then forefoot. Lower your body by flexing the knee and hip of the front leg until the rear leg's knee is almost in contact with the floor. Return to the starting position by forcibly extending the hip and knee of the forward leg.",
     "agonists": [
       " gluteus maximus",
       " hamdtrings",
@@ -1867,6 +1871,7 @@
     ],
     "img": "https://res.cloudinary.com/display97/image/upload/dumbbell-split-squat-157045.jpg",
     "equipment": [ "Barbell", "Calithetics", "Dumbbell" ],
+    "description": "Starting in a lunge position with one leg. Lower your body by flexing the knee and hip of the front leg until the rear leg's knee is almost in contact with the floor. Return to the starting position by forcibly extending the hip and knee of the forward leg.",
     "agonists": [
       " gluteus maximus",
       " hamdtrings",
@@ -1892,6 +1897,7 @@
     ],
     "img": "https://upload.wikimedia.org/wikipedia/commons/3/36/LegExtensionMachineExercise.JPG",
     "equipment": [ "Weight Machine" ],
+    "description": "Sit on the machine with your back supported and your knee in alignment with the point of articulation. Move the apparatus forward and upward by extending the knee until the leg is straight. Return to the starting positon.",
     "primary": "Quadriceps",
     "agonists": [
       " quadriceps",
@@ -1912,6 +1918,7 @@
     ],
     "img": "https://upload.wikimedia.org/wikipedia/commons/c/c6/LyingLegCurlMachineExercise.JPG",
     "equipment": [ "Weight Machine" ],
+    "description": "",
     "primary": "Hamstrings",
     "agonists": [
       " quadriceps",
@@ -1934,6 +1941,7 @@
     ],
     "img": "https://pkdeveloper.in/wp-content/uploads/2021/08/Good-mornings-2-1024x640-1.png",
     "equipment": [ "Barbell" ],
+    "description": "Whether in a lying or seated position, align your knees with the machines point of articulation. Raise the apparatus by flexing the knee until it is touching the glutes or back of the legs. Return to the starting position.",
     "agonists": [
       " quadriceps",
       " adductor maagus",
@@ -1955,6 +1963,7 @@
     ],
     "img": "http://coachmikeblogs.com/wp-content/uploads/2016/03/book-3-image-6364.jpg",
     "equipment": [ "Weight Machine" ],
+    "description": "Position your thighs prone on the machines large pad and lower leg under smaller padded bar. Lower your body by flexing at the hips before extending the hips fully to the starting position.",
     "agonists": [
       " quadriceps",
       " adductor maagus",
@@ -1976,6 +1985,7 @@
     ],
     "img": "https://i.pinimg.com/originals/ce/18/de/ce18deb8bb173cbf531e03c2887b7d09.png",
     "equipment": [ "Weight Machine" ],
+    "description": "Seespecific machine description on how to properly use.",
     "primary": "Adductors",
     "agonists": [
       " quadriceps",
@@ -1997,6 +2007,7 @@
     ],
     "img": "https://fitnessprogramer.com/wp-content/uploads/2021/02/HiP-ABDUCTION-MACHINE.gif",
     "equipment": [ "Weight Machine" ],
+    "description": "See specific machine description on how to properly use.",
     "agonists": [
       " quadriceps",
       " adductor maagus",
@@ -2018,6 +2029,7 @@
     ],
     "img": "https://cdn.mos.cms.futurecdn.net/cY7Hze3mZNFok2L36CMStA.jpg",
     "equipment": [ "Calithetics", "Weight Machine" ],
+    "description": "From a standing position, raise your heels off of the ground by extending at the ankles as high as possible. Return to starting position by lowering the heels until they are back on the ground or stretched if from an elevated position.",
     "primary": "Calves",
     "agonists": [
       " quadriceps",
@@ -2041,6 +2053,7 @@
     ],
     "img": "https://gethealthyu.com/wp-content/uploads/2014/07/Basic-Crunch_Exercise.jpg",
     "equipment": [ "Calithetics" ],
+    "description": "Lie supine on mat with your feet on the floor and your knees bent, placing your hands across your shoulders or along your head. Flex at the waist (crunch), until the bottom of your shoulder blades are off of the ground. Return to the starting postion.",
     "primary": "Abdominals",
     "agonists": [
       " quadriceps",
@@ -2065,6 +2078,7 @@
     ],
     "img": "https://gethealthyu.com/wp-content/uploads/2014/08/Full-Sit-Up_Exercise.jpg",
     "equipment": [ "Calithetics" ],
+    "description": "Lie supine on mat with your feet on the floor and your knees bent, placing your hands across your shoulders or along your head. Flex at the waist (crunch) and hips, until your torso reaches your legs. Return to the starting postion.",
     "primary": "Abdominals",
     "agonists": [
       " quadriceps",
@@ -2088,6 +2102,7 @@
     ],
     "img": "https://eunicakes.files.wordpress.com/2016/02/untitled2.png",
     "equipment": [ "Calithetics" ],
+    "description": "Lie supine with your hands to your sides. Simultaneously raise your knees and torso until your hips and knees are flexed. Return to starting position with your waist, hips and knees extended.",
     "primary": "Abdominals",
     "agonists": [
       " quadriceps",
@@ -2111,6 +2126,7 @@
     ],
     "img": "https://lawrenceparkhealth.com/wp-content/uploads/2016/03/plank.jpg",
     "equipment": [ "Calithetics" ],
+    "description": "While prone place your forearms on the ground, with your ellbows under your shoulders and your legs together with your forefoot on the floor. Raise you body upwards by straightening your body in a line. Hold the position until fatigue or for a specific amount of time.",
     "primary": "Abdominals",
     "agonists": [
       " quadriceps",
@@ -2136,6 +2152,7 @@
     ],
     "img": "https://www.wynnfitness.com/wp-content/uploads/2019/09/c0a5b384544da20bcfebbdba4219d95a.jpg",
     "equipment": [ "Stability Ball" ],
+    "description": "Kneel on the floor or mat facing a stability ball within arm's reach. Straighten hips with subtle bend while placing your fist or forearms on the upper side of ball closest to hips. Lean forward and extend arms outward over the ball rolling as far as possible. Raise the body back up by pulling your arms back until you are kneeling upright in the original position.",
     "primary": "Abdominals",
     "agonists": [
       " quadriceps",
@@ -2151,27 +2168,6 @@
     ]
   },
   {
-    "name": "Ab Wheel Rollout",
-    "tags": [
-      "Resistance",
-      " calithetics"
-    ],
-    "img": "https://hctravisplace.com/wp-content/uploads/2020/10/abwheelrollout.jpg",
-    "equipment": [ "Ab Wheel" ],
-    "primary": "Abdominals",
-    "agonists": [
-      " quadriceps",
-      " adductor maagus",
-      " soleus"
-    ],
-    "variations": [
-    ],
-    "alternatives": [
-      "Front Plank",
-      "Stability Ball Rollout"
-    ]
-  },
-  {
     "name": "Back Extension",
     "tags": [
       "Resistance",
@@ -2179,6 +2175,7 @@
     ],
     "img": "https://weheartliving.com/wp-content/uploads/2014/07/WFnov-99718_Web.jpg",
     "equipment": [ "Calithetics" ],
+    "description": "Position your thighs prone on the machines large pad and lower leg under smaller padded bar. Lower your body by flexing at the waist before extending fully to the starting position.",
     "primary": "Lower Back",
     "agonists": [
       " quadriceps",
@@ -2204,6 +2201,7 @@
     ],
     "img": "https://www4.pictures.livingly.com/mp/OHEUc7QWzJol.jpg",
     "equipment": [ "Calithetics" ],
+    "description": "While on a mat, kneel on all fours with your legs an hands slightly apart. Raise your arm out straight beside your head while Simultaneously extending the opposite side leg out behind the body. Lower the arm and leg back to the floor to the starting position.",
     "primary": "Lower Back",
     "agonists": [
       " quadriceps",
@@ -2228,6 +2226,7 @@
     ],
     "img": "https://good2knowelpaso.org/images/page/exercise-like-a-supe-33649-5.jpg",
     "equipment": [ "Calithetics" ],
+    "description": "Lie prone on the floor with your arms out stretched in front of you. Slowly raise your upper and lower body off of the floor. Either hold until fatigue or a specific amount of time, or lower the body to the starting position and repeat.",
     "primary": "Lower Back",
     "agonists": [
       " quadriceps",
@@ -2244,30 +2243,6 @@
     ]
   },
   {
-    "name": "Bridge",
-    "tags": [
-      "Resistance",
-      " calithetics"
-    ],
-    "img": "https://cdn.shopify.com/s/files/1/0327/8461/3514/articles/bridge-exercise-1024x576_1024x.jpg?v=1582312376",
-    "equipment": [ "Calithetics" ],
-    "primary": "Lower Back",
-    "agonists": [
-      " quadriceps",
-      " adductor maagus",
-      " soleus"
-    ],
-    "variations": [
-      " Isometric Bridge",
-      " Single Leg Bridge"
-    ],
-    "alternatives": [
-      "Back Extension",
-      "Bird Dog",
-      "Superman"
-    ]
-  },
-  {
     "name": "Russian Twist",
     "tags": [
       "Resistance",
@@ -2275,6 +2250,7 @@
     ],
     "img": "https://64.media.tumblr.com/ec93361b975012d72122f4c332220cbf/tumblr_o81nq5gknn1re9gg7o1_1280.jpg",
     "equipment": [ "Calithetics" ],
+    "description": "sit on the floor, elevating your feet off the ground and holding a weight, or clasmping your hands. Turn your torso from one side to the other.",
     "primary": "Obliques",
     "agonists": [
       " quadriceps",
@@ -2301,6 +2277,7 @@
     ],
     "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/workouts/2016/04/7-moves-for-stronger-obliques-composites-side-crunch-1461690898.jpg",
     "equipment": [ "Calithetics" ],
+    "description": "Lie on your side, knees and feet stacked, with our torso turned to have your body facing upwards. Raise your upper body off the ground before returning to the starting position.",
     "primary": "Obliques",
     "agonists": [
       " quadriceps",
@@ -2326,6 +2303,7 @@
     ],
     "img": "https://www.mensjournal.com/wp-content/uploads/mf/cable-exercises-main.jpg?quality=86&strip=all",
     "equipment": [ "Cable Machine" ],
+    "description": "Grab the cable handle at chest height with both hands. Position your body perpendicular to the cable in a stable stance. Rotate your core, limiting the amount of movement from your hips, until the core is unable to twist further. Return to the starting position.",
     "primary": "Obliques",
     "agonists": [
     ],
@@ -2348,6 +2326,7 @@
     ],
     "img": "https://media1.popsugar-assets.com/files/thumbor/EeH6zgtldow9ICmq43YSXGDv6Oc/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2016/12/06/853/n/1922729/9a0e507ee7841e4c_Side-Bridge.jpg",
     "equipment": [ "Calithetics" ],
+    "description": "Lie on your side, placing your forearm on the mat with your elbow and shoulder inline. Place your upper leg on top of your lower leg. Raise your body upwards by straightening out your waist so that your body is ridged. Hold the position until fatigue or for a specific amount of time.",
     "primary": "Obliques",
     "agonists": [
       " quadriceps",
