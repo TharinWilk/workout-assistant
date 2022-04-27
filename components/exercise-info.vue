@@ -1,9 +1,16 @@
 <template lang="html">
   <div class="">
-    <v-card v-for="item in $store.state.exercise" ref="exerciseInfo" :key="item.name" elevation="1">
+    <v-card
+      v-for="item in $store.state.exercise"
+      ref="exerciseInfo"
+      :key="item.name"
+      elevation="5"
+      max-width="1160px"
+      class="mx-auto my-4"
+    >
       <!-- Exercise Title -->
       <v-card-title>
-        <h2 class="text-h5 text-sm-h4 font-weight-bold">
+        <h2 class="text-h5 text-sm-h3 font-weight-bold mx-auto">
           {{ item.name }}
         </h2>
       </v-card-title>
@@ -13,11 +20,24 @@
           Intensity Level: {{ item.intensity }}
         </p>
         <!-- Exercise Img -->
-        <v-img v-if="item.img" :src="item.img" max-width="288px" height="160px" />
+        <v-img
+          v-if="item.img"
+          :src="item.img"
+          max-width="300px"
+          max-height="300px"
+          contain
+          class="mx-auto"
+        />
+        <!-- Exercise Tags -->
+        <div v-if="item.tags">
+          <span>Tags:</span>
+          <span v-for="tags in item.tags" :key="tags" class="text-caption">{{ tags }}, </span>
+        </div>
         <!-- Exercise Description -->
-        <p v-if="item.description">
-          {{ item.description }}
-        </p>
+        <div v-if="item.description" class="my-4">
+          <h4 class="text-center text-h6 text-decoration-underline">Exercise Description</h4>
+          <p>{{ item.description }}</p>
+        </div>
         <!-- Exercise Progression -->
         <v-list v-if="item.progression" min-height="20px">
           <v-list-item class="d-flex flex-column">
@@ -50,19 +70,20 @@
           </v-list-item>
         </v-list>
         <!-- Exercise Variations -->
-        <div v-if="item.variations" class="d-block">
-          <span v-for="variations in item.variations" :key="variations" class="text-caption">{{ variations }}</span>
+        <div v-if="item.variations" class="my-4">
+          <h4 class="text-center text-h6 text-decoration-underline">Exercises Variations</h4>
+          <v-layout align-center justify-center column>
+            <span v-for="variations in item.variations" :key="variations"> {{ variations }} </span>
+          </v-layout>
         </div>
         <!-- Exercise Alternatives -->
-        <div v-if="item.alternatives">
-          <v-btn v-for="alternatives in item.alternatives" :key="alternatives" elevation="0" @click="selectExercise">
-            <span>{{ alternatives }}</span>
-          </v-btn>
-        </div>
-        <!-- Exercise Tags -->
-        <div v-if="item.tags">
-          <span>Tags:</span>
-          <span v-for="tags in item.tags" :key="tags" class="text-caption">{{ tags }}, </span>
+        <div v-if="item.alternatives" class="my-4">
+          <h4 class="text-center text-h6 text-decoration-underline">Alternative Exercises</h4>
+          <v-layout align-center justify-center wrap>
+            <v-btn v-for="alternatives in item.alternatives" :key="alternatives" elevation="0" @click="selectExercise" class="ma-1">
+              <span>{{ alternatives }}</span>
+            </v-btn>
+          </v-layout>
         </div>
       </v-card-text>
     </v-card>
