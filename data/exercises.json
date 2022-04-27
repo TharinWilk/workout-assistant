@@ -2,7 +2,8 @@
   {
     "name": "Agility Ladder Run",
     "tags": [
-      "Agility"
+      "Agility",
+      "Agility Ladder"
     ],
     "img": "https://journals.humankinetics.com/view/journals/pes/31/3/full-pes.2018-0117figuref1.jpg",
     "equipment": "Agility Ladder",
@@ -27,7 +28,8 @@
   {
     "name": "Agility Ladder High Knees",
     "tags": [
-      "Agility"
+      "Agility",
+      "Agility Ladder"
     ],
     "img": "http://www.stack.com/wp-content/uploads/2012/12/SpeedDrill-e1354557105256.jpg",
     "equipment": "Agility Ladder",
@@ -52,7 +54,8 @@
   {
     "name": "Agility Ladder Side Shuffle",
     "tags": [
-      "Agility"
+      "Agility",
+      "Agility Ladder"
     ],
     "img": "https://garagegymbuilder.com/wp-content/uploads/2016/09/lateral-shuffle.jpg",
     "equipment": "Agility Ladder",
@@ -60,7 +63,7 @@
     "muscle group": [
     ],
     "variations": [
-      " Skip a Hole"
+      "Skip a Hole"
     ],
     "alternatives": [
       "Agility Ladder Run",
@@ -75,7 +78,8 @@
   {
     "name": "Agility Ladder Hop",
     "tags": [
-      "Agility"
+      "Agility",
+      "Agility Ladder"
     ],
     "img": "https://garagegymbuilder.com/wp-content/uploads/2016/09/Lateral-One-Leg-Bunny-Hop-1.jpg",
     "equipment": "Agility Ladder",
@@ -102,7 +106,8 @@
   {
     "name": "Agility Ladder In Out",
     "tags": [
-      "Agility"
+      "Agility",
+      "Agility Ladder"
     ],
     "img": "https://m.media-amazon.com/images/S/aplus-media/sc/b1877633-eaa5-4c63-8594-4125b1f321cd.__CR0,0,300,300_PT0_SX300_V1___.png",
     "equipment": "Agility Ladder",
@@ -128,7 +133,8 @@
   {
     "name": "Agility Ladder Ali Shuffle",
     "tags": [
-      "Agility"
+      "Agility",
+      "Agility Ladder"
     ],
     "img": "https://cdn2.hubspot.net/hubfs/2494739/Imported_Blog_Media/fig_09-036-no-source-2.jpg",
     "equipment": "Agility Ladder",
@@ -148,7 +154,8 @@
   {
     "name": "Agility Ladder Icky Shuffle",
     "tags": [
-      "Agility"
+      "Agility",
+      "Agility Ladder"
     ],
     "img": "https://cdn2.sportngin.com/attachments/text_block/2600/7157/ZigzagCrossoverShuffle.gif",
     "equipment": "Agility Ladder",
@@ -172,7 +179,7 @@
     "name": "X Drill",
     "tags": [
       "Agility",
-      " Dot Drill"
+      "Dot Drill"
     ],
     "img": "https://www.theglowingedge.com/wp-content/uploads/2010/07/Agility-Dot-Drills1.jpg",
     "equipment": [ "Calithetics", "Dot Mat" ],
@@ -195,7 +202,7 @@
     "name": "Z Drill",
     "tags": [
       "Agility",
-      " Dot Drill"
+      "Dot Drill"
     ],
     "img": "https://www.theglowingedge.com/wp-content/uploads/2010/07/Agility-Dot-Drills1.jpg",
     "equipment": [ "Calithetics", "Dot Mat" ],
@@ -217,7 +224,7 @@
     "name": "M Drill",
     "tags": [
       "Agility",
-      " Dot Drill"
+      "Dot Drill"
     ],
     "img": "https://www.theglowingedge.com/wp-content/uploads/2010/07/Agility-Dot-Drills1.jpg",
     "equipment": [ "Calithetics", "Dot Mat" ],
@@ -239,7 +246,7 @@
     "name": "Figure 8 Drill",
     "tags": [
       "Agility",
-      " Dot Drill"
+      "Dot Drill"
     ],
     "img": "https://www.theglowingedge.com/wp-content/uploads/2010/07/Agility-Dot-Drills1.jpg",
     "equipment": [ "Calithetics", "Dot Mat" ],
@@ -261,7 +268,7 @@
     "name": "Trianlge Drill",
     "tags": [
       "Agility",
-      " Dot Drill"
+      "Dot Drill"
     ],
     "img": "https://www.theglowingedge.com/wp-content/uploads/2010/07/Agility-Dot-Drills1.jpg",
     "equipment": [ "Calithetics", "Dot Mat" ],
@@ -283,7 +290,7 @@
     "name": "Box Drill",
     "tags": [
       "Agility",
-      " Dot Drill"
+      "Dot Drill"
     ],
     "img": "https://www.theglowingedge.com/wp-content/uploads/2010/07/Agility-Dot-Drills1.jpg",
     "equipment": [ "Calithetics", "Dot Mat" ],
@@ -305,7 +312,7 @@
     "name": "Mountain Pose",
     "tags": [
       "Balance",
-      " Yoga"
+      "Yoga"
     ],
     "img": "https://www.yogapedia.com/images/uploads/792b80fd0c884040bbcfaf14656788f7.png",
     "equipment": [ "Calithetics" ],
@@ -326,7 +333,7 @@
     "name": "Warrior Pose",
     "tags": [
       "Balance",
-      " Yoga"
+      "Yoga"
     ],
     "img": "https://www.yogapedia.com/images/uploads/silhouette-logo-trademark-poster-apparel-clothing-art-modern-art.png",
     "equipment": [ "Calithetics" ],
@@ -349,7 +356,7 @@
     "name": "Triangle Pose",
     "tags": [
       "Balance",
-      " Yoga"
+      "Yoga"
     ],
     "img": "https://www.yogapedia.com/images/uploads/afb95eaf-0efe-4fd4-b07d-86515d44fc6b.png",
     "equipment": [ "Calithetics" ],
@@ -370,7 +377,7 @@
     "name": "Crescent Lunge",
     "tags": [
       "Balance",
-      " Yoga"
+      "Yoga"
     ],
     "img": "https://www.yogapedia.com/images/uploads/7284ce1b70eb4714bfad6f061337d639.png",
     "equipment": [ "Calithetics" ],
@@ -391,7 +398,7 @@
     "name": "Tree Pose",
     "tags": [
       "Balance",
-      " Yoga"
+      "Yoga"
     ],
     "img": "https://www.yogapedia.com/images/uploads/8182ced0e2784fc1b5737f8bda1de28a.png",
     "equipment": [ "Calithetics" ],
@@ -409,7 +416,7 @@
     "name": "Chair Pose",
     "tags": [
       "Balance",
-      " Yoga"
+      "Yoga"
     ],
     "img": "https://www.yogapedia.com/images/uploads/7149c422e030410f9fe25cc9b652d708.png",
     "equipment": [ "Calithetics" ],
@@ -430,7 +437,7 @@
     "name": "Dancer Pose",
     "tags": [
       "Balance",
-      " Yoga"
+      "Yoga"
     ],
     "img": "https://www.yogapedia.com/images/uploads/1fc24d91175b46719fe7cfbfecc05f1d.png",
     "equipment": [ "Calithetics" ],
@@ -448,8 +455,10 @@
     "name": "Cycling",
     "tags": [
       "Cardio",
-      " non-weight bearing",
-      " cycle"
+      "Non-Weight Bearing",
+      "Cycle",
+      "Bike",
+      "Stationary Bike"
     ],
     "equipment": [ "Bike", "Stationary Bike" ],
     "intensity": [ "Low", "Moderate", "High" ],
@@ -460,7 +469,7 @@
     "name": "Running",
     "tags": [
       "Cardio",
-      " weight-bearing"
+      "Weight Bearing"
     ],
     "equipment": [ "Calithetics", "Treadmill"],
     "intensity": "High",
@@ -471,8 +480,8 @@
     "name": "Swimming",
     "tags": [
       "Cardio",
-      " non-weight bearing",
-      " water based exercise"
+      "Non-Weight Bearing",
+      "Water Based Exercise"
     ],
     "equipment": [ "Pool" ],
     "intensity": [ "Moderate", "High" ],
@@ -483,7 +492,7 @@
     "name": "Walking",
     "tags": [
       "Cardio",
-      " weight-bearing"
+      "Weight Bearing"
     ],
     "equipment": [ "Calithetics", "Treadmill"],
     "intensity": [ "Low", "Moderate" ],
@@ -503,7 +512,8 @@
     "name": "Eliptical",
     "tags": [
       "Cardio",
-      " non-weight bearing"
+      "Non-Weight Bearing",
+      "Eliptical"
     ],
     "equipment": [ "Eliptical" ],
     "intensity": [ "Moderate", "High" ],
@@ -511,10 +521,11 @@
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfd_UK_6Y0yWYeiXlMtWIGLV4xSeG7qwZ6OQ&usqp=CAU"
   },
   {
-    "name": "Arc Trainier",
+    "name": "Arc Trainer",
     "tags": [
       "Cardio",
-      " non-weight bearing"
+      "Non-Weight Bearing",
+      "Arc Trainer"
     ],
     "equipment": [ "Arc Trainer" ],
     "intensity": [ "Moderate", "High" ],
@@ -525,7 +536,8 @@
     "name": "Stairs",
     "tags": [
       "Cardio",
-      " weight bearing"
+      "Weight Bearing",
+      "Stairs"
     ],
     "equipment": [ "Stair Machine" ],
     "intensity": [ "Moderate", "High" ],
@@ -536,7 +548,8 @@
     "name": "Ladder Machines",
     "tags": [
       "Cardio",
-      " weight bearing"
+      "Weight Bearing",
+      "Ladder Machine"
     ],
     "equipment": [ "Ladder Machine" ],
     "intensity": "High",
@@ -547,7 +560,8 @@
     "name": "Rowing",
     "tags": [
       "Cardio",
-      " non-weight bearing"
+      "Non-Weight Bearing",
+      "Rowing Machine"
     ],
     "equipment": [ "Rowing Machine" ],
     "intensity": [ "Moderate", "High" ],
@@ -558,7 +572,8 @@
     "name": "Stepping",
     "tags": [
       "Cardio",
-      " weight bearing"
+      "Weight Bearing",
+      "Step"
     ],
     "equipment": [ "Calithetics" ],
     "intensity": [ "Moderate", "High" ],
@@ -569,9 +584,8 @@
     "name": "Arm Cycling",
     "tags": [
       "Cardio",
-      " non-weight bearing",
-      " no equipment",
-      " water based exercise"
+      "Non-Weight Bearing",
+      "Arm Cycle"
     ],
     "equipment": [ "Arm Cycle" ],
     "intensity": [ "Moderate", "High" ],
@@ -582,9 +596,7 @@
     "name": "Hiking",
     "tags": [
       "Cardio",
-      " non-weight bearing",
-      " no equipment",
-      " water based exercise"
+      "Weight Bearing"
     ],
     "equipment": [ "Calithetics" ],
     "intensity": [ "Moderate", "High" ],
@@ -595,9 +607,7 @@
     "name": "Dancing",
     "tags": [
       "Cardio",
-      " non-weight bearing",
-      " no equipment",
-      " water based exercise"
+      "Weight Bearing"
     ],
     "equipment": [ "Calithetics" ],
     "intensity": [ "Low", "Moderate", "High" ],
@@ -608,8 +618,8 @@
     "name": "Cat",
     "tags": [
       "Mobility",
-      " stretch",
-      " dynamic"
+      "Stretch",
+      "Yoga"
     ],
     "img": "https://www.yogapedia.com/images/uploads/cd548476f6264ac18101d1a6e9d4697d.png",
     "equipment": "Calithetics",
@@ -627,8 +637,7 @@
     "name": "Lying Lower Back Stretch",
     "tags": [
       "Mobility",
-      " stretch",
-      " dynamic"
+      "Stretch"
     ],
     "img": "http://2hhgdy43zdzm1zortu1ro2r5-wpengine.netdna-ssl.com/wp-content/uploads/2017/09/knee-to-ches-stretcht340.jpg",
     "equipment": "Calithetics",
@@ -642,8 +651,7 @@
     "name": "Doorway Chest Stretch",
     "tags": [
       "Mobility",
-      " stretch",
-      " dynamic"
+      "Stretch"
     ],
     "img": "https://ccsbismarck.com/wp-content/uploads/2020/03/Pec-minor-stretch-two.png",
     "equipment": "Calithetics",
@@ -661,8 +669,7 @@
     "name": "Behind Head Chest Stretch",
     "tags": [
       "Mobility",
-      " stretch",
-      " dynamic"
+      "Stretch"
     ],
     "img": "https://www.gazettenet.com/getattachment/9085deb2-8792-46dd-94cb-47e18379d329/17HEALTH-stretchcolumn-hg-091719-ph3",
     "equipment": "Calithetics",
@@ -676,8 +683,7 @@
     "name": "Standing Side Stretch",
     "tags": [
       "Mobility",
-      " stretch",
-      " dynamic"
+      "Stretch"
     ],
     "img": "https://www.yogapedia.com/images/uploads/77cd7c59-26bd-4c6e-a7db-96e53396eab4.png",
     "equipment": "Calithetics",
@@ -685,17 +691,13 @@
     "primary": "Lats",
     "variations": [
       "Seated Side Stretch"
-    ],
-    "alternatives": [
-      ""
     ]
   },
   {
     "name": "Lying Lat Stretch",
     "tags": [
       "Mobility",
-      " stretch",
-      " dynamic"
+      "Stretch"
     ],
     "img": "https://i.ytimg.com/vi/XEIYNpNUDx8/maxresdefault.jpg",
     "equipment": "Calithetics",
@@ -709,8 +711,8 @@
     "name": "Child's Pose",
     "tags": [
       "Mobility",
-      " stretch",
-      " yoga"
+      "Stretch",
+      "Yoga"
     ],
     "img": "https://www.yogapedia.com/images/uploads/19fc7864-88b4-4bf3-8c71-f8a0525c42dc.jpg",
     "equipment": "Calithetics",
@@ -725,8 +727,8 @@
     "tags": [
       "Power",
       " Resistance",
-      " weight-lifting",
-      " free weights"
+      "Weight-Lifting",
+      "Free Weights"
     ],
     "img": "https://www.crossfit.com/wp-content/uploads/2019/05/06154727/Squat-Clean-Collage2.jpg",
     "equipment": [ "Barbell", "Dumbbell", "Kettlebell" ],
@@ -753,8 +755,8 @@
     "tags": [
       "Power",
       " Resistance",
-      " weight-lifting",
-      " free weights"
+      "Weight-Lifting",
+      "Free Weights"
     ],
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtvfqtR0V4IZIfqUcNGA5VATeRdR0aUPBhuHxQ7epXrh0KKQJ2szw3XoaQzuNXJ49-BjM&usqp=CAU",
     "equipment": [ "Barbell", "Dumbbell", "Kettlebell" ],
@@ -766,8 +768,8 @@
       " soleus"
     ],
     "variations": [
-      " Dumbbell Hang Clean",
-      " Dumbbell Hang Clean and Jerk",
+      "Dumbbell Hang Clean",
+      "Dumbbell Hang Clean and Jerk",
       " Kettlebell Clean and Jerk"
     ],
     "alternatives": [
@@ -783,8 +785,8 @@
     "tags": [
       "Power",
       " Resistance",
-      " weight-lifting",
-      " free weights"
+      "Weight-Lifting",
+      "Free Weights"
     ],
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTGw4YlTrYJMuiJdSdbo_usNexRrxsSlUp795L45mQ7Qz5qEES2hgh7NI34TeY6_Qv5VI&usqp=CAU",
     "equipment": [ "Barbell", "Dumbbell" ],
@@ -796,8 +798,8 @@
       " soleus"
     ],
     "variations": [
-      " Dumbbell Hang Clean",
-      " Dumbbell Hang Clean and Jerk"
+      "Dumbbell Hang Clean",
+      "Dumbbell Hang Clean and Jerk"
     ],
     "alternatives": [
       "Clean",
@@ -812,8 +814,8 @@
     "tags": [
       "Power",
       " Resistance",
-      " weight-lifting",
-      " free weights"
+      "Weight-Lifting",
+      "Free Weights"
     ],
     "img": "https://fitnessvolt.com/wp-content/uploads/2017/01/Snatch-Grip-Shrug-Pull-1024x886.jpg",
     "equipment": [ "Barbell" ],
@@ -837,8 +839,8 @@
     "tags": [
       "Power",
       " Resistance",
-      " weight-lifting",
-      " free weights"
+      "Weight-Lifting",
+      "Free Weights"
     ],
     "img": "https://external-preview.redd.it/Ssei46td42KSHTpT-y6MVpoN00Jrh2F3ToJrVvCqMt4.jpg?auto=webp&s=d7e4ec7bced99c6e9c7a4bd07f74413bd7e6c6e1",
     "equipment": [ "Barbell" ],
@@ -862,8 +864,8 @@
     "tags": [
       "Power",
       " Resistance",
-      " weight-lifting",
-      " free weights"
+      "Weight-Lifting",
+      "Free Weights"
     ],
     "img": "https://sportsedtv.com/img/blog/Power-Snatch-position-1.jpg",
     "equipment": [ "Barbell" ],
@@ -887,8 +889,8 @@
     "tags": [
       "Power",
       " Resistance",
-      " weight-lifting",
-      " free weights"
+      "Weight-Lifting",
+      "Free Weights"
     ],
     "img": "https://www.crossfit.com/wp-content/uploads/2020/01/17133940/Clean-and-Jerk-Camille2-scaled.jpg",
     "equipment": [ "Barbell", "Dumbbell", "Kettlebell" ],
@@ -901,7 +903,7 @@
     ],
     "variations": [
       " Deficit Snatch",
-      " Dumbbell Snatch",
+      "Dumbbell Snatch",
       " Kettlebell Snatch"
     ],
     "alternatives": [
@@ -916,8 +918,8 @@
     "tags": [
       "Power",
       " Resistance",
-      " weight-lifting",
-      " free weights"
+      "Weight-Lifting",
+      "Free Weights"
     ],
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDHs47bnKgU9HINVx5iTv3PsKS160CxxlPBUPubLJlaXjmW6pbuCwwRqR_nQlyx-QlpgE&usqp=CAU",
     "equipment": [ "Barbell", "Dumbbell", "Kettlebell" ],
@@ -940,8 +942,8 @@
     "tags": [
       "Power",
       " Resistance",
-      " weight-lifting",
-      " free weights"
+      "Weight-Lifting",
+      "Free Weights"
     ],
     "img": "https://sportsedtv.com/img/blog/Power-Snatch-4..png",
     "equipment": [ "Barbell" ],
@@ -964,8 +966,8 @@
     "tags": [
       "Power",
       " Resistance",
-      " weight-lifting",
-      " free weights"
+      "Weight-Lifting",
+      "Free Weights"
     ],
     "img": "https://www.crossfit.com/wp-content/uploads/2019/02/27145014/PushPress_Male_V4.jpg",
     "equipment": [ "Barbell", "Dumbbell", "Kettlebell" ],
@@ -985,8 +987,8 @@
     "tags": [
       "Power",
       " Resistance",
-      " weight-lifting",
-      " free weights"
+      "Weight-Lifting",
+      "Free Weights"
     ],
     "img": "https://i.ytimg.com/vi/GUDkOtraHHY/maxresdefault.jpg",
     "equipment": [ "Barbell", "Dumbbell", "Kettlebell" ],
@@ -1005,8 +1007,8 @@
     "name": "Kettlebell Swings",
     "tags": [
       "Power",
-      " weight-lifting",
-      " free weights"
+      "Weight-Lifting",
+      "Free Weights"
     ],
     "img": "https://epicself.com/wp-content/uploads/2016/02/kettlebell-swing.png-e1456347095756.jpg",
     "equipment": [ "Kettlebell" ],
@@ -1031,9 +1033,9 @@
     "name": "Bench Press",
     "tags": [
       "Resistance",
-      " weight-lifting",
+      "Weight-Lifting",
       " bench",
-      " free-weights",
+      "Free Weights",
       " barbell"
     ],
     "img": "https://i.ytimg.com/vi/SCVCLChPQFY/maxresdefault.jpg",
@@ -1065,10 +1067,10 @@
     "name": "Dumbbell Chest Press",
     "tags": [
       "Resistance",
-      " weight-lifting",
+      "Weight-Lifting",
       " bench",
-      " free-weights",
-      " dumbbell"
+      "Free Weights",
+      "Dumbbell"
     ],
     "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/dumbbell-bench-press-1441211036.jpg",
     "equipment": [ "Dumbbell" ],
@@ -1097,7 +1099,7 @@
     "name": "Chest Press Machine",
     "tags": [
       "Resistance",
-      " weight-lifting",
+      "Weight-Lifting",
       " machine-weights"
     ],
     "img": "https://cdn.activeman.com/wp-content/uploads/2021/12/03220432/how-to-do-11.jpg",
@@ -1127,7 +1129,7 @@
     "name": "Chest Fly Machine",
     "tags": [
       "Resistance",
-      " weight-lifting",
+      "Weight-Lifting",
       " machine-weights"
     ],
     "img": "https://i.stack.imgur.com/rOEQ3.jpg",
@@ -1152,10 +1154,10 @@
     "name": "Dumbbell Chest Fly",
     "tags": [
       "Resistance",
-      " weight-lifting",
+      "Weight-Lifting",
       " bench",
-      " free-weights",
-      " dumbbell"
+      "Free Weights",
+      "Dumbbell"
     ],
     "img": "https://seannal.com/images/flat-dumbbell-flye.jpg",
     "equipment": [ "Dumbbell" ],
@@ -1183,7 +1185,7 @@
     "name": "Cable Chest Fly",
     "tags": [
       "Resistance",
-      " weight-lifting",
+      "Weight-Lifting",
       " cables"
     ],
     "img": "https://bodybuilding-wizard.com/wp-content/uploads/2014/12/cable-crossover.jpg",
@@ -1212,7 +1214,7 @@
     "name": "Cable Chest Press",
     "tags": [
       "Resistance",
-      " weight-lifting",
+      "Weight-Lifting",
       " cables"
     ],
     "img": "https://s3.amazonaws.com/prod.skimble/assets/1019634/image_iphone.jpg",
@@ -1276,8 +1278,8 @@
     "name": "Military Press",
     "tags": [
       "Resistance",
-      " weight-lifting",
-      " free-weights",
+      "Weight-Lifting",
+      "Free Weights",
       " barbell"
     ],
     "img": "https://cdn.mos.cms.futurecdn.net/vNWR5RHgC8KsMoMGTSxEdS-1200-80.jpg",
@@ -1307,9 +1309,9 @@
     "name": "Dumbbell Shoulder Press",
     "tags": [
       "Resistance",
-      " weight-lifting",
-      " free-weights",
-      " dumbell"
+      "Weight-Lifting",
+      "Free Weights",
+      "Dumbbell"
     ],
     "img": "https://www.heandshefitness.com/wp-content/uploads/2016/10/OverheadShoulderPress.jpg",
     "equipment": [ "Dumbbell" ],
@@ -1339,9 +1341,9 @@
     "name": "Bent-over Barbell Row",
     "tags": [
       "Resistance",
-      " weight-lifting",
-      " free-weights",
-      " dumbell"
+      "Weight-Lifting",
+      "Free Weights",
+      "Dumbbell"
     ],
     "img": "https://cdn.mos.cms.futurecdn.net/spmeMadc8qAz59nKTFJmZj.jpg",
     "equipment": [ "Barbell" ],
@@ -1367,9 +1369,9 @@
     "name": "Cable Row",
     "tags": [
       "Resistance",
-      " weight-lifting",
-      " free-weights",
-      " dumbell"
+      "Weight-Lifting",
+      "Free Weights",
+      "Dumbbell"
     ],
     "img": "https://i.pinimg.com/564x/00/c2/93/00c29341434fc897876f750c41c211c7.jpg",
     "equipment": [ "Cable Machine" ],
@@ -1395,9 +1397,9 @@
     "name": "Inverted Row",
     "tags": [
       "Resistance",
-      " weight-lifting",
-      " free-weights",
-      " dumbell"
+      "Weight-Lifting",
+      "Free Weights",
+      "Dumbbell"
     ],
     "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/bodyweight-row-1441032989.jpg",
     "equipment": [ "Calithetics" ],
@@ -1423,9 +1425,9 @@
     "name": "Dumbbell Row",
     "tags": [
       "Resistance",
-      " weight-lifting",
-      " free-weights",
-      " dumbell"
+      "Weight-Lifting",
+      "Free Weights",
+      "Dumbbell"
     ],
     "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/02-single-arm-bent-over-row-1441211036.jpg",
     "equipment": [ "Dumbbell" ],
@@ -1451,9 +1453,8 @@
     "name": "Lat Pull Down",
     "tags": [
       "Resistance",
-      " weight-lifting",
-      " free-weights",
-      " dumbell"
+      "Weight-Lifting",
+      "Free Weights"
     ],
     "img": "https://best-powertower.com/wp-content/uploads/2019/03/3.-Reverse-Close-Grip-Lat-Pull-Down.jpg",
     "equipment": [ "Weight Machine" ],
@@ -1478,9 +1479,8 @@
     "name": "Pull-up",
     "tags": [
       "Resistance",
-      " weight-lifting",
-      " free-weights",
-      " dumbell"
+      "Weight-Lifting",
+      "Free Weights"
     ],
     "img": "https://www.climbing.com/wp-content/uploads/2016/03/trainingperfectpullupsjpg.jpg",
     "equipment": [ "Calithetics" ],
@@ -1505,9 +1505,8 @@
     "name": "Barbell Shrugs",
     "tags": [
       "Resistance",
-      " weight-lifting",
-      " free-weights",
-      " dumbell"
+      "Weight-Lifting",
+      "Free Weights"
     ],
     "img": "https://www.buildingbeast.com/wp-content/uploads/2020/07/barbell-shrugs.jpg",
     "equipment": [ "Barbell" ],
@@ -1529,9 +1528,9 @@
     "name": "Dumbbell Shrugs",
     "tags": [
       "Resistance",
-      " weight-lifting",
-      " free-weights",
-      " dumbell"
+      "Weight-Lifting",
+      "Free Weights",
+      "Dumbbell"
     ],
     "img": "https://thumbs.dreamstime.com/b/dumbbell-shrugs-personal-trainer-doing-training-his-trapezius-isolated-white-31439338.jpg",
     "equipment": [ "Dumbbell" ],
@@ -1552,9 +1551,8 @@
     "name": "Dips",
     "tags": [
       "Resistance",
-      " weight-lifting",
-      " free-weights",
-      " dumbell"
+      "Weight-Lifting",
+      "Free Weights"
     ],
     "img": "https://hiitacademy.com/wp-content/uploads/2015/02/tricep_dips_feet_ext-1024x495.jpg",
     "equipment": [ "Calithetics" ],
@@ -1574,9 +1572,9 @@
     "name": "Barbell Tricep Extension",
     "tags": [
       "Resistance",
-      " weight-lifting",
-      " free-weights",
-      " dumbell"
+      "Weight-Lifting",
+      "Free Weights",
+      "Barbell"
     ],
     "img": "https://bodybuilding-wizard.com/wp-content/uploads/2014/04/incline-ez-bar-lying-triceps-extension.jpg",
     "equipment": [ "Barbell" ],
@@ -1599,8 +1597,8 @@
     "name": "Cable Tricep Extension",
     "tags": [
       "Resistance",
-      " weight-lifting",
-      " free-weights"
+      "Weight-Lifting",
+      "Free Weights"
     ],
     "img": "https://i.pinimg.com/originals/a2/4e/ab/a24eab95ec0febb991ac33c5c8d37f6c.jpg",
     "equipment": [ "Cable Machine" ],
@@ -1625,9 +1623,9 @@
     "name": "Dumbbell Tricep Extension",
     "tags": [
       "Resistance",
-      " weight-lifting",
-      " free-weights",
-      " dumbell"
+      "Weight-Lifting",
+      "Free Weights",
+      "Dumbbell"
     ],
     "img": "https://cdn.prod.openfit.com/uploads/2018/02/02181500/seated-overhead-triceps-extension.jpg",
     "equipment": [ "Dumbbell" ],
@@ -1650,9 +1648,9 @@
     "name": "Dumbbell Bicep Curl",
     "tags": [
       "Resistance",
-      " weight-lifting",
-      " free-weights",
-      " dumbell"
+      "Weight-Lifting",
+      "Free Weights",
+      "Dumbbell"
     ],
     "img": "https://media1.popsugar-assets.com/files/thumbor/vR1i54EGDIq5WxzLwT4_lNvNQaQ/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2015/03/10/605/n/1922729/570ff954_bicep-curls-Red/i/Dumbbell-Exercise-For-Biceps-Bicep-Curl.jpg",
     "equipment": [ "Dumbbell" ],
@@ -1675,9 +1673,8 @@
     "name": "Cable Bicep Curl",
     "tags": [
       "Resistance",
-      " weight-lifting",
-      " free-weights",
-      " dumbell"
+      "Weight-Lifting",
+      "Cables"
     ],
     "img": "https://irongrif.com/uploads/exercise/image/12/jpg_375_cable-curl.jpg",
     "equipment": [ "Cable Machine" ],
@@ -1699,9 +1696,9 @@
     "name": "Barbell Bicep Curl",
     "tags": [
       "Resistance",
-      " weight-lifting",
-      " free-weights",
-      " dumbell"
+      "Weight-Lifting",
+      "Free Weights",
+      "Barbell"
     ],
     "img": "https://i.pinimg.com/originals/d1/9b/dd/d19bdd4c8dd4f0217ad25da7121fd2a9.jpg",
     "equipment": [ "Barbell" ],
@@ -1723,9 +1720,9 @@
     "name": "Deadlift",
     "tags": [
       "Resistance",
-      " weight-lifting",
-      " free-weights",
-      " dumbell"
+      "Weight-Lifting",
+      "Free Weights",
+      "Barbell"
     ],
     "img": "https://www.researchgate.net/profile/Florian-Michaud/publication/353924505/figure/fig3/AS:1057397732823040@1629114673421/Deadlift-technique-a-Step-1-b-Step-2-c-Step-3.ppm",
     "equipment": [ "Barbell" ],
@@ -1751,9 +1748,9 @@
     "name": "Squat",
     "tags": [
       "Resistance",
-      " weight-lifting",
-      " free-weights",
-      " dumbell"
+      "Weight-Lifting",
+      "Free Weights",
+      "Barbell"
     ],
     "img": "https://experiencelife.lifetime.life/wp-content/uploads/2021/08/f2-barbell-back-squat.jpg",
     "equipment": [ "Barbell" ],
@@ -1779,9 +1776,9 @@
     "name": "Lunge",
     "tags": [
       "Resistance",
-      " weight-lifting",
-      " free-weights",
-      " dumbell"
+      "Weight-Lifting",
+      "Free Weights",
+      "Dumbbell"
     ],
     "img": "https://gethealthyu.com/wp-content/uploads/2014/08/Alternating-Forward-Lunges_Exercise.jpg",
     "equipment": [ "Barbell", "Calithetics", "Dumbbell" ],
@@ -1806,9 +1803,9 @@
     "name": "Split Squat",
     "tags": [
       "Resistance",
-      " weight-lifting",
-      " free-weights",
-      " dumbell"
+      "Weight-Lifting",
+      "Free Weights",
+      "Dumbbell"
     ],
     "img": "https://res.cloudinary.com/display97/image/upload/dumbbell-split-squat-157045.jpg",
     "equipment": [ "Barbell", "Calithetics", "Dumbbell" ],
@@ -1832,9 +1829,8 @@
     "name": "Leg Extension",
     "tags": [
       "Resistance",
-      " weight-lifting",
-      " free-weights",
-      " dumbell"
+      "Weight-Lifting",
+      "Machine-Weights"
     ],
     "img": "https://upload.wikimedia.org/wikipedia/commons/3/36/LegExtensionMachineExercise.JPG",
     "equipment": [ "Weight Machine" ],
@@ -1850,7 +1846,7 @@
     "name": "Leg Curl",
     "tags": [
       "Resistance",
-      " weight-lifting",
+      "Weight-Lifting",
       " machine weights"
     ],
     "img": "https://upload.wikimedia.org/wikipedia/commons/c/c6/LyingLegCurlMachineExercise.JPG",
@@ -1871,7 +1867,7 @@
     "name": "Good Morning",
     "tags": [
       "Resistance",
-      " weight-lifting",
+      "Weight-Lifting",
       " machine weights"
     ],
     "img": "https://pkdeveloper.in/wp-content/uploads/2021/08/Good-mornings-2-1024x640-1.png",
@@ -1891,7 +1887,7 @@
     "name": "Hyperextension",
     "tags": [
       "Resistance",
-      " weight-lifting",
+      "Weight-Lifting",
       " machine weights"
     ],
     "img": "http://coachmikeblogs.com/wp-content/uploads/2016/03/book-3-image-6364.jpg",
@@ -1911,7 +1907,7 @@
     "name": "Hip Adducition",
     "tags": [
       "Resistance",
-      " weight-lifting",
+      "Weight-Lifting",
       " machine weights"
     ],
     "img": "https://i.pinimg.com/originals/ce/18/de/ce18deb8bb173cbf531e03c2887b7d09.png",
@@ -1931,7 +1927,7 @@
     "name": "Hip Abduction",
     "tags": [
       "Resistance",
-      " weight-lifting",
+      "Weight-Lifting",
       " machine weights"
     ],
     "img": "https://fitnessprogramer.com/wp-content/uploads/2021/02/HiP-ABDUCTION-MACHINE.gif",
@@ -1951,7 +1947,7 @@
     "name": "Calf Raises",
     "tags": [
       "Resistance",
-      " weight-lifting",
+      "Weight-Lifting",
       " machine weights"
     ],
     "img": "https://cdn.mos.cms.futurecdn.net/cY7Hze3mZNFok2L36CMStA.jpg",

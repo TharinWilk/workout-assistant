@@ -68,7 +68,7 @@ export default {
   },
   computed: {
     power () {
-      const powerExercises = this.exercises.filter(exercise => exercise.tags.includes(' power') === true)
+      const powerExercises = this.exercises.filter(exercise => exercise.tags.includes('Power') === true)
       return powerExercises
     }
   },
