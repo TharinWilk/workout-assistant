@@ -135,8 +135,6 @@
     "description": "Beggining along the side of, and facing the ladder, start with on foot in the ladder's space, and one foot outside of the ladder's space. Travel down the ladder switching the feet so that the foot within the ladder's space is outside of the ladder and vice versa.",
     "muscle group": [
     ],
-    "variations": [
-    ],
     "alternatives": [
       "Agility Ladder Run",
       "Agility Ladder High Knees",
@@ -182,14 +180,8 @@
     "muscle group": [
     ],
     "variations": [
-      {
-        "name": "X Drill Hopscotch",
-        "description": "Start with feet split, one foot on dot 1 and one on dot 2. Jump to dot 3 with ONE foot, then split feet to dots 4 and 5. Repeat jumping backward with same or alternate foot landing in the middle."
-      },
-      {
-        "name": "X Drill Turn Around",
-        "description": "This is the same as the X Drill or X Drill Hopscotch except that when you get to the top or bottom, you turn your body around to go in the other direction."
-      }
+      "X Drill Hopscotch",
+      "X Drill Turn Around"
     ],
     "alternatives": [
       "Z Drill",
@@ -211,10 +203,7 @@
     "muscle group": [
     ],
     "variations": [
-      {
-        "name": "Z Drill Single Leg",
-        "description": "Form a Z pattern (4-5-3-1-2) on a single leg."
-      }
+      "Z Drill Single Leg"
     ],
     "alternatives": [
       "X Drill",
@@ -236,10 +225,7 @@
     "muscle group": [
     ],
     "variations": [
-      {
-        "name": "M Drill Single Leg",
-        "description": "Form an M pattern (4-5-3-2-1) while on a single leg."
-      }
+      "M Drill Single Leg"
     ],
     "alternatives": [
       "X Drill",
@@ -261,10 +247,7 @@
     "muscle group": [
     ],
     "variations": [
-      {
-        "name": "Figure 8 Drill Single Leg",
-        "description": "Form a figure eight (4-5-3-1-2-3-4) down and back, keeping on one foot."
-      }
+      "Figure 8 Drill Single Leg"
     ],
     "alternatives": [
       "X Drill",
@@ -286,10 +269,7 @@
     "muscle group": [
     ],
     "variations": [
-      {
-        "name": "Triangle Drill Single Leg",
-        "description": "On one leg, hop in a counterclockwise direction (2-3-1-2) or a clockwise direction (1-3-2-1) to form a triangle."
-      }
+      "Triangle Drill Single Leg"
     ],
     "alternatives": [
       "X Drill",
@@ -311,10 +291,7 @@
     "muscle group": [
     ],
     "variations": [
-      {
-        "name": "Box Drill Single Leg",
-        "description": "On one leg, hop the perimeter of the square (1-4-5-2-1), facing the same direction at all times."
-      }
+      "Box Drill Single Leg"
     ],
     "alternatives": [
       "X Drill",
@@ -419,8 +396,6 @@
     "img": "https://www.yogapedia.com/images/uploads/8182ced0e2784fc1b5737f8bda1de28a.png",
     "equipment": [ "Calithetics" ],
     "description": "Stand on one leg, pressing the foot of the other leg against the standing leg's inner thigh. The palms of the hands are touching as you reach overhead.",
-    "variations": [
-    ],
     "alternatives": [
       "Mountain Pose",
       "Triangle Pose",
@@ -460,8 +435,6 @@
     "img": "https://www.yogapedia.com/images/uploads/1fc24d91175b46719fe7cfbfecc05f1d.png",
     "equipment": [ "Calithetics" ],
     "description": "Stand on one leg, bend the other leg and grasp it with your same side hand. Reach the other arm in front of you and bend at the hip, raising your back leg. Eventually, the thigh of your back leg should be parallel with the ground.",
-    "variations": [
-    ],
     "alternatives": [
       "Mountain Pose",
       "Triangle Pose",
@@ -661,8 +634,6 @@
     "equipment": "Calithetics",
     "description": "Lying supine, tuck one or both knees towards the chest, grabbing them with your hands.",
     "primary": "Lower Back",
-    "variations": [
-    ],
     "alternatives": [
       "Cat"
     ]
@@ -697,8 +668,6 @@
     "equipment": "Calithetics",
     "description": "Placing your hands behind your head, actively bring your elbows towards the back of your head without moving your hands until you feel a stretch in the chest and shoulders.",
     "primary": "Chest",
-    "variations": [
-    ],
     "alternatives": [
       "Doorway Chest Stretch"
     ]
@@ -732,9 +701,6 @@
     "equipment": "Calithetics",
     "description": "WHile lying in a supine position, bring both arms to an overhead position, trying to bring the arms to the floor. Make sure to keep the arms as close to your head as possible to get the best possible stretch.",
     "primary": "Lats",
-    "variations": [
-      ""
-    ],
     "alternatives": [
       "Child's Pose"
     ]
@@ -750,9 +716,6 @@
     "equipment": "Calithetics",
     "description": "Starting from the hands and knees, sit on your heels, keeping the arms outstretched and bringing the head down in between the arms.",
     "primary": "Lats",
-    "variations": [
-      ""
-    ],
     "alternatives": [
       "Lying Lat Stretch"
     ]
@@ -861,8 +824,6 @@
       " adductor maagus",
       " soleus"
     ],
-    "variations": [
-    ],
     "alternatives": [
       "Clean",
       "Clean and Jerk",
@@ -888,8 +849,6 @@
       " adductor maagus",
       " soleus"
     ],
-    "variations": [
-    ],
     "alternatives": [
       "Clean",
       "Clean and Jerk",
@@ -914,8 +873,6 @@
       " quadriceps",
       " adductor maagus",
       " soleus"
-    ],
-    "variations": [
     ],
     "alternatives": [
       "Clean",
@@ -971,8 +928,6 @@
       " adductor maagus",
       " soleus"
     ],
-    "variations": [
-    ],
     "alternatives": [
       "Snatch",
       "Block Snatch",
@@ -996,8 +951,6 @@
       " quadriceps",
       " adductor maagus",
       " soleus"
-    ],
-    "variations": [
     ],
     "alternatives": [
       "Snatch",
@@ -1023,8 +976,6 @@
       " adductor maagus",
       " soleus"
     ],
-    "variations": [
-    ],
     "alternatives": [
       "Split Jerk"
     ]
@@ -1045,8 +996,6 @@
       " quadriceps",
       " adductor maagus",
       " soleus"
-    ],
-    "variations": [
     ],
     "alternatives": [
       "Push Press"
@@ -1098,10 +1047,10 @@
       " serratus anterior"
     ],
     "variations": [
-      " close grip bench press",
-      " wide grip bench press",
-      " incline bench press",
-      " decline bench press"
+      " Close Grip Bench Press",
+      " Wide Grip Bench Press",
+      " Incline Bench Press",
+      " Decline Bench Press"
     ],
     "alternatives": [
       "Push-ups",
@@ -1132,8 +1081,8 @@
       " serratus anterior"
     ],
     "variations": [
-      " incline dumbbell chest press",
-      " decline dumbbell chest press"
+      " Incline Dumbbell Chest Press",
+      " Decline Dumbbell Chest Press"
     ],
     "alternatives": [
       "Bench Press",
@@ -1162,8 +1111,8 @@
       " serratus anterior"
     ],
     "variations": [
-      " incline chest press",
-      " decline chest press"
+      " Incline Chest Press",
+      " Decline Chest Press"
     ],
     "alternatives": [
       "Push-ups",
@@ -1218,8 +1167,8 @@
       " serratus anterior"
     ],
     "variations": [
-      " incline dumbbell chest fly",
-      " decline dumbbell chest fly"
+      " Incline Dumbbell Chest Fly",
+      " Decline Dumbbell Chest Fly"
     ],
     "alternatives": [
       "Push-ups",
@@ -1247,8 +1196,8 @@
       " serratus anterior"
     ],
     "variations": [
-      " incline cable chest fly",
-      " decline cable chest fly"
+      " Incline Cable Chest Fly",
+      " Decline Cable Chest Fly"
     ],
     "alternatives": [
       "Push-ups",
@@ -1277,10 +1226,10 @@
       " serratus anterior"
     ],
     "variations": [
-      " close grip cable chest press",
-      " wide grip cable chest press",
-      " incline cable chest press",
-      " decline cable chest press"
+      " Close Grip Cable Chest Press",
+      " Wide Grip Cable Chest Press",
+      " Incline Cable Chest Press",
+      " Decline Cable Chest Press"
     ],
     "alternatives": [
       "Push-ups",
@@ -1308,10 +1257,10 @@
       " serratus anterior"
     ],
     "variations": [
-      " close hand push-ups",
-      " wide hand push-ups",
-      " incline push-ups",
-      " decline push-ups"
+      " Close Hand Push-Ups",
+      " Wide Hand Push-Ups",
+      " Incline Push-Ups",
+      " Decline Push-Ups"
     ],
     "alternatives": [
       "Cable Chest Fly",
@@ -1405,8 +1354,8 @@
       " bicep"
     ],
     "variations": [
-      " close grip",
-      " underhand"
+      " Close Grip Bent-over Barbell Row",
+      " Under Hand Bent-over Barbell Row"
     ],
     "alternatives": [
       "Cable Row",
@@ -1433,8 +1382,8 @@
       " bicep"
     ],
     "variations": [
-      " close grip",
-      " underhand"
+      " Close Grip Cable Row",
+      " Under Hand Cable Row"
     ],
     "alternatives": [
       "Bent-over Barbell Row",
@@ -1461,8 +1410,8 @@
       " bicep"
     ],
     "variations": [
-      " close grip",
-      " underhand"
+      " Close Grip Inverted Row",
+      " Under Hand Inverted Row"
     ],
     "alternatives": [
       "Cable Row",
@@ -1489,8 +1438,8 @@
       " bicep"
     ],
     "variations": [
-      " close grip",
-      " underhand"
+      " Close Grip Dumbbell Row",
+      " Under Hand Dumbbell Row"
     ],
     "alternatives": [
       "Cable Row",
@@ -1518,8 +1467,8 @@
       " bicep"
     ],
     "variations": [
-      " close grip",
-      " underhand"
+      " Close Grip Lat Pull Down",
+      " Under Hand Lat Pull Down"
     ],
     "alternatives": [
       "Pull-up"
@@ -1545,8 +1494,8 @@
       " bicep"
     ],
     "variations": [
-      " close grip",
-      " underhand"
+      " Close Grip Pull-up",
+      " Under Hand Pull-up"
     ],
     "alternatives": [
       "Lat Pull Down"
@@ -1569,8 +1518,8 @@
       " levator scapulae"
     ],
     "variations": [
-      " close grip",
-      " underhand"
+      " Close Grip Barbell Shrugs",
+      " Under Hand Barbell Shrugs"
     ],
     "alternatives": [
       "Dumbbell Shrugs"
@@ -1593,8 +1542,7 @@
       " levator scapulae"
     ],
     "variations": [
-      " close grip",
-      " underhand"
+      "Trap Bar Shrugs"
     ],
     "alternatives": [
       "Barbell Shrugs"
@@ -1615,10 +1563,6 @@
     "agonists": [
       " triceps brachii",
       " anterior deltoid"
-    ],
-    "variations": [
-      " close grip",
-      " underhand"
     ],
     "alternatives": [
       "Barbell Tricep Extension",
@@ -1643,8 +1587,7 @@
       " anterior deltoid"
     ],
     "variations": [
-      " close grip",
-      " underhand"
+      " Close Grip Barbell Tricep Extension"
     ],
     "alternatives": [
       "Dips",
@@ -1668,8 +1611,9 @@
       " anterior deltoid"
     ],
     "variations": [
-      " close grip",
-      " underhand"
+      " Single Arm Cable Tricep Extension",
+      " Incline Cable Tricep Extension",
+      "Forward Cable Tricep Extension"
     ],
     "alternatives": [
       "Dips",
@@ -1694,8 +1638,7 @@
       " anterior deltoid"
     ],
     "variations": [
-      " close grip",
-      " underhand"
+      " Tricep Kickbacks"
     ],
     "alternatives": [
       "Dips",
@@ -1720,8 +1663,8 @@
       " anterior deltoid"
     ],
     "variations": [
-      " close grip",
-      " underhand"
+      " Incline Bicep Curl",
+      " Reverse Curl"
     ],
     "alternatives": [
       "Cable Bicep Curl",
@@ -1745,8 +1688,7 @@
       " anterior deltoid"
     ],
     "variations": [
-      " close grip",
-      " underhand"
+      " Reverse Cable Curl"
     ],
     "alternatives": [
       "Dumbbell Bicep Curl",
@@ -1770,8 +1712,7 @@
       " anterior deltoid"
     ],
     "variations": [
-      " close grip",
-      " underhand"
+      " Close Grip Bicep Curl"
     ],
     "alternatives": [
       "Dumbbell Bicep Curl",
@@ -1798,10 +1739,10 @@
       " soleus"
     ],
     "variations": [
-      " block pull",
-      " rack pull",
-      " summo deadlift",
-      " straight leg Deadlift"
+      " Block Pull",
+      " Rack Pull",
+      " Summo Deadlift",
+      " Straight Leg Deadlift"
     ],
     "alternatives": [
     ]
@@ -1825,11 +1766,11 @@
       " soleus"
     ],
     "variations": [
-      " box squat",
-      " front squat",
-      " hack squat",
-      " back squat",
-      " trap bar squat"
+      " Box Squat",
+      " Front Squat",
+      " Hack Squat",
+      " Back Squat",
+      " Trap Bar Squat"
     ],
     "alternatives": [
     ]
@@ -1853,9 +1794,9 @@
       " soleus"
     ],
     "variations": [
-      " side lunge",
-      " reverse lunge",
-      " walking lunge"
+      " Side Lunge",
+      " Reverse Lunge",
+      " Walking Lunge"
     ],
     "alternatives": [
       "Split Squat"
@@ -1880,7 +1821,7 @@
       " soleus"
     ],
     "variations": [
-      "single leg split squat",
+      "Single Leg Split Squat",
       "Elevated Split Squat"
     ],
     "alternatives": [
@@ -1903,10 +1844,6 @@
       " quadriceps",
       " adductor maagus",
       " soleus"
-    ],
-    "variations": [
-    ],
-    "alternatives": [
     ]
   },
   {
@@ -1924,8 +1861,6 @@
       " quadriceps",
       " adductor maagus",
       " soleus"
-    ],
-    "variations": [
     ],
     "alternatives": [
       "Good Morning",
@@ -1947,8 +1882,6 @@
       " adductor maagus",
       " soleus"
     ],
-    "variations": [
-    ],
     "alternatives": [
       "Leg Curl",
       "Hyperextension"
@@ -1969,8 +1902,6 @@
       " adductor maagus",
       " soleus"
     ],
-    "variations": [
-    ],
     "alternatives": [
       "Good Morning",
       "Leg Curl"
@@ -1985,7 +1916,7 @@
     ],
     "img": "https://i.pinimg.com/originals/ce/18/de/ce18deb8bb173cbf531e03c2887b7d09.png",
     "equipment": [ "Weight Machine" ],
-    "description": "Seespecific machine description on how to properly use.",
+    "description": "See specific machine description on how to properly use.",
     "primary": "Adductors",
     "agonists": [
       " quadriceps",
@@ -1993,9 +1924,7 @@
       " soleus"
     ],
     "variations": [
-      " cable hip adduction"
-    ],
-    "alternatives": [
+      " Cable Hip Adduction"
     ]
   },
   {
@@ -2015,9 +1944,7 @@
     ],
     "primary": "Abductors",
     "variations": [
-      " cable hip abduction"
-    ],
-    "alternatives": [
+      " Cable Hip Abduction"
     ]
   },
   {
@@ -2037,12 +1964,10 @@
       " soleus"
     ],
     "variations": [
-      " seated calf raise",
-      " single leg calf raise",
-      " calf raise machine",
-      " seated calf raise macine"
-    ],
-    "alternatives": [
+      " Seated Calf Raise",
+      " Single Leg Calf Raise",
+      " Calf Raise Machine",
+      " Seated Calf Raise Macine"
     ]
   },
   {
