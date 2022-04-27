@@ -12,7 +12,7 @@
             </v-list-item-title>
             <v-list-item-group multiple>
               <v-list-item v-for="items in filter.filters" :key="items.name" @click="items.checked = !items.checked">
-                <template>
+                <template v-if="items">
                   <v-list-item-action>
                     <v-checkbox :input-value="items.checked" @click="changeAdditionalFilters(items.name)" />
                   </v-list-item-action>

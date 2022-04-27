@@ -8,7 +8,7 @@
       <v-spacer />
       <v-tooltip left>
         <template #activator="{ on, attrs }">
-          <v-btn icon @click="toggleSelectAll" v-bind="attrs" v-on="on">
+          <v-btn icon v-bind="attrs" @click="toggleSelectAll" v-on="on">
             <v-icon>mdi-checkbox-multiple-outline</v-icon>
           </v-btn>
         </template>
@@ -64,7 +64,12 @@
 
 <script>
 export default {
-  props: ['exercises'],
+  props: {
+    exercises: {
+      type: Object,
+      default: null
+    }
+  },
   data () {
     return {
       toggleSearch: false,

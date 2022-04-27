@@ -35,7 +35,9 @@
         </div>
         <!-- Exercise Description -->
         <div v-if="item.description" class="my-4">
-          <h4 class="text-center text-h6 text-decoration-underline">Exercise Description</h4>
+          <h4 class="text-center text-h6 text-decoration-underline">
+            Exercise Description
+          </h4>
           <p>{{ item.description }}</p>
         </div>
         <!-- Exercise Progression -->
@@ -71,16 +73,20 @@
         </v-list>
         <!-- Exercise Variations -->
         <div v-if="item.variations" class="my-4">
-          <h4 class="text-center text-h6 text-decoration-underline">Exercises Variations</h4>
+          <h4 class="text-center text-h6 text-decoration-underline">
+            Exercises Variations
+          </h4>
           <v-layout align-center justify-center column>
             <span v-for="variations in item.variations" :key="variations"> {{ variations }} </span>
           </v-layout>
         </div>
         <!-- Exercise Alternatives -->
         <div v-if="item.alternatives" class="my-4">
-          <h4 class="text-center text-h6 text-decoration-underline">Alternative Exercises</h4>
+          <h4 class="text-center text-h6 text-decoration-underline">
+            Alternative Exercises
+          </h4>
           <v-layout align-center justify-center wrap>
-            <v-btn v-for="alternatives in item.alternatives" :key="alternatives" elevation="0" @click="selectExercise" class="ma-1">
+            <v-btn v-for="alternatives in item.alternatives" :key="alternatives" elevation="0" class="ma-1" @click="selectExercise">
               <span>{{ alternatives }}</span>
             </v-btn>
           </v-layout>

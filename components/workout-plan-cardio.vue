@@ -3,7 +3,7 @@
     <v-card-subtitle class="text-h5">
       Cardio
     </v-card-subtitle>
-    <save-workout-button :workout="exercise" :type="type" :duration="duration" :interval="interval"/>
+    <save-workout-button :workout="exercise" :type="type" :duration="duration" :interval="interval" />
     <v-card-text>
       <v-row class="d-sm-none">
         <v-col align="center" cols="12" class="plan-border">

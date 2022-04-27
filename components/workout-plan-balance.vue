@@ -3,7 +3,7 @@
     <v-card-subtitle class="text-h5">
       Balance
     </v-card-subtitle>
-    <save-workout-button :workout="balanceExercises" :type="type" :duration="duration" :sets="sets"/>
+    <save-workout-button :workout="balanceExercises" :type="type" :duration="duration" :sets="sets" />
     <v-card-text>
       <v-row class="d-sm-none">
         <v-col v-for="exercise in balance" :key="exercise" align="center" cols="12" class="plan-border">

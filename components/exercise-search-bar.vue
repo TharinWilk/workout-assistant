@@ -10,8 +10,8 @@
       clearable
     />
     <!-- Output Field -->
-      <v-list v-show="filteredExercises">
-        <v-card v-for="exercise in filteredExercises" :key="exercise.name" @click="selectExercise">
+    <v-list v-show="filteredExercises">
+      <v-card v-for="exercise in filteredExercises" :key="exercise.name" @click="selectExercise">
         <v-list-item>
           <v-list-item-content>
             <v-list-item-title>
@@ -19,14 +19,19 @@
             </v-list-item-title>
           </v-list-item-content>
         </v-list-item>
-        </v-card>
-      </v-list>
+      </v-card>
+    </v-list>
   </v-container>
 </template>
 
 <script>
 export default {
-  props: ['exercises'],
+  props: {
+    exercises: {
+      type: Object,
+      default: null
+    }
+  },
   data () {
     return {
       search: ''

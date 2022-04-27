@@ -124,7 +124,6 @@ export default {
             const power = options.filter((item) => {
               return item.tags.includes('Power')
             })
-            console.log(power)
             if (power.length > 0) {
               options = options.filter((item) => {
                 return item.tags.includes('Power')
@@ -148,7 +147,6 @@ export default {
             const power = options.filter((item) => {
               return item.tags.includes('Power')
             })
-            console.log(power)
             if (power.length > 0) {
               options = options.filter((item) => {
                 return item.tags.includes('Power')

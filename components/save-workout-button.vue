@@ -9,7 +9,36 @@
 
 <script>
 export default {
-  props: ['workout', 'type', 'reps', 'sets', 'rest', 'intervals', 'duration'],
+  props: {
+    exercises: {
+      type: Object,
+      default: null
+    },
+    type: {
+      type: String,
+      default: null
+    },
+    reps: {
+      type: String,
+      default: null
+    },
+    sets: {
+      type: String,
+      default: null
+    },
+    rest: {
+      type: String,
+      default: null
+    },
+    intervals: {
+      type: String,
+      default: null
+    },
+    duration: {
+      type: String,
+      default: null
+    }
+  },
   data () {
     return {
       btn: 'Save Workout'
@@ -34,7 +63,6 @@ export default {
       }
       const newName = prompt('Enter workout name')
       newWorkout.workoutName = newName
-      console.log(newWorkout.workout)
       this.$store.dispatch('addNewWorkout', newWorkout)
     }
   }

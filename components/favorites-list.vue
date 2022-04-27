@@ -28,7 +28,12 @@
 import { mapGetters } from 'vuex'
 
 export default {
-  props: ['exercises'],
+  props: {
+    exercises: {
+      type: Object,
+      default: null
+    }
+  },
   computed: {
     ...mapGetters({
       favorites: 'favorites'
