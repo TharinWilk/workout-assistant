@@ -44,10 +44,8 @@ export const state = () => ({
     resistance: null
   },
   savedWorkouts: [
-    { workoutName: 'Agility Ladder Workout', workout: ['Agility Ladder Run', 'Agility Ladder High Knees', 'Agility Ladder Side Shuffle', 'Agility Ladder Hop', 'Agility Ladder In Out', 'Agility Ladder Ali Shuffle', 'Agility Ladder Icky Shuffle'], date: '4/27/2022, 4:05:32 PM', type: 'Agility', fitness: 'Beginner', intensity: null, goal: null, sets: '1-3' },
-    { workoutName: 'Upper body workout for muscular endurance', workout: ['Cable Chest Press', 'Military Press', 'Cable Row', 'Pull-up', 'Barbell Bicep Curl', 'Dips'], date: '4/27/2022, 4:06:07 PM', type: 'Resistance', fitness: 'Beginner', intensity: null, goal: null, reps: '12 - 16', sets: '2 - 3', rest: '30 - 60 sec' },
-    { workoutName: 'Yoga Balance Routine', workout: ['Mountain Pose', 'Warrior Pose', 'Triangle Pose', 'Crescent Lunge', 'Tree Pose', 'Chair Pose', 'Dancer Pose'], date: '4/27/2022, 4:06:46 PM', type: 'Balance', fitness: 'Beginner', intensity: null, goal: null, sets: '1-3 sets', duration: '30-90 sec' }
-  ]
+  ],
+  username: null
 })
 
 export const mutations = {
@@ -102,6 +100,9 @@ export const mutations = {
       }
     })
   },
+  changeUser (state, payload) {
+    state.username = payload
+  },
   resetWorkoutPlan (state) {
     state.workout.active = false
     state.workout.agility = null
@@ -116,6 +117,9 @@ export const mutations = {
 export const actions = {
   addNewWorkout (context, payload) {
     context.commit('addWorkout', payload)
+  },
+  changeUsername (context, payload) {
+    context.commit('changeUser', payload)
   },
   selectedExercise (context, payload) {
     context.commit('changeExercise', payload)

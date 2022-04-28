@@ -1,6 +1,6 @@
 <template>
   <v-container>
-    <v-form v-model="valid">
+    <v-form>
       <v-card min-width="320px" flat>
         <v-row>
           <v-col
@@ -9,7 +9,6 @@
           >
             <v-text-field
               v-model="email"
-              :rules="emailRules"
               placeholder="E-mail"
               autofocus
               dense
@@ -22,7 +21,6 @@
           >
             <v-text-field
               v-model="password"
-              :rules="passwordRules"
               placeholder="Password"
               dense
               required
@@ -30,7 +28,7 @@
           </v-col>
         </v-row>
         <v-row justify="space-around" align="center" align-content="center">
-          <v-btn small>
+          <v-btn small @click="changeUsername">
             Submit
           </v-btn>
           <a href="#" class="text-decoration-none">Forgot Password</a>
@@ -42,5 +40,16 @@
 
 <script>
 export default {
+  data () {
+    return {
+      email: '',
+      password: ''
+    }
+  },
+  methods: {
+    changeUsername () {
+      this.$store.dispatch('changeUsername', this.email)
+    }
+  }
 }
 </script>

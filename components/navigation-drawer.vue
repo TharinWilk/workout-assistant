@@ -32,7 +32,6 @@
 export default {
   data () {
     return {
-      user: null,
       accountLinks: [
         { icon: 'mdi-home', text: 'Home', route: '/' },
         { icon: 'mdi-view-dashboard', text: 'My Workouts', route: '/account-pages/my-workouts' },
@@ -46,10 +45,10 @@ export default {
   },
   computed: {
     userName () {
-      if (!this.user) {
+      if (!this.$store.state.username) {
         return 'Guest'
       } else {
-        return this.user
+        return this.$store.state.username
       }
     }
   }

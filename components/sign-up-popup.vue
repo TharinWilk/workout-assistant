@@ -1,6 +1,6 @@
 <template lang="html">
   <v-container>
-    <v-form v-model="valid">
+    <v-form>
       <v-card min-width="320px" flat>
         <v-row>
           <v-col
@@ -8,8 +8,7 @@
             class="py-2"
           >
             <v-text-field
-              v-model="firstname"
-              :rules="nameRules"
+              v-model="firstName"
               label="First name"
               autofocus
               dense
@@ -21,8 +20,7 @@
             class="py-2"
           >
             <v-text-field
-              v-model="lastname"
-              :rules="nameRules"
+              v-model="lastName"
               label="Last name"
               dense
               required
@@ -34,7 +32,6 @@
           >
             <v-text-field
               v-model="email"
-              :rules="emailRules"
               label="E-mail"
               dense
               required
@@ -46,7 +43,6 @@
           >
             <v-text-field
               v-model="password"
-              :rules="passwordRules"
               label="Passowrd"
               dense
               required
@@ -54,7 +50,7 @@
           </v-col>
         </v-row>
         <v-row justify="space-around" align="center" align-content="center">
-          <v-btn small>
+          <v-btn small @click="changeUsername">
             Submit
           </v-btn>
         </v-row>
@@ -65,5 +61,18 @@
 
 <script>
 export default {
+  data () {
+    return {
+      firstName: '',
+      lastName: '',
+      email: '',
+      password: ''
+    }
+  },
+  methods: {
+    changeUsername () {
+      this.$store.dispatch('changeUsername', this.email)
+    }
+  }
 }
 </script>
