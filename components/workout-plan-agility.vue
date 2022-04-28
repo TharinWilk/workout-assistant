@@ -6,7 +6,7 @@
     <save-workout-button :workout="exercises" :type="type" :sets="exerciseIntensity" />
     <v-card-text>
       <v-row class="d-sm-none">
-        <v-col v-for="exercise in agilityExercises" :key="exercise" align="center" cols="12" class="plan-border">
+        <v-col v-for="exercise in agilityExercises" :key="exercise.name" align="center" cols="12" class="plan-border">
           <span>Exercise: {{ exercise.name }}</span>
           <v-row dense>
             <v-col cols="12">
@@ -23,7 +23,7 @@
             </v-col>
           </v-row>
           <v-row>
-            <v-col v-for="exercise in agilityExercises" :key="exercise" align="start" cols="12" class="plan-border">
+            <v-col v-for="exercise in agilityExercises" :key="exercise.name" align="start" cols="12" class="plan-border">
               {{ exercise.name }}
             </v-col>
           </v-row>
@@ -35,13 +35,14 @@
             </v-col>
           </v-row>
           <v-row>
-            <v-col v-for="exercise in agilityExercises" :key="exercise" align="center" cols="12" class="plan-border">
+            <v-col v-for="exercise in agilityExercises" :key="exercise.name" align="center" cols="12" class="plan-border">
               {{ exerciseIntensity }}
             </v-col>
           </v-row>
         </v-col>
       </v-row>
     </v-card-text>
+    <button @click="test" name="button">here</button>
   </v-card>
 </template>
 
@@ -98,6 +99,11 @@ export default {
         return exercise.name
       })
       return exercises
+    }
+  },
+  methods: {
+    test () {
+      console.log(typeof this.agilityExercises[0].name)
     }
   }
 }

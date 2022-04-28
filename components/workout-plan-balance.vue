@@ -6,7 +6,7 @@
     <save-workout-button :workout="balanceExercises" :type="type" :duration="duration" :sets="sets" />
     <v-card-text>
       <v-row class="d-sm-none">
-        <v-col v-for="exercise in balance" :key="exercise" align="center" cols="12" class="plan-border">
+        <v-col v-for="exercise in balance" :key="exercise.name" align="center" cols="12" class="plan-border">
           <span>Exercise: {{ exercise.name }}</span>
           <v-row dense>
             <v-col align="center" cols="12">
@@ -38,7 +38,7 @@
             </v-col>
           </v-row>
           <v-row>
-            <v-col v-for="exercise in balance" :key="exercise" align="center" cols="12" class="plan-border">
+            <v-col v-for="exercise in balance" :key="exercise.name" align="center" cols="12" class="plan-border">
               {{ duration }}
             </v-col>
           </v-row>
@@ -50,7 +50,7 @@
             </v-col>
           </v-row>
           <v-row>
-            <v-col v-for="exercise in balance" :key="exercise" align="center" cols="12" class="plan-border">
+            <v-col v-for="exercise in balance" :key="exercise.name" align="center" cols="12" class="plan-border">
               {{ sets }}
             </v-col>
           </v-row>

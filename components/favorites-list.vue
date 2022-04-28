@@ -1,11 +1,11 @@
 <template lang="html">
   <v-container>
     <v-list v-if="favorites.length > -1">
-      <v-list-title class="">
+      <v-list-item-title class="">
         <h2 class="text-h4 text-center py-2">
           My Favorites
         </h2>
-      </v-list-title>
+      </v-list-item-title>
       <v-card v-for="item in favorites" :key="item" class="my-1">
         <v-list-item>
           <v-list-item-content v-text="exercises[item].name" />

@@ -10,7 +10,7 @@
 <script>
 export default {
   props: {
-    exercises: {
+    workout: {
       type: Array,
       default: null
     },

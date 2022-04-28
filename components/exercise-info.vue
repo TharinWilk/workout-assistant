@@ -15,10 +15,6 @@
         </h2>
       </v-card-title>
       <v-card-text>
-        <!-- Exercise Intensity -->
-        <p v-if="item.intensity">
-          Intensity Level: {{ item.intensity }}
-        </p>
         <!-- Exercise Img -->
         <v-img
           v-if="item.img"

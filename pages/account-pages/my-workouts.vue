@@ -19,9 +19,9 @@
                     <v-list-item-subtitle>
                       {{ workout.type }}
                     </v-list-item-subtitle>
-                    <v-list-item-text>
+                    <v-list-item-subtitle>
                       {{ workout.date }}
-                    </v-list-item-text>
+                    </v-list-item-subtitle>
                   </v-list-item-content>
                 </v-list-item>
               </template>
@@ -52,6 +52,7 @@
         </template>
       </v-list>
     </v-container>
+    {{ savedWorkouts }}
   </article>
 </template>
 
