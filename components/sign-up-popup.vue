@@ -3,6 +3,7 @@
     <v-form>
       <v-card min-width="320px" flat>
         <v-row>
+          <!-- First Name -->
           <v-col
             cols="12"
             class="py-2"
@@ -15,6 +16,7 @@
               required
             />
           </v-col>
+          <!-- Last Name -->
           <v-col
             cols="12"
             class="py-2"
@@ -26,6 +28,7 @@
               required
             />
           </v-col>
+          <!-- Email -->
           <v-col
             cols="12"
             class="py-2"
@@ -37,6 +40,7 @@
               required
             />
           </v-col>
+          <!-- Passowrd -->
           <v-col
             cols="12"
             class="py-2"
@@ -49,6 +53,7 @@
             />
           </v-col>
         </v-row>
+        <!-- Submit Button -->
         <v-row justify="space-around" align="center" align-content="center">
           <v-btn small @click="changeUsername">
             Submit

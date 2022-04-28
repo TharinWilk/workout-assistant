@@ -103,6 +103,9 @@ export const mutations = {
   changeUser (state, payload) {
     state.username = payload
   },
+  logout (state) {
+    state.username = null
+  },
   resetWorkoutPlan (state) {
     state.workout.active = false
     state.workout.agility = null
@@ -120,6 +123,9 @@ export const actions = {
   },
   changeUsername (context, payload) {
     context.commit('changeUser', payload)
+  },
+  logoutUser (context) {
+    context.commit('logout')
   },
   selectedExercise (context, payload) {
     context.commit('changeExercise', payload)

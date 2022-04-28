@@ -1,11 +1,14 @@
 <template lang="html">
   <section>
+    <!-- Page Title -->
     <v-card class="py-10 grey darken-4" dark>
       <h1 class="text-center text-h2 font-weight-bold">
         Mobility Exercises
       </h1>
     </v-card>
+    <!-- Exercise info Component -->
     <exercise-info />
+    <!-- Mobility Exercise List and Selector -->
     <v-container class="my-4">
       <v-card elevation="10 rounded-lg">
         <v-card-title>

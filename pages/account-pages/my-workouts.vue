@@ -1,11 +1,14 @@
 <template lang="html">
   <article class="">
+    <!-- Page Title -->
+    <v-card class="py-10 grey darken-4" dark>
+      <h1 class="text-center text-h2 font-weight-bold">
+        My Workouts
+      </h1>
+    </v-card>
+    <!-- Saved Workouts -->
     <v-container>
-      <v-card class="py-10 grey darken-4" dark>
-        <h1 class="text-center text-h2 font-weight-bold">
-          My Workouts
-        </h1>
-      </v-card>
+      <!-- Workout List Layout -->
       <v-list three-line>
         <template v-for="workout in savedWorkouts">
           <v-card :key="workout.workoutName" class="my-2">
@@ -25,6 +28,7 @@
                   </v-list-item-content>
                 </v-list-item>
               </template>
+              <!-- Workout Details -->
               <v-row v-for="exercise in workout.workout" :key="exercise">
                 <v-col align="center" cols="12" class="plan-border">
                   <span class="font-weight-bold">Exercise: {{ exercise }}</span>
@@ -52,7 +56,6 @@
         </template>
       </v-list>
     </v-container>
-    {{ savedWorkouts }}
   </article>
 </template>
 
@@ -67,6 +70,3 @@ export default {
   }
 }
 </script>
-
-<style lang="css">
-</style>

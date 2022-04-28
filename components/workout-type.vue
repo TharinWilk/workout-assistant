@@ -1,8 +1,10 @@
 <template lang="html">
   <v-expansion-panel>
+    <!-- Header -->
     <v-expansion-panel-header>
       Choose your Workout
     </v-expansion-panel-header>
+    <!-- Exercise Type List -->
     <v-expansion-panel-content>
       <v-list max-width="300px" class="mx-auto" flat>
         <v-list-item v-for="box in boxes" :key="box.name" @click="box.checked = !box.checked; changeWorkoutFilters()">

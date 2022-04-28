@@ -1,10 +1,14 @@
 <template lang="html">
   <v-card flat class="mx-auto" width="90%">
+    <!-- Workout Plan Subtitle -->
     <v-card-subtitle class="text-h5">
       Resistance
     </v-card-subtitle>
+    <!-- Save Workout Button Component -->
     <save-workout-button :workout="resistanceExercises" :type="type" :reps="reps" :sets="sets" :rest="rest" />
+    <!-- Workout Plan -->
     <v-card-text>
+      <!-- Phone Device Layout -->
       <v-row class="d-sm-none">
         <v-col v-for="exercise in resistanceExercises" :key="exercise" align="center" cols="12" class="plan-border">
           <span>Exercise: {{ exercise }}</span>
@@ -21,6 +25,7 @@
           </v-row>
         </v-col>
       </v-row>
+      <!-- Tablet and Larger Device Layout -->
       <v-row class="d-none d-sm-flex">
         <v-col cols="6">
           <v-row>

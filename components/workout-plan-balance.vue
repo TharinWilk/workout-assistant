@@ -1,10 +1,14 @@
 <template lang="html">
   <v-card flat class="mx-auto" width="90%">
+    <!-- Workout Plan Subtitle -->
     <v-card-subtitle class="text-h5">
       Balance
     </v-card-subtitle>
+    <!-- Save Workout Button Component -->
     <save-workout-button :workout="balanceExercises" :type="type" :duration="duration" :sets="sets" />
+    <!-- Workout Plan -->
     <v-card-text>
+      <!-- Phone Device Layout -->
       <v-row class="d-sm-none">
         <v-col v-for="exercise in balance" :key="exercise.name" align="center" cols="12" class="plan-border">
           <span>Exercise: {{ exercise.name }}</span>
@@ -18,6 +22,7 @@
           </v-row>
         </v-col>
       </v-row>
+      <!-- Tablet and Larger Device Layout -->
       <v-row class="d-none d-sm-flex">
         <v-col cols="6">
           <v-row>
@@ -81,7 +86,6 @@ export default {
       })
       return exercises
     }
-    // Possibly add difference for low, Moderate, and high intensity to the number of balance exercises. Low = 4, moderate = 8, high = 12
   }
 }
 </script>

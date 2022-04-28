@@ -1,15 +1,19 @@
 <template lang="html">
   <v-expansion-panel>
+    <!-- Header -->
     <v-expansion-panel-header>
       Additional Filters
     </v-expansion-panel-header>
     <v-expansion-panel-content>
+      <!-- Filter List -->
       <v-list>
         <v-list-item v-for="filter in filters" :key="filter.category">
           <v-list-item-content>
+            <!-- Filter Categories -->
             <v-list-item-title>
               {{ filter.category }}
             </v-list-item-title>
+            <!-- Filter Category Lists -->
             <v-list-item-group multiple>
               <v-list-item v-for="items in filter.filters" :key="items.name" @click="items.checked = !items.checked">
                 <template v-if="items">

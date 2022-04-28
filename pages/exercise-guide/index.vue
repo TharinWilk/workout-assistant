@@ -1,7 +1,10 @@
 <template lang="html">
   <article class="">
+    <!-- Exercise Search Bar Component-->
     <exercise-search-bar :exercises="exercises" />
+    <!-- Exercise Info Component -->
     <exercise-info />
+    <!-- Exercise Category Links -->
     <v-container>
       <h2>Exercise categories</h2>
       <v-row class="flex flex-wrap">

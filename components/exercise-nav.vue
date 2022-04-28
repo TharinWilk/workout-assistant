@@ -1,5 +1,6 @@
 <template lang="html">
   <nav>
+    <!-- Exercise Category Navbar -->
     <v-toolbar dense class="mt-13 d-flex justify-center">
       <v-sheet max-width="100vw" class="d-block d-sm-none">
         <v-slide-group show-arrows>

@@ -1,5 +1,6 @@
 <template lang="html">
   <v-list>
+    <!-- User Links -->
     <v-list-group :value="true" prepend-icon="mdi-account-circle">
       <template #activator>
         <v-list-item-title :v-model="userName">
@@ -17,6 +18,7 @@
         </v-list-item-content>
       </v-list-item>
     </v-list-group>
+    <!-- Navigation Links -->
     <v-list-item v-for="link in pageLinks" :key="link.route" router :to="link.route">
       <v-list-item-action>
         <v-icon>{{ link.icon }}</v-icon>
@@ -54,6 +56,3 @@ export default {
   }
 }
 </script>
-
-<style lang="css" scoped>
-</style>

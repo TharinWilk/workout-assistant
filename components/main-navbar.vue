@@ -1,24 +1,17 @@
 <template lang="html">
   <nav>
     <v-app-bar hide-on-scroll app flat clipped-left height="56px">
+      <!-- Left Side Nav -->
       <v-app-bar-nav-icon @click="drawerIsOpen = !drawerIsOpen" />
       <v-app-bar-title class="d-none d-sm-flex text-no-wrap">
         <span class="text-no-wrap">Workout Assistant</span>
       </v-app-bar-title>
       <v-spacer />
-      <v-text-field
-        outlined
-        placeholder="Search Exercises"
-        rounded
-        prepend-inner-icon="mdi-magnify"
-        clearable
-        dense
-        height="32px"
-        class="d-none d-md-flex mt-6"
-      />
-      <v-spacer />
+      <!-- Right Side Nav -->
       <div v-if="!user">
+        <!-- Login Button -->
         <v-menu
+          v-if="!this.$store.state.username"
           :close-on-content-click="loginOpen"
           max-width="400px"
           nudge-bottom="46px"
@@ -32,7 +25,9 @@
             <login-popup />
           </v-list>
         </v-menu>
+        <!-- Sign-up Button -->
         <v-menu
+        v-if="!this.$store.state.username"
           :close-on-content-click="loginOpen"
           max-width="400px"
           nudge-bottom="46px"
@@ -47,10 +42,16 @@
           </v-list>
         </v-menu>
       </div>
-      <div v-if="user" class="pr-4">
-        <span>Welcome {{ user }}</span>
+      <!-- Welcome Banner -->
+      <div v-if="this.$store.state.username" class="pr-4">
+        <span>Welcome {{ this.$store.state.username }}</span>
       </div>
+      <!-- Logout Button -->
+      <v-btn v-if="this.$store.state.username" @click="logoutUser">
+        Logout
+      </v-btn>
     </v-app-bar>
+    <!-- Navigation Side Drawer -->
     <v-navigation-drawer
       v-model="drawerIsOpen"
       clipped
@@ -79,6 +80,11 @@ export default {
       } else {
         return this.user
       }
+    }
+  },
+  methods: {
+    logoutUser () {
+      this.$store.dispatch('logoutUser')
     }
   }
 }

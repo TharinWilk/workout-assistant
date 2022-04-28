@@ -5,7 +5,9 @@
         Favorited Exercises
       </h1>
     </v-card>
+    <!-- Favorites List Component -->
     <favorites-list :exercises="exercises" />
+    <!-- Favorite Selector Component -->
     <favorites-selector :exercises="exercises" />
   </article>
 </template>

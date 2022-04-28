@@ -1,16 +1,12 @@
 <template lang="html">
   <article class="">
-    <!-- workout calander / tracker -->
-    <!-- favorites list -->
-    <!-- links to generator -->
-    <!-- links to exercise guide -->
-    <!-- Quick builder -->
-    <!--  -->
+    <!-- Page Title -->
     <v-container>
       <h1 class="text-center text-h3 font-weight-bold">
         Welcome
       </h1>
     </v-container>
+    <!-- Page Links -->
     <v-container>
       <v-row>
         <v-col

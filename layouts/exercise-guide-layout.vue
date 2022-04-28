@@ -8,8 +8,3 @@
     <footer-component />
   </v-app>
 </template>
-
-<script>
-export default {
-}
-</script>

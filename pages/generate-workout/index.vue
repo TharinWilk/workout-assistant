@@ -1,14 +1,18 @@
 <template lang="html">
   <article class="">
+    <!-- Page Title -->
     <v-card class="py-10 grey darken-4" dark>
       <h1 class="text-center text-h2 font-weight-bold">
         Workout Generator
       </h1>
     </v-card>
     <v-layout justify-center column align-center>
+      <!-- Generator -->
       <v-container>
+        <!-- Generate Selectors -->
         <v-sheet max-width="300px" class="mx-auto">
           <v-expansion-panels accordion hover>
+            <!-- Workout Selector Components -->
             <workout-type />
             <workout-fitness-level />
             <workout-intensity />
@@ -16,10 +20,12 @@
             <workout-filters />
           </v-expansion-panels>
         </v-sheet>
+        <!-- Generate Button -->
         <v-btn max-width="200px" class="my-5 d-block mx-auto" @click="generateWorkout">
           Generate Workout
         </v-btn>
       </v-container>
+      <!-- Workout Plan Component -->
       <workout-plan v-if="workout" class="my-5 pb-6" />
     </v-layout>
   </article>

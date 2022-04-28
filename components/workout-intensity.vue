@@ -1,9 +1,11 @@
 <template lang="html">
   <v-expansion-panel>
+    <!-- Header -->
     <v-expansion-panel-header>
       Intensity Level
     </v-expansion-panel-header>
     <v-expansion-panel-content>
+      <!-- Intensity List -->
       <v-list>
         <v-list-item-group>
           <v-list-item v-for="level in levels" :key="level" @click="changeWorkoutIntensity">

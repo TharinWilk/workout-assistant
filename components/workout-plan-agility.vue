@@ -1,10 +1,14 @@
 <template lang="html">
   <v-card flat class="mx-auto" width="90%">
+    <!-- Workout Plan Subtitle -->
     <v-card-subtitle class="text-h5">
       Agility
     </v-card-subtitle>
+    <!-- Save Workout Button Component -->
     <save-workout-button :workout="exercises" :type="type" :sets="exerciseIntensity" />
+    <!-- Workout Plan -->
     <v-card-text>
+      <!-- Phone Device Layout -->
       <v-row class="d-sm-none">
         <v-col v-for="exercise in agilityExercises" :key="exercise.name" align="center" cols="12" class="plan-border">
           <span>Exercise: {{ exercise.name }}</span>
@@ -15,6 +19,7 @@
           </v-row>
         </v-col>
       </v-row>
+      <!-- Tablet and Larger Device Layout -->
       <v-row class="d-none d-sm-flex">
         <v-col cols="8">
           <v-row>
@@ -42,7 +47,6 @@
         </v-col>
       </v-row>
     </v-card-text>
-    <button @click="test" name="button">here</button>
   </v-card>
 </template>
 
@@ -99,11 +103,6 @@ export default {
         return exercise.name
       })
       return exercises
-    }
-  },
-  methods: {
-    test () {
-      console.log(typeof this.agilityExercises[0].name)
     }
   }
 }

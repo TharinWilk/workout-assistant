@@ -1,9 +1,11 @@
 <template lang="html">
   <v-expansion-panel>
+    <!-- Header -->
     <v-expansion-panel-header>
       Fitness Goal
     </v-expansion-panel-header>
     <v-expansion-panel-content>
+      <!-- Fitness Goal List -->
       <v-list>
         <v-list-item-group>
           <v-list-item v-for="goal in goals" :key="goal.name" @click="changeWorkoutGoal">
