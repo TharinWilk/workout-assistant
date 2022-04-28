@@ -55,11 +55,11 @@ export default {
           ]
         },
         {
-          text: 'variations',
+          text: 'Variations',
           value: 'variations'
         },
         {
-          text: 'tags',
+          text: 'Tags',
           value: 'tags',
           align: 'start'
         }
