@@ -4,6 +4,11 @@ export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
 
+  // router base for deployment
+  router: {
+    base: '/workout-assistant/'
+  },
+
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     titleTemplate: '%s - workout-assistant',
